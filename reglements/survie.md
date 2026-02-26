@@ -9,7 +9,7 @@ meta:
 
 # Règlement général du Serveur
 
-Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce présent règlement comporte toutes les règles en vigueur sur le Serveur.
+Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce règlement comporte toutes les règles en vigueur sur le Serveur.
 
 !!!info Information importante
 En utilisant les services d'HeavenCube (serveur Minecraft et Discord), tu acceptes de respecter la totalité des règles ci-dessous.
