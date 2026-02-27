@@ -9,10 +9,10 @@ meta:
 
 # Règlement général du Serveur
 
-Notre objectif est de t'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce règlement comporte toutes les règles en vigueur sur le Serveur.
+Notre objectif est d'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce règlement comporte toutes les règles en vigueur sur le Serveur.
 
 !!!info Information importante
-En utilisant les services d'HeavenCube (serveur Minecraft et Discord), tu acceptes de respecter la totalité des règles ci-dessous.
+En utilisant les services d'HeavenCube (serveur Minecraft et Discord), l'utilisateur accepte de respecter la totalité des règles ci-dessous.
 !!!
 
 ---
@@ -23,7 +23,7 @@ En utilisant les services d'HeavenCube (serveur Minecraft et Discord), tu accept
 Tout utilisateur d'HeavenCube à droit au respect. Les insultes, le harcèlement, la discrimination (comprenant toute forme de racisme, sexisme, homophobie, etc.) ou n'importe quel comportement toxique sont strictement interdits.
 
 ### 2. Contenu inapproprié
-Ton pseudo, ton skin et tes messages ne doivent contenir aucun élément offensant (pornographie, politique, haine, etc.). 
+Le pseudo, skin et messages ne doivent contenir aucun élément offensant (pornographie, politique, haine, etc.). 
 * [!badge variant="warning" text="Skin inapproprié"] : Kick immédiat, avec obligation de changer puis bannissement si récidive.
 * [!badge variant="danger" text="Pseudo inapproprié"] : Bannissement de 30 jours.
 
@@ -33,9 +33,9 @@ La publicité pour d'autres serveurs est interdite (partage d'adresse IP ou bien
 Le spam, flood ou l'utilisation excessive de majuscules dans le chat est également à éviter. Sous peine de sanctions en cas de récidive.
 
 ### 4. Confidentialité
-Ne divulgue jamais d'informations personnelles (adresse postale, nom de famille, téléphone, etc.) d'un autre joueur ou des tiennes, peu importe la raison. C'est une faute grave qui peut avoir de réelles conséquences.
+La divulgation d'informations personnelles (adresse postale, nom de famille, téléphone, etc.) d'un autre joueur ou des tiennes, peu importe la raison est strictement prohibée. C'est une faute grave qui peut avoir de réelles conséquences pour toi ou pour les autres utilisateurs.
 
-Nous ne demanderons à aucun joueur de fournir ses coordonnées personnelles réelles dans le cadre de l’utilisation du serveur de jeu. Une telle collecte d’informations peut seulement intervenir sur la boutique en ligne de HeavenCube, lorsque ces données sont nécessaires au traitement des commandes (livraison, facturation, suivi d’achats).
+HeavenCube ne demandera jamais, sous aucun prétexte, à aucun joueur de fournir ses coordonnées personnelles réelles dans le cadre de l’utilisation du serveur de jeu. Une telle collecte d’informations peut seulement intervenir sur la boutique en ligne de HeavenCube, lorsque ces données sont nécessaires au traitement des commandes (livraison, facturation, suivi d’achats).
 
 ---
 
@@ -54,7 +54,7 @@ Si tu n'es pas sûr si un mod est autorisé, demande d'abord à un membre du sta
 
 ### 2. Fair-play et Économie
 * **Vols et Grief :** Le pillage et la destruction des constructions d'autrui sont interdits.
-* **Arnaques :** Interdiction d'arnaquer les autres joueurs. Utilise la commande `/trade` pour sécuriser tes échanges.
+* **Arnaques :** L'arnaque d'autres joueurs est interdite. Utilise la commande `/trade` pour sécuriser tes échanges avec d'autres joueurs.
 * **Vente IRL :** Il est interdit d'échanger des objets du jeu contre une contrepartie réelle.
 * **Use-bug :** Tout abus d'un bug est interdit, il peut être exposé à des sanctions. Si tu trouves un bug, n'hésite pas à le signaler sur le [Discord](https://heavencube.fr/?ref=social-discord).
 
@@ -73,9 +73,9 @@ Le grief est **toléré** dans le monde récolte. Aucun remboursement ne sera ef
 
 ## :busts_in_silhouette: Gestion des Comptes
 
-* **Multi-comptes :** Tu as le droit à **2 comptes maximum** par joueur.
-* **Connexion simultanée :** Il est interdit d'être connecté avec deux comptes en même temps.
-* **Prêt de compte :** Tu es responsable à 100% de ton compte. Si tu le prêtes et qu'une infraction est commise, le compte sera sanctionné normalement.
+* **Multi-comptes :** Seulement **2 comptes maximum** sont autorisés par joueur.
+* **Connexion simultanée :** Il est interdit d'être connecté avec deux comptes en même temps sur HeavenCube.
+* **Prêt de compte :** Le propriétaire d'un compte en est l'unique responsable. Si un compte est prêté et sanctionné, cela incombe à la responsabilité du propriétaire.
 * **Votes :** Les doubles comptes ne sont pas comptabilisés dans le top vote mensuel.
 
 ---
@@ -85,8 +85,8 @@ Le grief est **toléré** dans le monde récolte. Aucun remboursement ne sera ef
 Le staff veille au respect de ces règles. Voici comment nous fonctionnons :
 
 1. **Avertissement :** Un message type `/msg` ou `/mail` provenant du **Staff** compte comme un avertissement.
-2. **Kick :** Une expulsion du serveur est enregistrée dans ton casier, visible par l'équipe de modération.
-3. **Bannissement :** Pour les fautes graves ou les récidives. Nous n'avons pas d'obligation de t'avertir avant un bannissement.
+2. **Kick :** Une expulsion du serveur est enregistrée dans le casier des sanctions du joueur, visible par l'équipe de modération.
+3. **Bannissement :** Pour les fautes graves ou les récidives. Nous n'avons pas d'obligation d'avertir un joueur avant un bannissement.
 
 !!!success Contestation
 Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https://heavencube.fr/?ref=social-discord)**.
