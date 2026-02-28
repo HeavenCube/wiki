@@ -4,9 +4,9 @@ icon: repo
 order: 0
 meta:
   title: "Comment créer un clan ?"
-  description: "Page descriptive sur la procédure pour créer un clan sur HeavenCube."
+  description: "Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan."
 ---
-# Comment créer un clan ? [!badge variant="info" text="Tutoriel"]
+# Comment créer un clan ? [!badge variant="info" size="xl" text="Tutoriel"]
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
