@@ -98,3 +98,5 @@ Si tu penses qu'une sanction est injuste, ouvre un **[Ticket sur Discord](https:
 !!!danger Mise à jour du règlement
 Ce présent règlement peut être modifié à tout moment et sans préavis. N'hésite pas à le consulter régulièrement et reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
+
+> Dernière mise à jour : 28/02/2026
