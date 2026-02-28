@@ -6,7 +6,7 @@ meta:
   title: "Comment créer un clan ?"
   description: "Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan."
 ---
-# Comment créer un clan ? [!badge variant="info" size="xl" text="Tutoriel"]
+# Comment créer un clan ? [!badge variant="info" variant="light" size="xl" text="Tutoriel"]
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
@@ -20,6 +20,8 @@ Le système de clans dans son ensemble est très complexe. C'est pourquoi, ce gu
 
 Pour commencer, grâce à la commande `/clan create <nom du clan>`, cela te permettra de créer ton clan. Cette commande va claim le chunk où tu te trouve. C'est-à-dire que personne à part toi ne pourras construire, casser de blocs, ouvrir de coffres, etc. 
 
-!!!warning 
-Attention, la commande de création de clan ne peut être exécutée qu'uniquement dans le monde Survie.
+!!!warning Attention
+Détail important, la commande de création de clan ne peut être exécutée qu'uniquement dans le monde Survie.
 !!!
+
+![](/assets/images/tuto-creer_son_clan.png)
