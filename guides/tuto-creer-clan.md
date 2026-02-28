@@ -18,4 +18,8 @@ Ce guide aura pour but de vous aiguiller de manière simple afin de comprendre f
 Le système de clans dans son ensemble est très complexe. C'est pourquoi, ce guide restera basique afin de le présenter de manière claire. Si tu souhaites en apprendre plus, nous te laissons la possibilité de demander aux staffs qui pourront aider davantage sur la gestion plus complexe du système.
 !!!
 
-Tout d'abord, les clans ne peuvent être créés qu'uniquement en monde Survie.
+Pour commencer, grâce à la commande `/clan create <nom du clan>`, cela te permettra de créer ton clan. Cette commande va claim le chunk où tu te trouve. C'est-à-dire que personne à part toi ne pourras construire, casser de blocs, ouvrir de coffres, etc. 
+
+!!!warning 
+Attention, la commande de création de clan ne peut être exécutée qu'uniquement dans le monde Survie.
+!!!
