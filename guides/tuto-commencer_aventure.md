@@ -6,7 +6,7 @@ meta:
   title: "Comment commencer mon aventure ?"
   description: "Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au maximum !"
 ---
-# Comment commencer mon aventure ? [!badge variant="info" variant="light" size="xl" text="Informations"]
+# Comment commencer mon aventure ? [!badge variant="dark" size="xl" text="Informations"]
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 

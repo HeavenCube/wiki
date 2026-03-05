@@ -7,7 +7,7 @@ meta:
   description: "Prends connaissance des grades joueur du serveur Survie d'HeavenCube."
 ---
 
-# Les grades des joueurs [!badge variant="info" variant="light" size="xl" text="Informations"]
+# Les grades des joueurs [!badge variant="dark" size="xl" text="Informations"]
 
 Notre objectif est d'offrir une expérience de jeu agréable, basée sur le respect, la communication et l'entraide entre joueurs. Ce règlement comporte toutes les règles en vigueur sur le Serveur.
 
