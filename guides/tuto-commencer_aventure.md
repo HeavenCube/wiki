@@ -10,6 +10,8 @@ meta:
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
+---
+
 ## 1. Première arrivée sur le serveur
 
 Commence par rejoindre le serveur avec l'adresse de connexion : `mc.heavencube.fr`
@@ -17,6 +19,8 @@ Commence par rejoindre le serveur avec l'adresse de connexion : `mc.heavencube.f
 ![](/assets/images/tuto-commencer_aventure.png)
 
 Une fois ta première connexion sur le Survie, c'est ici que ton aventure commence avec les autres joueurs !
+
+---
 
 ## 2. Les différents mondes
 
@@ -35,6 +39,8 @@ Il est **impossible de casser dans le monde Survie si la zone n'est pas claim** 
 - **Nether** : Le monde Nether te permettras de récupérer toutes les ressources du Nether que tu souhaites !
 
 - **End** : De même pour le monde End, avec ses nombreuses îles volantes, récupères y tout ce que tu souhaite mais fait attention à ne pas tomber dans le vide !
+
+---
 
 !!!info Information importante
 Les **mondes "récolte"** (Récolte, Nether & End) sont régénérés le premier samedi du mois afin de permettre à tout le monde d'obtenir facilement des ressources de base.
