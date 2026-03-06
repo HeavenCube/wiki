@@ -10,6 +10,12 @@ meta:
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
+[!badge variant="secondary" size="l" text="Difficulté : Très facile"]
+[!badge variant="success" size="l" text="Difficulté : Facile"]
+[!badge variant="warning" size="l" text="Difficulté : Moyen"]
+[!badge variant="danger" size="l" text="Difficulté : Difficile"]
+[!badge variant="contrast" size="l" text="Difficulté : Expert"]
+
 ---
 
 Les **entonnoirs spéciaux** remplacent les entonnoirs "vanilla" en offrant des **transferts sans fil**, une **aspiration d'items à longue portée** et des **améliorations**. Ils sont compatibles avec les contenants vanilla mais également les stockages améliorés. Ils nous permettent de réduire le lag en optimisant les transferts d'items par la même occasion. C'est pourquoi, ces entonnoirs se configurent via un **menu simple sans commandes**.
