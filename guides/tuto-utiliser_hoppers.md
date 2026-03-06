@@ -22,13 +22,16 @@ Obtenez un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce au
 La première étape consiste à simplement **placer l'entonnoir au sol**, proche de là où tu souhaites **aspirer les objets**, depuis les contenants ou au sol, et proches des contenants vers lesquels tu souhaite **acheminer les objets**.
 >>> Ouvre le menu via un clic-gauche
 Pour ouvrir le **menu de gestion** de l'entonnoir spécial, il te suffit de faire un **clic-gauche sur ce dernier**.
-![|600](/assets/images/tuto-utiliser_hopper-menu.png)
->>>
+![|500](/assets/images/tuto-utiliser_hopper-menu.png)
+>>> Gère facilement ton entonnoir
+Grâce à ce menu, tu as accès à différentes options : 
+- Le **rayon d'aspiration** : Distance à laquelle cet entonnoir va pouvoir aspirer les objets au sol.
+- La **quantité d'objets transférés** : Nombre d'objets que l'entonnoir va transférer par seconde aux contenants auxquels il est lié.
+- La **quantité de liaisons** : Le nombre de contenants auxquels il peut être relié.
+- La **distance de liaison** : La distance maximale à laquelle les contenants peuvent être liés
 
-Ce guide aura pour but de vous **aiguiller de manière simple** afin de comprendre facilement comment fonctionne le **système de clans**.
-
-!!!info Information importante
-Le système de clans dans son ensemble est très **complexe**. C'est pourquoi, ce guide restera basique afin de le présenter de manière claire. Si tu souhaites en apprendre plus, nous te laissons la possibilité de demander aux staffs qui pourront aider davantage sur la gestion plus complexe du système.
+!!!tip Conseil
+Grâce au **premier bouton dans le menu de gestion**, tu peux **visualiser la distance** à laquelle l'entonnoir spécial peut **aspirer les objets tombés au sol**.
 !!!
 
 Pour commencer, grâce à la commande `/clan create <nom du clan>`, cela te permettra de **créer ton clan**. Cette commande va **claim le chunk où tu te trouve**. C'est-à-dire que personne à part toi ne pourras construire, casser de blocs, ouvrir de coffres, etc. 
