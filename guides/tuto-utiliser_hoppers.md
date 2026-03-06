@@ -27,6 +27,7 @@ Grâce à ce menu, tu as accès à différentes options :
 - La **quantité d'objets transférés** : Nombre d'objets que l'entonnoir va transférer par seconde aux contenants auxquels il est lié.
 - La **quantité de liaisons** : Le nombre de contenants auxquels il peut être relié.
 - La **distance de liaison** : La distance maximale à laquelle les contenants peuvent être liés
+>>>
 
 !!!tip Conseil
 Grâce au **premier bouton dans le menu de gestion**, tu peux **visualiser la distance** à laquelle l'entonnoir spécial peut **aspirer les objets tombés au sol**.
