@@ -17,17 +17,37 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 
 ==- ![](/assets/images/grade-maraudeur.png)
 ## Avantages :  
-- Accès à 3 homes (/sethome <nom>)
-- Rejoindre 1 métier "principal"
-- Créer 1 clan et le gérer à sa guise
-- Rejoindre 1 clan en temps que membre
-- Claims jusqu'à 20 chunks dans son clan
-- Obtenir les parchemins communs
-- Vendre jusqu'à 3 ressources dans l'hôtel des ventes
-- Créer des shops publics et les gérer librement (/pshop)
+- Accès à **3 homes** (`/sethome <nom>`)
+- Rejoindre **1 métier "principal"**
+- Créer **1 clan** et le gérer à sa guise
+- Rejoindre **1 clan** en temps que membre
+- Claims jusqu'à **20 chunks** dans son clan
+- Vendre jusqu'à **3 ressources** dans l'**hôtel des ventes**
+- Créer des **shops publics** et les gérer librement (`/pshop`)
 
 {.list-icon}
-- :icon-check-circle: Accès à toutes les fonctionnalités de base
+- :icon-check-circle: Accès à toutes les **fonctionnalités de base**
+
+## Avantages :  
+- `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
+- `/playtime` - Afficher son tempos de jeu personnel
+- `/fishingbag` - Accéder au stockage de pêche
+- `/calcul` - Calculer une opération grâce à une commande
+===- ![](/assets/images/grade-moussaillon.png)
+## Avantages :  
+- Accès à **8 homes** (`/sethome <nom>`)
+- Rejoindre **1 métier "secondaire"**
+- Rejoindre jusqu'à **3 clans** en tant que membre
+- Claims jusqu'à **75 chunks** dans son clan
+- Vendre jusqu'à **8 ressources** dans l'**hôtel des ventes**
+- Créer **1 pwarp** et le sponsoriser contre des pièces d'or (`/pwarp`)
+- Utiliser les **raccourcis dans le chat** (`/chatinfo`)
+- Écrire en **couleurs** sur les **pancartes et les livres**
+
+Commandes : 
+`/signcopy` - Copier le texte d'une pancarte en cliquant dessus
+`/signedit` - Modifier le texte d'une pancarte depuis la commande
+`/sit` - S'asseoir sur tous les types de blocs
 ===
 
 ---
