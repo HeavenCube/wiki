@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <meta name="turbo-root" content="/wiki.heavencube.fr">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.1.0.826070347167">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.1.0.826114039880">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.1.0">
@@ -29,12 +29,12 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link id="retype-favicon" rel="icon" href="../../assets/favicons/favicon.ico" />
-    <link href="../../resources/css/retype.css?v=4.1.0.826070347167" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=4.1.0.826114039880" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=4.1.0.826070347167" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.1.0.826114039880" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=4.1.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=4.1.0.826070347167" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.1.0.826070347167" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=4.1.0.826114039880" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.1.0.826114039880" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -260,8 +260,9 @@
     </div>
 </div>
 <hr>
-<doc-panel id="assetsimagesgrade-maraudeurpng" collapsed>
-    <template #title><figure class="content-center">
+<doc-panels>
+   <doc-panel id="assetsimagesgrade-maraudeurpng" collapsed>
+       <template #title><figure class="content-center">
     <img src="../../assets/images/grade-maraudeur.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
     <figcaption class="caption"></figcaption>
 </figure>
@@ -273,19 +274,58 @@
     </h2>
 </doc-anchor-target>
 <ul>
-<li>Accès à 3 homes (/sethome <nom>)</li>
-<li>Rejoindre 1 métier &quot;principal&quot;</li>
-<li>Créer 1 clan et le gérer à sa guise</li>
-<li>Rejoindre 1 clan en temps que membre</li>
-<li>Claims jusqu&#x27;à 20 chunks dans son clan</li>
-<li>Obtenir les parchemins communs</li>
-<li>Vendre jusqu&#x27;à 3 ressources dans l&#x27;hôtel des ventes</li>
-<li>Créer des shops publics et les gérer librement (/pshop)</li>
+<li>Accès à <strong>3 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
+<li>Rejoindre <strong>1 métier &quot;principal&quot;</strong></li>
+<li>Créer <strong>1 clan</strong> et le gérer à sa guise</li>
+<li>Rejoindre <strong>1 clan</strong> en temps que membre</li>
+<li>Claims jusqu&#x27;à <strong>20 chunks</strong> dans son clan</li>
+<li>Vendre jusqu&#x27;à <strong>3 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
+<li>Créer des <strong>shops publics</strong> et les gérer librement (<code translate="no" v-pre>/pshop</code>)</li>
 </ul>
 <ul class="list-icon">
-<li><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M17.28 9.28a.75.75 0 0 0-1.06-1.06l-5.97 5.97-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6.5-6.5Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/></g></g></svg> Accès à toutes les fonctionnalités de base</li>
+<li><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M17.28 9.28a.75.75 0 0 0-1.06-1.06l-5.97 5.97-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6.5-6.5Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/></g></g></svg> Accès à toutes les <strong>fonctionnalités de base</strong></li>
 </ul>
-</doc-panel>
+<doc-anchor-target id="avantages--1">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#avantages--1">#</doc-anchor-trigger>
+        <span>Avantages :</span>
+    </h2>
+</doc-anchor-target>
+<ul>
+<li><code translate="no" v-pre>/protect</code> - Protéger les différents stockages (coffres, tonneaux, shulkers)</li>
+<li><code translate="no" v-pre>/playtime</code> - Afficher son tempos de jeu personnel</li>
+<li><code translate="no" v-pre>/fishingbag</code> - Accéder au stockage de pêche</li>
+<li><code translate="no" v-pre>/calcul</code> - Calculer une opération grâce à une commande</li>
+</ul>
+   </doc-panel>
+   <doc-panel id="assetsimagesgrade-moussaillonpng">
+       <template #title><figure class="content-center">
+    <img src="../../assets/images/grade-moussaillon.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</template>
+<doc-anchor-target id="avantages--2">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#avantages--2">#</doc-anchor-trigger>
+        <span>Avantages :</span>
+    </h2>
+</doc-anchor-target>
+<ul>
+<li>Accès à <strong>8 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
+<li>Rejoindre <strong>1 métier &quot;secondaire&quot;</strong></li>
+<li>Rejoindre jusqu&#x27;à <strong>3 clans</strong> en tant que membre</li>
+<li>Claims jusqu&#x27;à <strong>75 chunks</strong> dans son clan</li>
+<li>Vendre jusqu&#x27;à <strong>8 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
+<li>Créer <strong>1 pwarp</strong> et le sponsoriser contre des pièces d&#x27;or (<code translate="no" v-pre>/pwarp</code>)</li>
+<li>Utiliser les <strong>raccourcis dans le chat</strong> (<code translate="no" v-pre>/chatinfo</code>)</li>
+<li>Écrire en <strong>couleurs</strong> sur les <strong>pancartes et les livres</strong></li>
+</ul>
+<p>Commandes :
+<code translate="no" v-pre>/signcopy</code> - Copier le texte d&#x27;une pancarte en cliquant dessus
+<code translate="no" v-pre>/signedit</code> - Modifier le texte d&#x27;une pancarte depuis la commande
+<code translate="no" v-pre>/sit</code> - S&#x27;asseoir sur tous les types de blocs</p>
+   </doc-panel>
+</doc-panels>
 <hr>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-danger"></div>
