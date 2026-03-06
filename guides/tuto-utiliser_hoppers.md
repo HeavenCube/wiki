@@ -1,18 +1,31 @@
 ---
 label: "Comment utiliser les entonnoirs améliorés ?"
-icon: repo
+icon: filter
 order: 98
 meta:
   title: "Comment créer un clan ?"
   description: "Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos."
 ---
-# Comment utiliser les entonnoirs améliorés ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment utiliser les entonnoirs spéciaux ? [!badge variant="dark" size="xl" text="Tutoriel"]
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
-Créer un clan est l'étape initiale de votre aventure sur le serveur. En effet, un clan vous permet de **sécuriser vos ressources et vos constructions**. Mais vous pouvez faire bien plus ! Créer une ville, y inviter vos amis, les autoriser à réaliser des actions indépendament. 
+---
 
-Ce guide aura pour but de vous aiguiller de manière simple afin de comprendre facilement comment fonctionne le **système de clans**.
+Les **entonnoirs spéciaux** remplacent les entonnoirs "vanilla" en offrant des **transferts sans fil**, une **aspiration d'items à longue portée** et des **améliorations**. Ils sont compatibles avec les contenants vanilla mais également les stockages améliorés. Ils nous permettent de réduire le lag en optimisant les transferts d'items par la même occasion. C'est pourquoi, ces entonnoirs se configurent via un **menu simple sans commandes**.
+
+### 1. Obtention et placement
+
+Obtenez un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce aux différentes caisses ou bien auprès d'un autre joueur. 
+
+>>> Place l'entonnoir au sol
+La première étape consiste à simplement placer l'entonnoir au sol, proche de là où tu souhaites aspirer les objets depuis les contenants ou au sol et proches des contenants vers lesquels tu souhaite acheminer les objets.
+>>> Ouvre le menu via un clic-gauche
+Pour ouvrir le menu de gestion de l'entonnoir spécial, il te suffit de faire un clic-gauche sur ce dernier.
+![](/assets/images/tuto-utiliser_hopper-menu.png)
+>>>
+
+Ce guide aura pour but de vous **aiguiller de manière simple** afin de comprendre facilement comment fonctionne le **système de clans**.
 
 !!!info Information importante
 Le système de clans dans son ensemble est très **complexe**. C'est pourquoi, ce guide restera basique afin de le présenter de manière claire. Si tu souhaites en apprendre plus, nous te laissons la possibilité de demander aux staffs qui pourront aider davantage sur la gestion plus complexe du système.

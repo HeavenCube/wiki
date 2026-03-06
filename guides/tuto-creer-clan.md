@@ -10,6 +10,8 @@ meta:
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
+---
+
 Créer un clan est l'étape initiale de votre aventure sur le serveur. En effet, un clan vous permet de **sécuriser vos ressources et vos constructions**. Mais vous pouvez faire bien plus ! Créer une ville, y inviter vos amis, les autoriser à réaliser des actions indépendament. 
 
 Ce guide aura pour but de vous aiguiller de manière simple afin de comprendre facilement comment fonctionne le **système de clans**.

@@ -12,7 +12,7 @@ meta:
 
 ---
 
-## 1. Première arrivée sur le serveur
+### 1. Première arrivée sur le serveur
 
 Commence par rejoindre le serveur avec l'adresse de connexion : `mc.heavencube.fr`
 
@@ -22,7 +22,7 @@ Une fois ta première connexion sur le Survie, c'est ici que ton aventure commen
 
 ---
 
-## 2. Les différents mondes
+### 2. Les différents mondes
 
 Pour expliquer simplement les choses, il existes plusieurs mondes très utiles : 
 
