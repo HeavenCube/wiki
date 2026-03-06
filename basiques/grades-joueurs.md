@@ -2,7 +2,6 @@
 label: "Les grades"
 icon: accessibility
 order: 1
-date: 2026-03-06
 meta:
   title: "Les grades joueurs"
   description: "Prends connaissance des grades joueur du serveur Survie d'HeavenCube."
@@ -34,6 +33,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/playtime` - Afficher son tempos de jeu personnel
 - `/fishingbag` - Accéder au stockage de pêche
 - `/calcul` - Calculer une opération grâce à une commande
+
 ===- ![](/assets/images/grade-moussaillon.png)
 ## Avantages :  
 - Accès à **8 homes** (`/sethome <nom>`)
@@ -49,6 +49,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/signcopy` - Copier le texte d'une pancarte en cliquant dessus
 - `/signedit` - Modifier le texte d'une pancarte depuis la commande
 - `/sit` - S'asseoir sur tous les types de blocs
+
 ===- ![](/assets/images/grade-matelot.png)
 ## Avantages :  
 - Accès à **15 homes** (`/sethome <nom>`)
@@ -62,6 +63,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/back` - Se téléporter à son dernier point de téléportation
 - `/recipe` - Visualiser la recette de fabrication d'un objet
 - `/pweather` - Modifier sa météo personnelle (*pluie, soleil, etc.*)
+
 ===- ![](/assets/images/grade-lieutenant.png)
 ## Avantages :  
 - Accès à **25 homes** (`/sethome <nom>`)
@@ -76,6 +78,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/ec` - Accéder à son coffre de l'ender directement
 - `/craft` - Ouvrir un établi portatif
 - `/repair` - Réparer l'objet tenu en main (*toutes les 24h*)
+
 ===- ![](/assets/images/grade-capitaine.png)
 ## Avantages :  
 - Accès à **40 homes** (`/sethome <nom>`)
@@ -92,7 +95,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet tenu en main (*toutes les 12h*)
 - `/feed` - Remplir sa barre de faim (*toutes les 10min*)
 - `/near` - Repérer les joueurs présents autour
-===-
+===
 
 ---
 
