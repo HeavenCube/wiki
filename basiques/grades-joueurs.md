@@ -2,6 +2,7 @@
 label: "Les grades"
 icon: accessibility
 order: 1
+date: 2026-03-06
 meta:
   title: "Les grades joueurs"
   description: "Prends connaissance des grades joueur du serveur Survie d'HeavenCube."
@@ -28,7 +29,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 {.list-icon}
 - :icon-check-circle: Accès à toutes les **fonctionnalités de base**
 
-## Avantages :  
+## Commandes :  
 - `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
 - `/playtime` - Afficher son tempos de jeu personnel
 - `/fishingbag` - Accéder au stockage de pêche
@@ -44,11 +45,54 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Utiliser les **raccourcis dans le chat** (`/chatinfo`)
 - Écrire en **couleurs** sur les **pancartes et les livres**
 
-Commandes : 
-`/signcopy` - Copier le texte d'une pancarte en cliquant dessus
-`/signedit` - Modifier le texte d'une pancarte depuis la commande
-`/sit` - S'asseoir sur tous les types de blocs
-===
+## Commandes : 
+- `/signcopy` - Copier le texte d'une pancarte en cliquant dessus
+- `/signedit` - Modifier le texte d'une pancarte depuis la commande
+- `/sit` - S'asseoir sur tous les types de blocs
+===- ![](/assets/images/grade-matelot.png)
+## Avantages :  
+- Accès à **15 homes** (`/sethome <nom>`)
+- Rejoindre **2 métiers "secondaires"**
+- Rejoindre jusqu'à **5 clans** en tant que membre
+- Claims jusqu'à **150 chunks** dans son clan
+- Vendre jusqu'à **15 ressources** dans l'**hôtel des ventes**
+- Écrire en **couleurs** dans les **messages privés**
+
+## Commandes : 
+- `/back` - Se téléporter à son dernier point de téléportation
+- `/recipe` - Visualiser la recette de fabrication d'un objet
+- `/pweather` - Modifier sa météo personnelle (*pluie, soleil, etc.*)
+===- ![](/assets/images/grade-lieutenant.png)
+## Avantages :  
+- Accès à **25 homes** (`/sethome <nom>`)
+- Rejoindre **3 métiers "secondaires"**
+- Rejoindre jusqu'à **8 clans** en tant que membre
+- Claims jusqu'à **250 chunks** dans son clan
+- Vendre jusqu'à **25 ressources** dans l'**hôtel des ventes**
+- Écrire en **couleurs** sur la **description de son pwarp**
+
+## Commandes : 
+- `/condense` - Condenser le contenu de son inventaire
+- `/ec` - Accéder à son coffre de l'ender directement
+- `/craft` - Ouvrir un établi portatif
+- `/repair` - Réparer l'objet tenu en main (*toutes les 24h*)
+===- ![](/assets/images/grade-capitaine.png)
+## Avantages :  
+- Accès à **40 homes** (`/sethome <nom>`)
+- Rejoindre **4 métiers "secondaires"**
+- Rejoindre jusqu'à **106 clans** en tant que membre
+- Claims jusqu'à **500 chunks** dans son clan
+- Vendre jusqu'à **40 ressources** dans l'**hôtel des ventes**
+- Garder son expérience à sa mort
+- Utiliser les **raccourcis dans le chat** (`/chatinfo`)
+- Écrire en **couleurs** dans le **chat public**
+
+## Commandes : 
+- `/lookup` - Observer l'historique des actions effectuées sur un bloc
+- `/repair` - Réparer l'objet tenu en main (*toutes les 12h*)
+- `/feed` - Remplir sa barre de faim (*toutes les 10min*)
+- `/near` - Repérer les joueurs présents autour
+===-
 
 ---
 
@@ -56,4 +100,4 @@ Commandes :
 Ce présent règlement peut être modifié à tout moment et sans préavis. N'hésite pas à le consulter régulièrement et reste attentif aux **Annonces** et aux **Changelogs** sur notre **[Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
 
-> Dernière mise à jour : 28/02/2026
+> Dernière mise à jour : 06/03/2026
