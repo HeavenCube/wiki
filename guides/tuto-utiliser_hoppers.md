@@ -14,9 +14,7 @@ meta:
 
 Les **entonnoirs spéciaux** remplacent les entonnoirs "vanilla" en offrant des **transferts sans fil**, une **aspiration d'items à longue portée** et des **améliorations**. Ils sont compatibles avec les contenants vanilla mais également les stockages améliorés. Ils nous permettent de réduire le lag en optimisant les transferts d'items par la même occasion. C'est pourquoi, ces entonnoirs se configurent via un **menu simple sans commandes**.
 
-### 1. Obtention et placement
-
-Obtenez un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce aux différentes caisses ou bien auprès d'un autre joueur. 
+Obtiens un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce aux différentes caisses ou bien auprès d'un autre joueur. 
 
 >>> Place l'entonnoir au sol
 La première étape consiste à simplement **placer l'entonnoir au sol**, proche de là où tu souhaites **aspirer les objets**, depuis les contenants ou au sol, et proches des contenants vers lesquels tu souhaite **acheminer les objets**.
@@ -34,20 +32,10 @@ Grâce à ce menu, tu as accès à différentes options :
 Grâce au **premier bouton dans le menu de gestion**, tu peux **visualiser la distance** à laquelle l'entonnoir spécial peut **aspirer les objets tombés au sol**.
 !!!
 
-Pour commencer, grâce à la commande `/clan create <nom du clan>`, cela te permettra de **créer ton clan**. Cette commande va **claim le chunk où tu te trouve**. C'est-à-dire que personne à part toi ne pourras construire, casser de blocs, ouvrir de coffres, etc. 
+---
 
-!!!warning Attention
-Détail important, la **commande de création de clan** ne peut être exécutée qu'uniquement dans le **monde Survie**.
-!!!
-
-![](/assets/images/tuto-creer_son_clan.png)
-
-Maintenant que ton clan est créé, tu peux "claim", c'est-à-dire revendiquer une zone, délimitée par un chunk (16x16). La **quantité de chunk** que tu peux claim est **limitée par grade**. Ainsi, c'est le **grade du chef du clan** qui détermine le nombre de claims que le clan peut compter (jusqu'à 500 pour le Capitaine).
-
-Un clan te permet de **protéger une zone** dans laquelle tu souhaites faire ta base, cela évite que quiconque vienne détruire ta maison ou piller tes coffres.
-
-Tu peux également **inviter d'autres joueurs** dans ton clan pour avoir accès à tes coffres, construire, casser, etc. grâce à la commande `/clan invite <pseudo>`. Grâce au menu de gestion de ton clan accessible via la commande `/clan`, tu peux alors gérer les **différentes permissions** du rôle des membres de ton clan et même des visiteurs.
+Le système d'entonnoirs spéciaux te permet également de **créer des filtres dans tes liaisons**. En effet, dans la page "*Liste des liaisons*", tu peux accéder à tous les contenants auxquels ton entonnoir est lié. Depuis cette page, tu peux directement choisir pour chaque contenant, **quels objets pourront y être transférés** (*via une liste blanche*), ou à l'inverse, **quels objets tu ne veux pas qu'ils soient transférés** (*via une liste noire*).
 
 !!!tip Conseil
-Si tu possèdes une **ferme** que tu veux rendre **publique**, tu peux permettre l'accès au rôle de visiteur de **tuer les monstres dans ton clan**. Grâce à cela, n'importe qui pourra tuer les monstres. **Mais attention à bien gérer ces permissions !**
+Grâce au **système d'entonnoirs spéciaux**, tu peux créer un système complet de gestion pour ta salle des coffres par exemple. Ainsi, tu peux lier directement toutes tes farms à tes coffres et ainsi, trier tes coffres automatiquement.
 !!!
