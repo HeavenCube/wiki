@@ -1,7 +1,7 @@
 ---
 label: "Comment commencer mon aventure ?"
 icon: repo
-order: 0
+order: 100
 meta:
   title: "Comment commencer mon aventure ?"
   description: "Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au maximum !"

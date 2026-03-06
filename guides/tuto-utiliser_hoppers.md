@@ -1,14 +1,14 @@
 ---
-label: "Comment créer un clan ?"
+label: "Comment utiliser les entonnoirs améliorés ?"
 icon: repo
-order: 99
+order: 98
 meta:
   title: "Comment créer un clan ?"
-  description: "Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan."
+  description: "Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos."
 ---
-# Comment créer un clan ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment utiliser les entonnoirs améliorés ? [!badge variant="dark" size="xl" text="Tutoriel"]
 
-### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
+### Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
 Créer un clan est l'étape initiale de votre aventure sur le serveur. En effet, un clan vous permet de **sécuriser vos ressources et vos constructions**. Mais vous pouvez faire bien plus ! Créer une ville, y inviter vos amis, les autoriser à réaliser des actions indépendament. 
 
