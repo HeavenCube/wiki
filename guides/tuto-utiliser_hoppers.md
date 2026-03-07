@@ -10,11 +10,17 @@ meta:
 
 ### Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:
 
-[!badge variant="secondary" size="l" text="Difficulté : Très facile"]
-[!badge variant="success" size="l" text="Difficulté : Facile"]
-[!badge variant="warning" size="l" text="Difficulté : Moyen"]
-[!badge variant="danger" size="l" text="Difficulté : Difficile"]
-[!badge variant="contrast" size="l" text="Difficulté : Expert"]
+[!badge variant="secondary" size="l" text="Difficulté : Très facile"]  
+[!badge variant="success" size="l" text="Difficulté : Facile"]  
+[!badge variant="warning" size="l" text="Difficulté : Moyen"]  
+[!badge variant="danger" size="l" text="Difficulté : Difficile"]  
+[!badge variant="contrast" size="l" text="Difficulté : Expert"]  
+
+[!badge variant="secondary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
+[!badge variant="success" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
+[!badge variant="warning" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle:"]  
+[!badge variant="danger" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle:"]  
+[!badge variant="contrast" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle-fill:"]  
 
 ---
 
