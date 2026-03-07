@@ -8,7 +8,7 @@ meta:
 ---
 # Comment commencer mon aventure ? [!badge variant="dark" size="xl" text="Informations"]
 
-### Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:
+[!badge variant="secondary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 
 ---
 
