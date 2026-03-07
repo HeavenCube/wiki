@@ -1,6 +1,6 @@
 ---
 label: "Comment commencer mon aventure ?"
-icon: repo
+icon: sign-in
 order: 100
 meta:
   title: "Comment commencer mon aventure ?"

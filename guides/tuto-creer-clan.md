@@ -1,6 +1,6 @@
 ---
 label: "Comment créer un clan ?"
-icon: repo
+icon: milestone
 order: 99
 meta:
   title: "Comment créer un clan ?"
