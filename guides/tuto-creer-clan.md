@@ -8,7 +8,7 @@ meta:
 ---
 # Comment créer un clan ? [!badge variant="dark" size="xl" text="Tutoriel"]
 
-[!badge variant="secondary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
+[!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 
 ---
 
