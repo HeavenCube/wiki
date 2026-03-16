@@ -25,7 +25,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Vendre jusqu'à **3 ressources** dans l'**hôtel des ventes**
 - Créer des **shops publics** et les gérer librement (`/pshop`)
 {.list-icon}
-- :icon-check-circle: Accès à toutes les autres **avantages de base**
+:icon-check-circle: Accès à toutes les autres **avantages de base**
 
 ## Commandes :  
 - `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
@@ -33,7 +33,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/fishingbag` - Accéder au stockage de pêche
 - `/calcul` - Calculer une opération grâce à une commande
 {.list-icon}
-- :icon-check-circle: Accès à toutes les **commandes de base**
+:icon-check-circle: Accès à toutes les **commandes de base**
 
 ==- ![](/assets/images/grade-moussaillon.png)
 ## Avantages :  
