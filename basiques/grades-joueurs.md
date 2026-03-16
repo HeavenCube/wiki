@@ -24,22 +24,22 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Claims jusqu'à **20 chunks** dans son clan
 - Vendre jusqu'à **3 ressources** dans l'**hôtel des ventes**
 - Créer des **shops publics** et les gérer librement (`/pshop`)
-
 {.list-icon}
-- :icon-check-circle: Accès à toutes les **fonctionnalités de base**
+- :icon-check-circle: Accès à toutes les autres **avantages de base**
 
 ## Commandes :  
 - `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
 - `/playtime` - Afficher son tempos de jeu personnel
 - `/fishingbag` - Accéder au stockage de pêche
 - `/calcul` - Calculer une opération grâce à une commande
-  - *Toutes les autres commandes accessibles par défaut*
+{.list-icon}
+- :icon-check-circle: Accès à toutes les **commandes de base**
 
 ==- ![](/assets/images/grade-moussaillon.png)
 ## Avantages :  
 - Accès à **8 homes** (`/sethome <nom>`)
 - Rejoindre **1 métier "secondaire"**
-- Rejoindre jusqu'à **5 clans** en tant que membre
+- Rejoindre jusqu'à **6 clans** en tant que membre
 - Claims jusqu'à **75 chunks** dans son clan
 - Vendre jusqu'à **8 ressources** dans l'**hôtel des ventes**
 - Créer **1 pwarp** et le sponsoriser contre des pièces d'or (`/pwarp`)
@@ -55,7 +55,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ## Avantages :  
 - Accès à **15 homes** (`/sethome <nom>`)
 - Rejoindre **2 métiers "secondaires"**
-- Rejoindre jusqu'à **8 clans** en tant que membre
+- Rejoindre jusqu'à **12 clans** en tant que membre
 - Claims jusqu'à **150 chunks** dans son clan
 - Vendre jusqu'à **15 ressources** dans l'**hôtel des ventes**
 - Écrire en **couleurs** dans les **messages privés**
@@ -69,7 +69,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ## Avantages :  
 - Accès à **25 homes** (`/sethome <nom>`)
 - Rejoindre **3 métiers "secondaires"**
-- Rejoindre jusqu'à **16 clans** en tant que membre
+- Rejoindre jusqu'à **32 clans** en tant que membre
 - Claims jusqu'à **250 chunks** dans son clan
 - Vendre jusqu'à **25 ressources** dans l'**hôtel des ventes**
 - Écrire en **couleurs** sur la **description de son pwarp**
