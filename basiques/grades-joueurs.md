@@ -71,7 +71,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ## Avantages :  
 - Accès à **25 homes** (`/sethome <nom>`)
 - Rejoindre **3 métiers "secondaires"**
-- Rejoindre jusqu'à **32 clans** en tant que membre
+- Rejoindre jusqu'à **20 clans** en tant que membre
 - Claims jusqu'à **250 chunks** dans son clan
 - Vendre jusqu'à **25 ressources** dans l'**hôtel des ventes**
 - Écrire en **couleurs** sur la **description de son pwarp**
@@ -86,7 +86,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ## Avantages :  
 - Accès à **40 homes** (`/sethome <nom>`)
 - Rejoindre **4 métiers "secondaires"**
-- Rejoindre jusqu'à **24 clans** en tant que membre
+- Rejoindre jusqu'à **32 clans** en tant que membre
 - Claims jusqu'à **500 chunks** dans son clan
 - Vendre jusqu'à **40 ressources** dans l'**hôtel des ventes**
 - Garder son expérience à sa mort
