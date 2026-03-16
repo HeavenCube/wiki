@@ -24,6 +24,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Claims jusqu'à **20 chunks** dans son clan
 - Vendre jusqu'à **3 ressources** dans l'**hôtel des ventes**
 - Créer des **shops publics** et les gérer librement (`/pshop`)
+
 {.list-icon}
 :icon-check-circle: Accès à toutes les autres **avantages de base**
 
@@ -32,6 +33,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/playtime` - Afficher son tempos de jeu personnel
 - `/fishingbag` - Accéder au stockage de pêche
 - `/calcul` - Calculer une opération grâce à une commande
+
 {.list-icon}
 :icon-check-circle: Accès à toutes les **commandes de base**
 
