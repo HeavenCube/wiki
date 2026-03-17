@@ -17,7 +17,7 @@ Les **entonnoirs spéciaux** remplacent les entonnoirs "vanilla" en offrant des 
 Obtiens un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce aux différentes caisses ou bien auprès d'un autre joueur. 
 
 >>> Place l'entonnoir au sol
-La première étape consiste à simplement **placer l'entonnoir au sol**, proche de là où tu souhaites **aspirer les objets**, depuis les contenants ou au sol, et proches des contenants vers lesquels tu souhaite **acheminer les objets**.
+La première étape consiste à simplement **placer l'entonnoir au sol**, proche de là où tu souhaites **aspirer les objets**, depuis les contenants ou au sol, et proches des contenants vers lesquels tu souhaites **acheminer les objets**.
 >>> Ouvre le menu via un clic-gauche
 Pour ouvrir le **menu de gestion** de l'entonnoir spécial, il te suffit de faire un **clic-gauche sur ce dernier**.
 ![|500](/assets/images/tuto-utiliser_hopper-menu.png)
