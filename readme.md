@@ -16,6 +16,6 @@ Le **"semi-rp"** intervient sous plusieurs formes sur HeavenCube, tout d'abord, 
 
 Le wiki s'articule autour de différentes **grandes thématiques** pour aider à la compréhension des différents éléments sur le serveur.
 
-!!!info Note importante
+!!!tip Conseil
 Afin d'être au courant de toutes nos **dernières actualités**, mais aussi pour pouvoir discuter avec les autres joueurs de la communauté, nous t'invitons à **rejoindre notre serveur [Discord](https://heavencube.fr/?ref=social-discord)**.
 !!!
