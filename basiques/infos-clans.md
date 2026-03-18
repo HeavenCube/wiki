@@ -10,14 +10,14 @@ meta:
 # Les clans [!badge variant="dark" size="xl" text="Informations"]
 
 !!!warning Attention
-Le système de clans dans son ensemble est assez complexe, il permet de gérer en profondeur son clan et peut donc aider à organiser son clan comme bon te semble. Ce guide aura pour but d'expliquer basiquement ce système.
+Le **système de clans** dans son ensemble est assez **complexe**, il permet de gérer en profondeur son clan et peut donc aider à organiser son clan comme bon te semble. Ce guide aura pour but d'**expliquer basiquement ce système**.
 !!!
 
 ---
 
 Tout d'abord, la première étape pour gérer son clan consiste à le créer. Si tu ne sais pas encore comment le faire, nous t'invitons à consulter le guide ci-dessous.
 
-[!card](/guides/tuto-creer-clan.md)
+[!card text="Créer un clan peut être une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide est là pour ça." kicker="tutoriel"](/guides/tuto-creer-clan.md)
 
 
 ---
