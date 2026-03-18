@@ -62,12 +62,12 @@ Les **parcelles** sont une fonctionnalité un peu **plus avancée et technique**
 
 L'**objectif principal** d'une parcelle est de pouvoir **appliquer des paramètres particuliers** à une **zone définie dans ton clan**. Les paramètres peuvent être des paramètres généraux ou bien de rôle.
 
->>> Crée la parcelle dans l'interface du clan.
+>>> Crée la parcelle dans l'interface du clan
 ![|500](/assets/images/info-clans-parcelles.png)
 >>> Sélectionne la parcelle créée 
-Sélectionne la parcelle avec la commande `/clan selection`. À ce moment, grâce à l'outil qui te seras attribué, tu devras sélectionner deux points, aux extrémités de la zone choisie.
+Définie la parcelle avec la commande `/clan selection`. À ce moment, grâce à l'**outil** qui te seras attribué, tu devras **sélectionner deux points**, aux extrémités de la zone choisie.
 >>> Attribue la sélection à la parcelle
-Enfin, lie la zone selectionnée qui représente ta parcelle avec cette dernière via la commande `/clan assign <nom de la parcelle>`.
+Enfin, **lie la zone selectionnée** qui représente ta parcelle avec cette dernière via la commande `/clan assign <nom de la parcelle>`.
 >>>
 
 ---
