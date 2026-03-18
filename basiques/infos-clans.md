@@ -58,6 +58,7 @@ Si tu décides d'**unclaim** un de tes chunks, tu recevras une **compensation de
 
 !!!warning Attention
 Les **parcelles** sont une fonctionnalité un peu **plus avancée et technique** mais sont extrêmement utiles et pratiques dans de nombreuses situations.
+!!!
 
 L'**objectif principal** d'une parcelle est de pouvoir **appliquer des paramètres particuliers** à une **zone définie dans ton clan**. Les paramètres peuvent être des paramètres généraux ou bien de rôle.
 
