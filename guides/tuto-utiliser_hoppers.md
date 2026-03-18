@@ -38,5 +38,5 @@ Grâce au **premier bouton dans le menu de gestion**, tu peux **visualiser la di
 Le système d'entonnoirs spéciaux te permet également de **créer des filtres dans tes liaisons**. En effet, dans la page "*Liste des liaisons*", tu peux accéder à tous les contenants auxquels ton entonnoir est lié. Depuis cette page, tu peux directement choisir pour chaque contenant, **quels objets pourront y être transférés** (*via une liste blanche*), ou à l'inverse, **quels objets tu ne veux pas qu'ils soient transférés** (*via une liste noire*).
 
 !!!tip Conseil
-Grâce au **système d'entonnoirs spéciaux**, tu peux créer un système complet de gestion pour ta salle des coffres par exemple. Ainsi, tu peux lier directement toutes tes farms à tes coffres et ainsi, trier tes coffres automatiquement.
+Avec le **système d'entonnoirs spéciaux**, tu peux créer un système complet de gestion pour ta salle des coffres par exemple. Ainsi, tu peux lier directement toutes tes farms à tes coffres et ainsi, trier tes coffres automatiquement.
 !!!
