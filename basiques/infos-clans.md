@@ -1,6 +1,6 @@
 ---
 label: "Les clans"
-icon: accessibility
+icon: globe
 order: 99
 meta:
   title: "Les clans"

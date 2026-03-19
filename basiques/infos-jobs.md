@@ -1,6 +1,6 @@
 ---
 label: "Les métiers"
-icon: accessibility
+icon: briefcase
 order: 98
 meta:
   title: "Les métiers"
