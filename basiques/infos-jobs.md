@@ -23,15 +23,15 @@ Pour **obtenir de la monnaie grâce aux métiers**, le plus simple est ainsi d'*
 
 ---
 
-==- Mineur 
+==- :pick: Mineur 
 Le métier de mineur consiste simplement à miner en monde récolte des minerais afin d'obtenir de la monnaie
-==- Bûcheron
+==- :axe: Bûcheron
 Le métier de bûcheron consiste à couper des arbres afin d'obtenir de la monnaie.
-==- Fermier
+==- :ear_of_rice: Fermier
 Le métier de fermier consiste à récolter des champs de cultures variées afin d'obtenir de la monnaie.
-==- Chasseur
+==- :dagger_knife: Chasseur
 Le métier de chasseur consiste à tuer des monstres et animaux afin d'obtenir de la monnaie.
-==- Pêcheur
+==- :fishing_pole_and_fish: Pêcheur
 Le métier de pêcheur consiste à capturer des poissons via le système amélioré de pêche afin d'obtenir de la monnaie.
 ===
 
