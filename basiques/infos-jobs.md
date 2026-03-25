@@ -23,16 +23,16 @@ Pour **obtenir de la monnaie grâce aux métiers**, le plus simple est ainsi d'*
 
 ---
 
-==- :pick: Mineur 
-Le métier de mineur consiste simplement à miner en monde récolte des minerais afin d'obtenir de la monnaie
-==- :axe: Bûcheron
-Le métier de bûcheron consiste à couper des arbres afin d'obtenir de la monnaie.
-==- :ear_of_rice: Fermier
-Le métier de fermier consiste à récolter des champs de cultures variées afin d'obtenir de la monnaie.
-==- :dagger_knife: Chasseur
-Le métier de chasseur consiste à tuer des monstres et animaux afin d'obtenir de la monnaie.
-==- :fishing_pole_and_fish: Pêcheur
-Le métier de pêcheur consiste à capturer des poissons via le système amélioré de pêche afin d'obtenir de la monnaie.
+=== :pick: Mineur 
+Le métier de **mineur** consiste simplement à **miner** et **récolter des minerais** afin d'obtenir de la monnaie. Pour chaque minerai cassé, une quantité d'expérience métier et de monnaie te seras donnée. De plus, chaque type de minerais possède sa quantité définie d'expérience et de monnaie.
+=== :axe: Bûcheron
+Le métier de **bûcheron** consiste à **couper des arbres** afin d'obtenir de la monnaie. Certains arbres rapportent davantage d'expérience, à toi de choisir quel type d'arbre tu veux couper.
+=== :ear_of_rice: Fermier
+Le métier de **fermier** consiste à **récolter des champs de cultures** variées afin d'obtenir de la monnaie. Toutes les graines et cultures ont des quantités d'expérience et de monnaie variées selon leur facilité de récolte, d'obtention...
+=== :dagger_knife: Chasseur
+Le métier de **chasseur** consiste à **tuer des monstres et animaux** afin d'obtenir de la monnaie. Choisis bien les entités auxquelles tu vas t'attaquer car celles-ci ne donnent pas toutes la même quantité de monnaie et d'expérience, les monstres avec la plus grande difficulté auront logiquement les plus belles récompenses.
+=== :fishing_pole_and_fish: Pêcheur
+Le métier de **pêcheur** consiste à **capturer des poissons** via le système amélioré de pêche afin d'obtenir de la monnaie. Pour chaque poisson capturé, une quantité définie d'expérience et de monnaie te seras offerte, les poissons les plus rares rapporteront davantage. 
 ===
 
 ---
