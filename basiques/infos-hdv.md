@@ -1,6 +1,6 @@
 ---
 label: "L'hôtel des ventes"
-icon: briefcase
+icon: tag
 order: 97
 meta:
   title: "L'hôtel des ventes"
@@ -12,10 +12,10 @@ meta:
 L'**hôtel des ventes** peut te permettre de vendre n'importe quel objet via une interface simple et facilement utilisable pour tous les joueurs. L'hôtel des ventes est par ailleurs entièrement sécurisé ce qui limite les arnaques en général.
 
 !!!warning Attention 
-Bien que les arnaques soient interdites, certains joueurs peuvent être tentés d'en réaliser, si tu en es victime, n'hésite pas à prendre des preuves de celle-ci et dénoncer ce comportement directement en ticket sur notre serveur Discord.
+Bien que les **arnaques soient interdites**, certains joueurs peuvent être tentés d'en réaliser, si tu en es **victime**, n'hésite pas à prendre des **preuves** de celle-ci et dénoncer ce comportement directement en **ticket sur notre serveur Discord**.
 !!!
 
-Le nombre d'objets pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](/basiques/infos-grades_joueurs.md).
+Le **nombre d'objets** pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](/basiques/infos-grades_joueurs.md).
 
 Tu peux **vendre n'importe quel objet** avec la commande `/hdv sell <prix> <quantité>`. Il faut ainsi tenir l'objet que tu veux vendre en main pour pouvoir exécuter cette commande. 
 
