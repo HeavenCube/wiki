@@ -19,6 +19,16 @@ links:
 
 footer:
   copyright: "2021-{{ year }} [HeavenCube](https://heavencube.fr/) • Non associé à Mojang/Microsoft."
+  links:
+  - text: Site web
+    link: "https://heavencube.fr"
+    icon: check-circle
+    title: "Retour au site web"
+
+  - text: Règlements du serveur
+    link: "https://heavencube.fr/reglements"
+    icon: mortar-board
+    title: "Toutes les règles du serveur à connaitre"
 
 editor:
   enabled: false
@@ -29,7 +39,7 @@ locale:
 
 search:
   noResultsFoundMsg: "Aucun résultat trouvé"
-  placeholder: "Rechercher sur le Wiki..."
+  placeholder: "Rechercher..."
   preload: true
 
 generator:
@@ -37,3 +47,28 @@ generator:
     append: false
 
 showSidebarFilter: false
+
+actions:
+  items:
+  - text: Copier la page
+    action: copy-page-markdown
+    icon: copy
+  - text: Copier le lien
+    action: copy-page-link
+    icon: link
+  - type: separator
+  - text: Afficher en Markdown
+    action: view-page-markdown
+    icon: markdown
+  - text: Imprimer la page
+    action: print-page
+    icon: brand-printer
+  - type: separator
+  - text: Ouvrir dans ChatGPT
+    icon: brand-openai
+    action: open-in-chatgpt
+    target: blank
+  - text: Ouvrir dans Claude
+    icon: brand-claude
+    action: open-in-claude
+    target: blank
