@@ -15,7 +15,7 @@ Tout d'abord, de base, tu n'as **aucun métier de sélectionné**, il te faut ch
 
 Pour chaque métier, tu peux choisir entre le choisir comme **métier primaire** ou **secondaire**. Un métier secondaire rapportera **50% d'Exp. et de monnaie en moins** qu'un métier principal. Tu peux changer de métier à tout moment via la commande `/metiers`.
 
-Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](/basiques/infos-grades_joueurs.md), pour en savoir plus. 
+Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](/1-basiques/0-grades_joueurs.md), pour en savoir plus. 
 
 !!!info Information importante
 Pour **obtenir de la monnaie grâce aux métiers**, le plus simple est ainsi d'**effectuer les tâches** pour **récolter les ressources** associées à chaque métier puis de les **revendre au spawn** auprès des marchands respectifs. Les **paliers de métiers** sont également une bonne manière d'obtenir de la monnaie en progressant.
