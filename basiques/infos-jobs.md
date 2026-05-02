@@ -1,9 +1,8 @@
 ---
-label: "Les métiers"
 icon: briefcase
+label: "Les métiers"
 order: 98
 meta:
-  title: "Les métiers"
   description: "Prends connaissance des métiers du serveur Survie d'HeavenCube."
 ---
 

@@ -1,9 +1,8 @@
 ---
-label: "Les limitations"
 icon: stop
+label: "Les limitations"
 order: 96
 meta:
-  title: "Les limitations"
   description: "Prends connaissance des limitations en place sur le Survie d'HeavenCube."
 ---
 

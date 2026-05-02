@@ -1,9 +1,8 @@
 ---
-label: "L'hôtel des ventes"
 icon: tag
+label: "L'hôtel des ventes"
 order: 97
 meta:
-  title: "L'hôtel des ventes"
   description: "Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube."
 ---
 

@@ -1,9 +1,8 @@
 ---
-label: "Les clans"
 icon: globe
+label: "Les clans"
 order: 99
 meta:
-  title: "Les clans"
   description: "Prends connaissance du système de clans Survie d'HeavenCube."
 ---
 

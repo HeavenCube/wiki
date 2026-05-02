@@ -1,9 +1,8 @@
 ---
-label: "Les grades"
 icon: accessibility
+label: "Les grades"
 order: 100
 meta:
-  title: "Les grades joueurs"
   description: "Prends connaissance des grades joueur du serveur Survie d'HeavenCube."
 ---
 

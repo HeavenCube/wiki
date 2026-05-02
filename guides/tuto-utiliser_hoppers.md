@@ -1,9 +1,8 @@
 ---
-label: "Comment utiliser les entonnoirs améliorés ?"
 icon: filter
+label: "Comment utiliser les entonnoirs améliorés ?"
 order: 98
 meta:
-  title: "Comment créer un clan ?"
   description: "Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos."
 ---
 # Comment utiliser les entonnoirs spéciaux ? [!badge variant="dark" size="xl" text="Tutoriel"]
