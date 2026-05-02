@@ -14,7 +14,7 @@ meta:
 
 ### 1. Première arrivée sur le serveur
 
-Commence par rejoindre le serveur avec l'adresse de connexion : `mc.heavencube.fr`
+Commence par rejoindre le serveur avec l'adresse de connexion : `MC.HEAVENCUBE.FR` !
 
 ![](/assets/images/tuto-commencer_aventure.png)
 

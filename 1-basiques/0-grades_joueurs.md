@@ -16,7 +16,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ---
 
 ==- ![](/assets/images/grade-maraudeur.png)
-## Avantages :  
+## Avantages par défaut :
 - Accès à **3 homes** (`/sethome <nom>`)
 - Rejoindre **1 métier "principal"**
 - Créer **1 clan** et le gérer à sa guise
@@ -28,7 +28,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 {.list-icon}
 :icon-check-circle: Accès à toutes les autres **avantages de base**
 
-## Commandes :  
+## Commandes par défaut :
 - `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
 - `/playtime` - Afficher son tempos de jeu personnel
 - `/fishingbag` - Accéder au stockage de pêche
@@ -38,7 +38,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 :icon-check-circle: Accès à toutes les **commandes de base**
 
 ==- ![](/assets/images/grade-moussaillon.png)
-## Avantages :  
+## Avantages du Moussaillon :
 - Accès à **8 homes** (`/sethome <nom>`)
 - Rejoindre **1 métier "secondaire"**
 - Rejoindre jusqu'à **6 clans** en tant que membre
@@ -48,13 +48,13 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Utiliser les **raccourcis dans le chat** (`/chatinfo`)
 - Écrire en **couleurs** sur les **pancartes et les livres**
 
-## Commandes : 
+## Commandes du Moussaillon :
 - `/signcopy` - Copier le texte d'une pancarte en cliquant dessus
 - `/signedit` - Modifier le texte d'une pancarte depuis la commande
 - `/sit` - S'asseoir sur tous les types de blocs
 
 ==- ![](/assets/images/grade-matelot.png)
-## Avantages :  
+## Avantages du Matelot :
 - Accès à **15 homes** (`/sethome <nom>`)
 - Rejoindre **2 métiers "secondaires"**
 - Rejoindre jusqu'à **12 clans** en tant que membre
@@ -62,13 +62,13 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Vendre jusqu'à **15 ressources** dans l'**hôtel des ventes**
 - Écrire en **couleurs** dans les **messages privés**
 
-## Commandes : 
+## Commandes du Matelot :
 - `/back` - Se téléporter à son dernier point de téléportation
 - `/recipe` - Visualiser la recette de fabrication d'un objet
 - `/pweather` - Modifier sa météo personnelle (*pluie, soleil, etc.*)
 
 ==- ![](/assets/images/grade-lieutenant.png)
-## Avantages :  
+## Avantages du Lieutenant :
 - Accès à **25 homes** (`/sethome <nom>`)
 - Rejoindre **3 métiers "secondaires"**
 - Rejoindre jusqu'à **20 clans** en tant que membre
@@ -76,14 +76,14 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Vendre jusqu'à **25 ressources** dans l'**hôtel des ventes**
 - Écrire en **couleurs** sur la **description de son pwarp**
 
-## Commandes : 
+## Commandes du Lieutenant :
 - `/condense` - Condenser le contenu de son inventaire
 - `/ec` - Accéder à son coffre de l'ender directement
 - `/craft` - Ouvrir un établi portatif
 - `/repair` - Réparer l'objet tenu en main (*toutes les 24h*)
 
 ==- ![](/assets/images/grade-capitaine.png)
-## Avantages :  
+## Avantages du Capitaine :
 - Accès à **40 homes** (`/sethome <nom>`)
 - Rejoindre **4 métiers "secondaires"**
 - Rejoindre jusqu'à **32 clans** en tant que membre
@@ -93,7 +93,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Utiliser les **raccourcis dans le chat** (`/chatinfo`)
 - Écrire en **couleurs** dans le **chat public**
 
-## Commandes : 
+## Commandes du Capitaine :
 - `/lookup` - Observer l'historique des actions effectuées sur un bloc
 - `/repair` - Réparer l'objet tenu en main (*toutes les 12h*)
 - `/feed` - Remplir sa barre de faim (*toutes les 10min*)
