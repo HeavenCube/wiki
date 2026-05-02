@@ -63,11 +63,3 @@ actions:
   - text: Imprimer la page
     action: print-page
     icon: lucide-printer
-
-lastUpdated:
-  date:
-    enabled: true
-    source: committer
-  by:
-    enabled: true
-    source: author
