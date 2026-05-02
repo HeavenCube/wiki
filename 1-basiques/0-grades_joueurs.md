@@ -15,8 +15,8 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Créer jusqu'à **3 sethomes** max (`/sethome`)
 - **S'asseoir** sur les dalles et escaliers
 - Créer des **shops publics** (`/pshop`)
-- Claims jusqu'à **20 chunks** dans son clan (`/clans`)
-- Rejoindre **2 clans** en tant que membre (`/clans`)
+- Claims jusqu'à **35 chunks** dans son clan (`/clans`)
+- Rejoindre **5 clans** en tant que membre (`/clans`)
 
 # Commandes par défaut
 - `/afk` - Modifier son état d'AFK lors d'une pause
@@ -34,8 +34,8 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Écrire en **couleurs** (pancartes, livres)
 - Utiliser le **raccourci du chat** : `[item]`
 - Vendre jusqu'à **8 ressources** (`/hdv`)
-- Claims jusqu'à **75 chunks** dans son clan (`/clans`)
-- Rejoindre **6 clans** en tant que membre (`/clans`)
+- Claims jusqu'à **100 chunks** dans son clan (`/clans`)
+- Rejoindre **12 clans** en tant que membre (`/clans`)
 
 # Commandes du Moussaillon
 - `/sit` - S'asseoir sur tous les types de blocs
@@ -51,8 +51,8 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Accès à **4 lignes** d'EnderChests au total
 - Écrire en **couleurs** (messages privés)
 - Vendre jusqu'à **15 ressources** (`/hdv`)
-- Claims jusqu'à **150 chunks** dans son clan (`/clans`)
-- Rejoindre **12 clans** en tant que membre (`/clans`)
+- Claims jusqu'à **250 chunks** dans son clan (`/clans`)
+- Rejoindre **20 clans** en tant que membre (`/clans`)
 
 # Commandes du Matelot
 - `/stockagexp` - Conversion de l'EXP en Fiole d'EXP
@@ -69,8 +69,8 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Accès à **5 lignes** d'EnderChests au total
 - Vendre jusqu'à **25 ressources** (`/hdv`)
 - Garder l'**expérience** lors de la mort
-- Claims jusqu'à **250 chunks** dans son clan (`/clans`)
-- Rejoindre **20 clans** en tant que membre (`/clans`)
+- Claims jusqu'à **500 chunks** dans son clan (`/clans`)
+- Rejoindre **30 clans** en tant que membre (`/clans`)
 
 # Commandes du Lieutenant
 - `/feed` - Régénérer la barre de faim (*10min*)
@@ -88,8 +88,8 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Écrire en **couleurs** (messages publics)
 - Vendre jusqu'à **40 ressources** (`/hdv`)
 - Garder l'**inventaire** lors de la mort
-- Claims jusqu'à **500 chunks** dans son clan (`/clans`)
-- Rejoindre **32 clans** en tant que membre (`/clans`)
+- Claims jusqu'à **1 000 chunks** dans son clan (`/clans`)
+- Rejoindre **50 clans** en tant que membre (`/clans`)
 
 # Commandes du Capitaine
 - `/heal` - Régénérer la barre de vie (*15min*)
