@@ -1,0 +1,19 @@
+﻿#  | HeavenCube
+
+> Bienvenue sur le wiki du Survie d'HeavenCube. Si tu cherches une information, elle se trouve probablement ici ! Si tu ne trouves pas de réponse à ta question, n'hésite pas à la poser sur Discord.
+
+- [Accueil](https://heavencube.github.io/wiki.heavencube.fr/readme.md): Accueil
+
+## Guides
+
+- [Comment commencer mon aventure ? ](https://heavencube.github.io/wiki.heavencube.fr/guides/tuto-commencer_aventure.md): Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au
+- [Comment créer un clan ? ](https://heavencube.github.io/wiki.heavencube.fr/guides/tuto-creer-clan.md): Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan.
+- [Comment utiliser les entonnoirs spéciaux ? ](https://heavencube.github.io/wiki.heavencube.fr/guides/tuto-utiliser_hoppers.md): Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos.
+
+## Basiques
+
+- [Les grades des joueurs ](https://heavencube.github.io/wiki.heavencube.fr/basiques/infos-grades_joueurs.md): Prends connaissance des grades joueur du serveur Survie d'HeavenCube.
+- [Les clans ](https://heavencube.github.io/wiki.heavencube.fr/basiques/infos-clans.md): Prends connaissance du système de clans Survie d'HeavenCube.
+- [Les métiers ](https://heavencube.github.io/wiki.heavencube.fr/basiques/infos-jobs.md): Prends connaissance des métiers du serveur Survie d'HeavenCube.
+- [L'hôtel des ventes ](https://heavencube.github.io/wiki.heavencube.fr/basiques/infos-hdv.md): Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube.
+- [Les limitations ](https://heavencube.github.io/wiki.heavencube.fr/basiques/infos-limitations.md): Prends connaissance des limitations en place sur le Survie d'HeavenCube.
