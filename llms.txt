@@ -12,8 +12,8 @@
 
 ## Basiques
 
-- [Les limitations ](https://heavenwiki.noltox.fr/basiques/40-limitations.md): Prends connaissance des limitations en place sur le Survie d'HeavenCube.
-- [Les métiers ](https://heavenwiki.noltox.fr/basiques/30-jobs.md): Prends connaissance des métiers du serveur Survie d'HeavenCube.
-- [L'hôtel des ventes ](https://heavenwiki.noltox.fr/basiques/20-hdv.md): Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube.
-- [Les clans ](https://heavenwiki.noltox.fr/basiques/10-clans.md): Prends connaissance du système de clans Survie d'HeavenCube.
 - [Les grades des joueurs ](https://heavenwiki.noltox.fr/basiques/0-grades_joueurs.md): Prends connaissance des grades joueur du serveur Survie d'HeavenCube.
+- [Les clans ](https://heavenwiki.noltox.fr/basiques/10-clans.md): Prends connaissance du système de clans Survie d'HeavenCube.
+- [L'hôtel des ventes ](https://heavenwiki.noltox.fr/basiques/20-hdv.md): Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube.
+- [Les métiers ](https://heavenwiki.noltox.fr/basiques/30-jobs.md): Prends connaissance des métiers du serveur Survie d'HeavenCube.
+- [Les limitations ](https://heavenwiki.noltox.fr/basiques/40-limitations.md): Prends connaissance des limitations en place sur le Survie d'HeavenCube.
