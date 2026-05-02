@@ -12,8 +12,6 @@ branding:
 start:
   pro: true
 
-poweredByRetype: false
-
 search:
   preload: true
 
