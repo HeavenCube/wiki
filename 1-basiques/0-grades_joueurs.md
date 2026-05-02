@@ -15,7 +15,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 
 ---
 
-+++ ![](/assets/images/grade-maraudeur.png) {#maraudeur .highlight}
++++ ![](/assets/images/grades/maraudeur.png) {#maraudeur .highlight}
 # Avantages par défaut
 - Rejoindre **1 métier "principal"** (`/jobs`)
 - Créer **1 clan** et gérer ses paramètres (`/clans`)
@@ -34,7 +34,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/protect` - Protéger des stockages
 - `/calcul` - Effectuer une opération
 
-+++ ![](/assets/images/grade-moussaillon.png) {#moussaillon .highlight}
++++ ![](/assets/images/grades/moussaillon.png) {#moussaillon .highlight}
 # Avantages du Moussaillon
 - Rejoindre **1 métier "secondaire"** (`/jobs`)
 - Sponsoriser **1 pwarp** dans l'interface et au spawn
@@ -53,7 +53,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/colorpicker` - Roue des couleurs customs
 - `/seen` - Afficher la dernière connexion
 
-+++ ![](/assets/images/grade-matelot.png) {#matelot .highlight}
++++ ![](/assets/images/grades/matelot.png) {#matelot .highlight}
 # Avantages du Matelot
 - Rejoindre **2 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **15 sethomes** max (`/sethome`)
@@ -71,7 +71,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/recipe` - Visualiser toutes les recettes
 - `/nightvision` - Activer la vision nocturne
 
-+++ ![](/assets/images/grade-lieutenant.png) {#lieutenant .highlight}
++++ ![](/assets/images/grades/lieutenant.png) {#lieutenant .highlight}
 # Avantages du Lieutenant
 - Rejoindre **3 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **25 sethomes** max (`/sethome`)
@@ -89,7 +89,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet en main (*24h*)
 - `/ec` - Accéder à son ender chest
 
-+++ ![](/assets/images/grade-capitaine.png) {#capitaine .highlight}
++++ ![](/assets/images/grades/capitaine.png) {#capitaine .highlight}
 # Avantages du Capitaine
 - Rejoindre **4 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **40 sethomes** max (`/sethome`)
@@ -106,7 +106,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet en main (*10h*)
 - `/near` - Afficher les joueurs proches
 
-+++ ![](/assets/images/grade-premium.png) {#premium .highlight}
++++ ![](/assets/images/grades/icone-premium.png) {#premium .highlight}
 # Avantages du Premium
 - Avoir toutes les **téléportations instantanées**
 - Débloquer une **icône inédite** dans le chat
