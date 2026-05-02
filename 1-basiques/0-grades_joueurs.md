@@ -98,7 +98,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/near` - Afficher les joueurs proches
 
 +++ ![](/assets/images/grades/capitaine.png) {#abo-premium .highlight}
-# Avantages du Premium
+# Avantages de l'Abonnement Premium
 - Avoir toutes les **téléportations instantanées**
 - Débloquer une **icône inédite** dans le chat
 - Utiliser les **gadgets** dans les stockages
@@ -106,7 +106,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - Modifier les **porte-armures** (*shift+click*)
 - Écrire en **couleurs** sur la description de son pwarp
 
-# Commandes du Premium
+# Commandes d'Abonnement Premium
 - `/fly` - Pouvoir voler dans les claims
 - `/glowing` - Choisir une surbrillance
 - `/hdb` - Catalogue de têtes décoratives
