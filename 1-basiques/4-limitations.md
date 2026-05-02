@@ -35,7 +35,7 @@ Enfin, **certains blocs** comme les **coffres**, **fourneaux**, etc. sont égale
 En effet, les **stockages avancés** remplacent les coffres basiques, en plus d'être très pratiques et bien plus utiles. Ils permettent de stocker une grande quantité d'objets dans un seul bloc. Ou encore les **entonnoirs spéciaux** qui permettent de récupérer des objets dans une plus grande distance et les transférer à plusieurs contenants, à distance etc.
 
 !!!tip Conseil
-Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](/guides/tuto-utiliser_hoppers.md).
+Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](/0-guides/2-utilisation_entonnoirs_speciaux.md).
 !!!
 
 ---

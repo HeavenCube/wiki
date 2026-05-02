@@ -257,7 +257,7 @@ Le **système de clans** dans son ensemble est assez **complexe**, il permet de 
 
 Tout d'abord, la première étape pour gérer son clan consiste à le créer. Si tu ne sais pas encore comment le faire, nous t'invitons à consulter le guide ci-dessous.
 
-[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](https://heavenwiki.noltox.fr/0-guides/0-tuto-creer-clan.md)
+[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](https://heavenwiki.noltox.fr/0-guides/1-creation_clan.md)
 
 Après avoir créé ton clan, tu peux accéder au menu de gestion via la commande `/clans`.
 
@@ -328,13 +328,13 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 
 L'**hôtel des ventes** peut te permettre de vendre n'importe quel objet via une interface simple et facilement utilisable pour tous les joueurs. L'hôtel des ventes est par ailleurs entièrement sécurisé ce qui limite les arnaques en général.
 
-!!!warning Attention 
+!!!warning Attention
 Bien que les **arnaques soient interdites**, certains joueurs peuvent être tentés d'en réaliser, si tu en es **victime**, n'hésite pas à prendre des **preuves** de celle-ci et dénoncer ce comportement directement en **ticket sur notre serveur Discord**.
 !!!
 
-Le **nombre d'objets** pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](https://heavenwiki.noltox.fr/basiques/infos-grades_joueurs.md).
+Le **nombre d'objets** pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](https://heavenwiki.noltox.fr/1-basiques/0-grades_joueurs.md).
 
-Tu peux **vendre n'importe quel objet** avec la commande `/hdv sell <prix> <quantité>`. Il faut ainsi tenir l'objet que tu veux vendre en main pour pouvoir exécuter cette commande. 
+Tu peux **vendre n'importe quel objet** avec la commande `/hdv sell <prix> <quantité>`. Il faut ainsi tenir l'objet que tu veux vendre en main pour pouvoir exécuter cette commande.
 
 !!!info Information importante
 Ainsi, si tu as **32 pommes d'or en main** et que tu fais la commande `/hdv sell 150 2`, deux pommes seront mises en vente pour 150 pièces à l'unité.
@@ -374,7 +374,7 @@ Tout d'abord, de base, tu n'as **aucun métier de sélectionné**, il te faut ch
 
 Pour chaque métier, tu peux choisir entre le choisir comme **métier primaire** ou **secondaire**. Un métier secondaire rapportera **50% d'Exp. et de monnaie en moins** qu'un métier principal. Tu peux changer de métier à tout moment via la commande `/metiers`.
 
-Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](https://heavenwiki.noltox.fr/basiques/infos-grades_joueurs.md), pour en savoir plus. 
+Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](https://heavenwiki.noltox.fr/1-basiques/0-grades_joueurs.md), pour en savoir plus. 
 
 !!!info Information importante
 Pour **obtenir de la monnaie grâce aux métiers**, le plus simple est ainsi d'**effectuer les tâches** pour **récolter les ressources** associées à chaque métier puis de les **revendre au spawn** auprès des marchands respectifs. Les **paliers de métiers** sont également une bonne manière d'obtenir de la monnaie en progressant.
@@ -445,7 +445,7 @@ Enfin, **certains blocs** comme les **coffres**, **fourneaux**, etc. sont égale
 En effet, les **stockages avancés** remplacent les coffres basiques, en plus d'être très pratiques et bien plus utiles. Ils permettent de stocker une grande quantité d'objets dans un seul bloc. Ou encore les **entonnoirs spéciaux** qui permettent de récupérer des objets dans une plus grande distance et les transférer à plusieurs contenants, à distance etc.
 
 !!!tip Conseil
-Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](https://heavenwiki.noltox.fr/guides/tuto-utiliser_hoppers.md).
+Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](https://heavenwiki.noltox.fr/0-guides/2-utilisation_entonnoirs_speciaux.md).
 !!!
 
 
