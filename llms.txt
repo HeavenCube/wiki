@@ -4,16 +4,16 @@
 
 - [Accueil](https://heavenwiki.noltox.fr/readme.md): Accueil
 
-## 0 basiques
+## Les basiques
 
-- [Les grades joueurs à débloquer](https://heavenwiki.noltox.fr/0-basiques/0-grades_joueurs.md): Prends connaissance des grades joueur du serveur Survie d'HeavenCube.
-- [Les clans et ses différents paramètres](https://heavenwiki.noltox.fr/0-basiques/1-clans.md): Prends connaissance du système de clans Survie d'HeavenCube.
-- [L'hôtel des ventes public](https://heavenwiki.noltox.fr/0-basiques/2-hdv.md): Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube.
-- [Les métiers du Survie](https://heavenwiki.noltox.fr/0-basiques/3-jobs.md): Prends connaissance des métiers du serveur Survie d'HeavenCube.
-- [Les limitations ](https://heavenwiki.noltox.fr/0-basiques/4-limitations.md): Prends connaissance des limitations en place sur le Survie d'HeavenCube.
+- [Les grades joueurs à débloquer](https://heavenwiki.noltox.fr/1-basiques/0-grades_joueurs.md): Prends connaissance des grades joueur du serveur Survie d'HeavenCube.
+- [Les clans et ses différents paramètres](https://heavenwiki.noltox.fr/1-basiques/1-clans.md): Prends connaissance du système de clans Survie d'HeavenCube.
+- [L'hôtel des ventes public](https://heavenwiki.noltox.fr/1-basiques/2-hdv.md): Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube.
+- [Les métiers du Survie](https://heavenwiki.noltox.fr/1-basiques/3-jobs.md): Prends connaissance des métiers du serveur Survie d'HeavenCube.
+- [Les limitations ](https://heavenwiki.noltox.fr/1-basiques/4-limitations.md): Prends connaissance des limitations en place sur le Survie d'HeavenCube.
 
-## 1 guides
+## Les guides
 
-- [Comment bien commencer mon aventure ?](https://heavenwiki.noltox.fr/1-guides/0-commencer_aventure.md): Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au
-- [Comment créer un clan et le paramétrer ?](https://heavenwiki.noltox.fr/1-guides/1-creation_clan.md): Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan.
-- [Comment utiliser les entonnoirs spéciaux ?](https://heavenwiki.noltox.fr/1-guides/2-utilisation_entonnoirs_speciaux.md): Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos.
+- [Comment bien commencer mon aventure ?](https://heavenwiki.noltox.fr/0-guides/0-commencer_aventure.md): Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au
+- [Comment créer un clan et le paramétrer ?](https://heavenwiki.noltox.fr/0-guides/1-creation_clan.md): Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan.
+- [Comment utiliser les entonnoirs spéciaux ?](https://heavenwiki.noltox.fr/0-guides/2-utilisation_entonnoirs_speciaux.md): Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos.
