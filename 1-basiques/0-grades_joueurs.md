@@ -106,7 +106,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet en main (*10h*)
 - `/near` - Afficher les joueurs proches
 
-+++ ![](/assets/images/grades/icone-premium.png) {#premium .highlight}
++++ ![](/assets/images/grades/capitaine.png) {#abo-premium .highlight}
 # Avantages du Premium
 - Avoir toutes les **téléportations instantanées**
 - Débloquer une **icône inédite** dans le chat
