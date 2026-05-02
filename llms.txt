@@ -1,4 +1,4 @@
-﻿#  | HeavenCube
+﻿# Accueil
 
 > Bienvenue sur le wiki du Survie d'HeavenCube. Si tu cherches une information, elle se trouve probablement ici ! Si tu ne trouves pas de réponse à ta question, n'hésite pas à la poser sur Discord.
 
