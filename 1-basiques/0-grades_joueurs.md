@@ -6,7 +6,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 
 ---
 
-+++ ![](/assets/images/grade-maraudeur.png) Maraudeur
++++ ![](/assets/images/grade-maraudeur.png) {#maraudeur .highlight}
 ## Avantages par défaut :
 - Accès à **3 homes** (`/sethome <nom>`)
 - Rejoindre **1 métier "principal"**
@@ -28,7 +28,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 {.list-icon}
 :icon-check-circle: Accès à toutes les **commandes de base**
 
-+++ ![](/assets/images/grade-moussaillon.png) Moussaillon
++++ ![](/assets/images/grade-moussaillon.png) {#moussaillon .highlight}
 ## Avantages du Moussaillon :
 - Accès à **8 homes** (`/sethome <nom>`)
 - Rejoindre **1 métier "secondaire"**
@@ -44,7 +44,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/signedit` - Modifier le texte d'une pancarte depuis la commande
 - `/sit` - S'asseoir sur tous les types de blocs
 
-+++ ![](/assets/images/grade-matelot.png) Matelot
++++ ![](/assets/images/grade-matelot.png) {#matelot .highlight}
 ## Avantages du Matelot :
 - Accès à **15 homes** (`/sethome <nom>`)
 - Rejoindre **2 métiers "secondaires"**
@@ -58,7 +58,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/recipe` - Visualiser la recette de fabrication d'un objet
 - `/pweather` - Modifier sa météo personnelle (*pluie, soleil, etc.*)
 
-+++ ![](/assets/images/grade-lieutenant.png) Lieutenant
++++ ![](/assets/images/grade-lieutenant.png) {#lieutenant .highlight}
 ## Avantages du Lieutenant :
 - Accès à **25 homes** (`/sethome <nom>`)
 - Rejoindre **3 métiers "secondaires"**
@@ -73,7 +73,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/craft` - Ouvrir un établi portatif
 - `/repair` - Réparer l'objet tenu en main (*toutes les 24h*)
 
-+++ ![](/assets/images/grade-capitaine.png) Capitaine
++++ ![](/assets/images/grade-capitaine.png) {#capitaine .highlight}
 ## Avantages du Capitaine :
 - Accès à **40 homes** (`/sethome <nom>`)
 - Rejoindre **4 métiers "secondaires"**
