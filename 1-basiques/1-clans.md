@@ -8,7 +8,7 @@ Le **système de clans** dans son ensemble est assez **complexe**, il permet de 
 
 Tout d'abord, la première étape pour gérer son clan consiste à le créer. Si tu ne sais pas encore comment le faire, nous t'invitons à consulter le guide ci-dessous.
 
-[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](/guides/tuto-creer-clan.md)
+[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](/0-guides/0-tuto-creer-clan.md)
 
 Après avoir créé ton clan, tu peux accéder au menu de gestion via la commande `/clans`.
 
