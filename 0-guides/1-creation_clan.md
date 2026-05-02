@@ -37,3 +37,9 @@ Tu peux également **inviter d'autres joueurs** dans ton clan pour avoir accès 
 !!!tip Conseil
 Si tu possèdes une **ferme** que tu veux rendre **publique**, tu peux permettre l'accès au rôle de visiteur de **tuer les monstres dans ton clan**. Grâce à cela, n'importe qui pourra tuer les monstres. **Mais attention à bien gérer ces permissions !**
 !!!
+
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
+!!!

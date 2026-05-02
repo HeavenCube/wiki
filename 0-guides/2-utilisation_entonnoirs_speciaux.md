@@ -40,3 +40,9 @@ Le système d'entonnoirs spéciaux te permet également de **créer des filtres 
 !!!tip Conseil
 Avec le **système d'entonnoirs spéciaux**, tu peux créer un système complet de gestion pour ta salle des coffres par exemple. Ainsi, tu peux lier directement toutes tes farms à tes coffres et ainsi, trier tes coffres automatiquement.
 !!!
+
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
+!!!

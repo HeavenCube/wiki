@@ -50,4 +50,10 @@ Les **mondes "récolte"** (Récolte, Nether & End) sont régénérés le premier
 - **Nether** : 1er dimanche du mois (tous les 2 mois, lorsque l'End ne regen pas) à 19h00.
 - **End** : 1er dimanche du mois (tous les 2 mois, lorsque le Nether ne regen pas) à 19h00.
 
-Après avoir pris connaissance de ces informations, tu peux alors te **rendre en monde Récolte** via la commande `/warp` afin de récolter toutes les ressources dont tu auras besoin, puis dans le **monde Survie pour y fonder ta base** ! 
+Après avoir pris connaissance de ces informations, tu peux alors te **rendre en monde Récolte** via la commande `/warp` afin de récolter toutes les ressources dont tu auras besoin, puis dans le **monde Survie pour y fonder ta base** !
+
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
+!!!

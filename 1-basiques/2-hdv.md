@@ -38,5 +38,5 @@ Par ailleurs, tu peux également **échanger, acheter et vendre** des objets à 
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
