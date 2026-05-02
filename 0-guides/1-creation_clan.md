@@ -1,7 +1,7 @@
 ---
 permalink: /guides/clan/
 icon: milestone
-label: "Création du clan"
+label: "La création du clan"
 order: -1
 meta:
   description: "Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan."
