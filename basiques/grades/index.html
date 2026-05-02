@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.831073512428">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.831074285010">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.5.3">
@@ -38,12 +38,12 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link id="retype-favicon" rel="icon" href="../../assets/favicons/favicon.ico" />
-    <link href="../../resources/css/retype.css?v=4.5.3.831073512428" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=4.5.3.831074285010" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.831073512428" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.831074285010" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=4.5.3.831073512428" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.831073512428" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=4.5.3.831074285010" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.831074285010" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -178,23 +178,24 @@
 </template>
 <h1 id="avantages-par-défaut">Avantages par défaut</h1>
 <ul>
-<li>Accès à <strong>3 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
-<li>Rejoindre <strong>1 métier &quot;principal&quot;</strong></li>
-<li>Créer <strong>1 clan</strong> et le gérer à sa guise</li>
-<li>Rejoindre <strong>2 clans</strong> en temps que membre</li>
-<li>Claims jusqu&#x27;à <strong>20 chunks</strong> dans son clan</li>
-<li>Vendre jusqu&#x27;à <strong>3 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
-<li>Créer des <strong>shops publics</strong> et les gérer librement (<code translate="no" v-pre>/pshop</code>)</li>
+<li>Rejoindre <strong>1 métier &quot;principal&quot;</strong> (<code translate="no" v-pre>/jobs</code>)</li>
+<li>Créer <strong>1 clan</strong> et gérer ses paramètres (<code translate="no" v-pre>/clans</code>)</li>
+<li>Vendre jusqu&#x27;à <strong>3 ressources</strong> dans l&#x27;hôtel des ventes (<code translate="no" v-pre>/hdv</code>)</li>
+<li>Créer <strong>1 pwarp</strong> et le sponsoriser (<code translate="no" v-pre>/pwarp</code>)</li>
+<li>Créer jusqu&#x27;à <strong>3 sethomes</strong> max (<code translate="no" v-pre>/sethome</code>)</li>
+<li><strong>S&#x27;asseoir</strong> sur les dalles et escaliers</li>
+<li>Créer des <strong>shops publics</strong> (<code translate="no" v-pre>/pshop</code>)</li>
+<li>Claims jusqu&#x27;à <strong>20 chunks</strong> dans son clan (<code translate="no" v-pre>/clans</code>)</li>
+<li>Rejoindre <strong>2 clans</strong> en tant que membre (<code translate="no" v-pre>/clans</code>)</li>
 </ul>
-<p class="list-icon"><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M17.28 9.28a.75.75 0 0 0-1.06-1.06l-5.97 5.97-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6.5-6.5Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/></g></g></svg> Accès à toutes les autres <strong>avantages de base</strong></p>
 <h1 id="commandes-par-défaut">Commandes par défaut</h1>
 <ul>
-<li><code translate="no" v-pre>/protect</code> - Protéger les différents stockages (coffres, tonneaux, shulkers)</li>
-<li><code translate="no" v-pre>/playtime</code> - Afficher son tempos de jeu personnel</li>
+<li><code translate="no" v-pre>/afk</code> - Modifier son état d&#x27;AFK lors d&#x27;une pause</li>
 <li><code translate="no" v-pre>/fishingbag</code> - Accéder au stockage de pêche</li>
-<li><code translate="no" v-pre>/calcul</code> - Calculer une opération grâce à une commande</li>
+<li><code translate="no" v-pre>/playtime</code> - Afficher son temps de jeu</li>
+<li><code translate="no" v-pre>/protect</code> - Protéger des stockages</li>
+<li><code translate="no" v-pre>/calcul</code> - Effectuer une opération</li>
 </ul>
-<p class="list-icon"><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M17.28 9.28a.75.75 0 0 0-1.06-1.06l-5.97 5.97-2.47-2.47a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l6.5-6.5Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/></g></g></svg> Accès à toutes les <strong>commandes de base</strong></p>
 </doc-tab>
 <doc-tab v-cloak id="moussaillon" class="highlight">
 <template #title><figure class="content-center">
@@ -204,20 +205,23 @@
 </template>
 <h1 id="avantages-du-moussaillon">Avantages du Moussaillon</h1>
 <ul>
-<li>Accès à <strong>8 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
-<li>Rejoindre <strong>1 métier &quot;secondaire&quot;</strong></li>
-<li>Rejoindre jusqu&#x27;à <strong>6 clans</strong> en tant que membre</li>
-<li>Claims jusqu&#x27;à <strong>75 chunks</strong> dans son clan</li>
-<li>Vendre jusqu&#x27;à <strong>8 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
-<li>Créer <strong>1 pwarp</strong> et le sponsoriser contre des pièces d&#x27;or (<code translate="no" v-pre>/pwarp</code>)</li>
-<li>Utiliser les <strong>raccourcis dans le chat</strong> (<code translate="no" v-pre>/chatinfo</code>)</li>
-<li>Écrire en <strong>couleurs</strong> sur les <strong>pancartes et les livres</strong></li>
+<li>Rejoindre <strong>1 métier &quot;secondaire&quot;</strong> (<code translate="no" v-pre>/jobs</code>)</li>
+<li>Sponsoriser <strong>1 pwarp</strong> dans l&#x27;interface et au spawn</li>
+<li>Utiliser les <strong>raccourcis</strong> du chat (<code translate="no" v-pre>/chatinfo</code>)</li>
+<li>Créer jusqu&#x27;à <strong>8 sethomes</strong> max (<code translate="no" v-pre>/sethome</code>)</li>
+<li>Écrire en <strong>couleurs</strong> (pancartes, livres)</li>
+<li>Utiliser le <strong>raccourci du chat</strong> : <code translate="no" v-pre>[item]</code></li>
+<li>Vendre jusqu&#x27;à <strong>8 ressources</strong> (<code translate="no" v-pre>/hdv</code>)</li>
+<li>Claims jusqu&#x27;à <strong>75 chunks</strong> dans son clan (<code translate="no" v-pre>/clans</code>)</li>
+<li>Rejoindre <strong>6 clans</strong> en tant que membre (<code translate="no" v-pre>/clans</code>)</li>
 </ul>
 <h1 id="commandes-du-moussaillon">Commandes du Moussaillon</h1>
 <ul>
-<li><code translate="no" v-pre>/signcopy</code> - Copier le texte d&#x27;une pancarte en cliquant dessus</li>
-<li><code translate="no" v-pre>/signedit</code> - Modifier le texte d&#x27;une pancarte depuis la commande</li>
 <li><code translate="no" v-pre>/sit</code> - S&#x27;asseoir sur tous les types de blocs</li>
+<li><code translate="no" v-pre>/signcopy</code> - Copier le texte d&#x27;une pancarte</li>
+<li><code translate="no" v-pre>/signedit</code> - Modifier le texte d&#x27;une pancarte</li>
+<li><code translate="no" v-pre>/colorpicker</code> - Roue des couleurs customs</li>
+<li><code translate="no" v-pre>/seen</code> - Afficher la dernière connexion</li>
 </ul>
 </doc-tab>
 <doc-tab v-cloak id="matelot" class="highlight">
@@ -228,18 +232,22 @@
 </template>
 <h1 id="avantages-du-matelot">Avantages du Matelot</h1>
 <ul>
-<li>Accès à <strong>15 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
-<li>Rejoindre <strong>2 métiers &quot;secondaires&quot;</strong></li>
-<li>Rejoindre jusqu&#x27;à <strong>12 clans</strong> en tant que membre</li>
-<li>Claims jusqu&#x27;à <strong>150 chunks</strong> dans son clan</li>
-<li>Vendre jusqu&#x27;à <strong>15 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
-<li>Écrire en <strong>couleurs</strong> dans les <strong>messages privés</strong></li>
+<li>Rejoindre <strong>2 métiers &quot;secondaires&quot;</strong> (<code translate="no" v-pre>/jobs</code>)</li>
+<li>Créer jusqu&#x27;à <strong>15 sethomes</strong> max (<code translate="no" v-pre>/sethome</code>)</li>
+<li>Accès à <strong>4 lignes</strong> d&#x27;EnderChests au total</li>
+<li>Écrire en <strong>couleurs</strong> (messages privés)</li>
+<li>Vendre jusqu&#x27;à <strong>15 ressources</strong> (<code translate="no" v-pre>/hdv</code>)</li>
+<li>Claims jusqu&#x27;à <strong>150 chunks</strong> dans son clan (<code translate="no" v-pre>/clans</code>)</li>
+<li>Rejoindre <strong>12 clans</strong> en tant que membre (<code translate="no" v-pre>/clans</code>)</li>
 </ul>
 <h1 id="commandes-du-matelot">Commandes du Matelot</h1>
 <ul>
-<li><code translate="no" v-pre>/back</code> - Se téléporter à son dernier point de téléportation</li>
-<li><code translate="no" v-pre>/recipe</code> - Visualiser la recette de fabrication d&#x27;un objet</li>
-<li><code translate="no" v-pre>/pweather</code> - Modifier sa météo personnelle (<em>pluie, soleil, etc.</em>)</li>
+<li><code translate="no" v-pre>/stockagexp</code> - Conversion de l&#x27;EXP en Fiole d&#x27;EXP</li>
+<li><code translate="no" v-pre>/back</code> - Téléporter vers dernier emplacement</li>
+<li><code translate="no" v-pre>/feed</code> - Régénérer la barre de faim (<em>30min</em>)</li>
+<li><code translate="no" v-pre>/pweather</code> - Modifier sa météo personnelle</li>
+<li><code translate="no" v-pre>/recipe</code> - Visualiser toutes les recettes</li>
+<li><code translate="no" v-pre>/nightvision</code> - Activer la vision nocturne</li>
 </ul>
 </doc-tab>
 <doc-tab v-cloak id="lieutenant" class="highlight">
@@ -250,19 +258,22 @@
 </template>
 <h1 id="avantages-du-lieutenant">Avantages du Lieutenant</h1>
 <ul>
-<li>Accès à <strong>25 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
-<li>Rejoindre <strong>3 métiers &quot;secondaires&quot;</strong></li>
-<li>Rejoindre jusqu&#x27;à <strong>20 clans</strong> en tant que membre</li>
-<li>Claims jusqu&#x27;à <strong>250 chunks</strong> dans son clan</li>
-<li>Vendre jusqu&#x27;à <strong>25 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
-<li>Écrire en <strong>couleurs</strong> sur la <strong>description de son pwarp</strong></li>
+<li>Rejoindre <strong>3 métiers &quot;secondaires&quot;</strong> (<code translate="no" v-pre>/jobs</code>)</li>
+<li>Créer jusqu&#x27;à <strong>25 sethomes</strong> max (<code translate="no" v-pre>/sethome</code>)</li>
+<li>Accès à <strong>5 lignes</strong> d&#x27;EnderChests au total</li>
+<li>Vendre jusqu&#x27;à <strong>25 ressources</strong> (<code translate="no" v-pre>/hdv</code>)</li>
+<li>Garder l&#x27;<strong>expérience</strong> lors de la mort</li>
+<li>Claims jusqu&#x27;à <strong>250 chunks</strong> dans son clan (<code translate="no" v-pre>/clans</code>)</li>
+<li>Rejoindre <strong>20 clans</strong> en tant que membre (<code translate="no" v-pre>/clans</code>)</li>
 </ul>
 <h1 id="commandes-du-lieutenant">Commandes du Lieutenant</h1>
 <ul>
-<li><code translate="no" v-pre>/condense</code> - Condenser le contenu de son inventaire</li>
-<li><code translate="no" v-pre>/ec</code> - Accéder à son coffre de l&#x27;ender directement</li>
-<li><code translate="no" v-pre>/craft</code> - Ouvrir un établi portatif</li>
-<li><code translate="no" v-pre>/repair</code> - Réparer l&#x27;objet tenu en main (<em>toutes les 24h</em>)</li>
+<li><code translate="no" v-pre>/feed</code> - Régénérer la barre de faim (<em>10min</em>)</li>
+<li><code translate="no" v-pre>/ptime</code> - Modifier son temps personnel</li>
+<li><code translate="no" v-pre>/uncondense</code> - Décompacter des ressources</li>
+<li><code translate="no" v-pre>/condense</code> - Compacter des ressources</li>
+<li><code translate="no" v-pre>/repair</code> - Réparer l&#x27;objet en main (<em>24h</em>)</li>
+<li><code translate="no" v-pre>/ec</code> - Accéder à son ender chest</li>
 </ul>
 </doc-tab>
 <doc-tab v-cloak id="capitaine" class="highlight">
@@ -273,21 +284,48 @@
 </template>
 <h1 id="avantages-du-capitaine">Avantages du Capitaine</h1>
 <ul>
-<li>Accès à <strong>40 homes</strong> (<code translate="no" v-pre>/sethome &lt;nom&gt;</code>)</li>
-<li>Rejoindre <strong>4 métiers &quot;secondaires&quot;</strong></li>
-<li>Rejoindre jusqu&#x27;à <strong>32 clans</strong> en tant que membre</li>
-<li>Claims jusqu&#x27;à <strong>500 chunks</strong> dans son clan</li>
-<li>Vendre jusqu&#x27;à <strong>40 ressources</strong> dans l&#x27;<strong>hôtel des ventes</strong></li>
-<li>Garder son expérience à sa mort</li>
-<li>Utiliser les <strong>raccourcis dans le chat</strong> (<code translate="no" v-pre>/chatinfo</code>)</li>
-<li>Écrire en <strong>couleurs</strong> dans le <strong>chat public</strong></li>
+<li>Rejoindre <strong>4 métiers &quot;secondaires&quot;</strong> (<code translate="no" v-pre>/jobs</code>)</li>
+<li>Créer jusqu&#x27;à <strong>40 sethomes</strong> max (<code translate="no" v-pre>/sethome</code>)</li>
+<li>Accès à <strong>6 lignes</strong> d&#x27;EnderChests au total</li>
+<li>Écrire en <strong>couleurs</strong> (messages publics)</li>
+<li>Vendre jusqu&#x27;à <strong>40 ressources</strong> (<code translate="no" v-pre>/hdv</code>)</li>
+<li>Garder l&#x27;<strong>inventaire</strong> lors de la mort</li>
+<li>Claims jusqu&#x27;à <strong>500 chunks</strong> dans son clan (<code translate="no" v-pre>/clans</code>)</li>
+<li>Rejoindre <strong>32 clans</strong> en tant que membre (<code translate="no" v-pre>/clans</code>)</li>
 </ul>
 <h1 id="commandes-du-capitaine">Commandes du Capitaine</h1>
 <ul>
-<li><code translate="no" v-pre>/lookup</code> - Observer l&#x27;historique des actions effectuées sur un bloc</li>
-<li><code translate="no" v-pre>/repair</code> - Réparer l&#x27;objet tenu en main (<em>toutes les 12h</em>)</li>
-<li><code translate="no" v-pre>/feed</code> - Remplir sa barre de faim (<em>toutes les 10min</em>)</li>
-<li><code translate="no" v-pre>/near</code> - Repérer les joueurs présents autour</li>
+<li><code translate="no" v-pre>/heal</code> - Régénérer la barre de vie (<em>15min</em>)</li>
+<li><code translate="no" v-pre>/lookup</code> - Afficher l&#x27;historique du bloc ciblé</li>
+<li><code translate="no" v-pre>/repair</code> - Réparer l&#x27;objet en main (<em>10h</em>)</li>
+<li><code translate="no" v-pre>/near</code> - Afficher les joueurs proches</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="premium" class="highlight">
+<template #title><figure class="content-center">
+    <img src="/assets/images/grade-premium.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</template>
+<h1 id="avantages-du-premium">Avantages du Premium</h1>
+<ul>
+<li>Avoir toutes les <strong>téléportations instantanées</strong></li>
+<li>Débloquer une <strong>icône inédite</strong> dans le chat</li>
+<li>Utiliser les <strong>gadgets</strong> dans les stockages</li>
+<li>Utiliser le <strong>raccourci du chat</strong> : <code translate="no" v-pre>[inventaire]</code></li>
+<li>Modifier les <strong>porte-armures</strong> (<em>shift+click</em>)</li>
+<li>Écrire en <strong>couleurs</strong> sur la description de son pwarp</li>
+</ul>
+<h1 id="commandes-du-premium">Commandes du Premium</h1>
+<ul>
+<li><code translate="no" v-pre>/fly</code> - Pouvoir voler dans les claims</li>
+<li><code translate="no" v-pre>/glowing</code> - Choisir une surbrillance</li>
+<li><code translate="no" v-pre>/hdb</code> - Catalogue de têtes décoratives</li>
+<li><code translate="no" v-pre>/phead</code> - Obtenir la tête d&#x27;un joueur</li>
+<li><code translate="no" v-pre>/parchemins</code> - Ouvrir l&#x27;inventaire des parchemins</li>
+<li><code translate="no" v-pre>/skin</code> - Changer l&#x27;apparence du skin</li>
+<li><code translate="no" v-pre>/ride</code> - Chevaucher toutes les entités</li>
+<li><code translate="no" v-pre>/craft</code>, <code translate="no" v-pre>/anvil</code>, <code translate="no" v-pre>/smithingtable</code>, <code translate="no" v-pre>/grindstone</code>, <code translate="no" v-pre>/loom</code>, <code translate="no" v-pre>/stonecutter</code> - Accès aux établis</li>
 </ul>
 </doc-tab>
 </doc-tabs>

@@ -8,87 +8,113 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 
 +++ ![](/assets/images/grade-maraudeur.png) {#maraudeur .highlight}
 # Avantages par défaut
-- Accès à **3 homes** (`/sethome <nom>`)
-- Rejoindre **1 métier "principal"**
-- Créer **1 clan** et le gérer à sa guise
-- Rejoindre **2 clans** en temps que membre
-- Claims jusqu'à **20 chunks** dans son clan
-- Vendre jusqu'à **3 ressources** dans l'**hôtel des ventes**
-- Créer des **shops publics** et les gérer librement (`/pshop`)
-
-{.list-icon}
-:icon-check-circle: Accès à toutes les autres **avantages de base**
+- Rejoindre **1 métier "principal"** (`/jobs`)
+- Créer **1 clan** et gérer ses paramètres (`/clans`)
+- Vendre jusqu'à **3 ressources** dans l'hôtel des ventes (`/hdv`)
+- Créer **1 pwarp** et le sponsoriser (`/pwarp`)
+- Créer jusqu'à **3 sethomes** max (`/sethome`)
+- **S'asseoir** sur les dalles et escaliers
+- Créer des **shops publics** (`/pshop`)
+- Claims jusqu'à **20 chunks** dans son clan (`/clans`)
+- Rejoindre **2 clans** en tant que membre (`/clans`)
 
 # Commandes par défaut
-- `/protect` - Protéger les différents stockages (coffres, tonneaux, shulkers)
-- `/playtime` - Afficher son tempos de jeu personnel
+- `/afk` - Modifier son état d'AFK lors d'une pause
 - `/fishingbag` - Accéder au stockage de pêche
-- `/calcul` - Calculer une opération grâce à une commande
-
-{.list-icon}
-:icon-check-circle: Accès à toutes les **commandes de base**
+- `/playtime` - Afficher son temps de jeu
+- `/protect` - Protéger des stockages
+- `/calcul` - Effectuer une opération
 
 +++ ![](/assets/images/grade-moussaillon.png) {#moussaillon .highlight}
 # Avantages du Moussaillon
-- Accès à **8 homes** (`/sethome <nom>`)
-- Rejoindre **1 métier "secondaire"**
-- Rejoindre jusqu'à **6 clans** en tant que membre
-- Claims jusqu'à **75 chunks** dans son clan
-- Vendre jusqu'à **8 ressources** dans l'**hôtel des ventes**
-- Créer **1 pwarp** et le sponsoriser contre des pièces d'or (`/pwarp`)
-- Utiliser les **raccourcis dans le chat** (`/chatinfo`)
-- Écrire en **couleurs** sur les **pancartes et les livres**
+- Rejoindre **1 métier "secondaire"** (`/jobs`)
+- Sponsoriser **1 pwarp** dans l'interface et au spawn
+- Utiliser les **raccourcis** du chat (`/chatinfo`)
+- Créer jusqu'à **8 sethomes** max (`/sethome`)
+- Écrire en **couleurs** (pancartes, livres)
+- Utiliser le **raccourci du chat** : `[item]`
+- Vendre jusqu'à **8 ressources** (`/hdv`)
+- Claims jusqu'à **75 chunks** dans son clan (`/clans`)
+- Rejoindre **6 clans** en tant que membre (`/clans`)
 
 # Commandes du Moussaillon
-- `/signcopy` - Copier le texte d'une pancarte en cliquant dessus
-- `/signedit` - Modifier le texte d'une pancarte depuis la commande
 - `/sit` - S'asseoir sur tous les types de blocs
+- `/signcopy` - Copier le texte d'une pancarte
+- `/signedit` - Modifier le texte d'une pancarte
+- `/colorpicker` - Roue des couleurs customs
+- `/seen` - Afficher la dernière connexion
 
 +++ ![](/assets/images/grade-matelot.png) {#matelot .highlight}
 # Avantages du Matelot
-- Accès à **15 homes** (`/sethome <nom>`)
-- Rejoindre **2 métiers "secondaires"**
-- Rejoindre jusqu'à **12 clans** en tant que membre
-- Claims jusqu'à **150 chunks** dans son clan
-- Vendre jusqu'à **15 ressources** dans l'**hôtel des ventes**
-- Écrire en **couleurs** dans les **messages privés**
+- Rejoindre **2 métiers "secondaires"** (`/jobs`)
+- Créer jusqu'à **15 sethomes** max (`/sethome`)
+- Accès à **4 lignes** d'EnderChests au total
+- Écrire en **couleurs** (messages privés)
+- Vendre jusqu'à **15 ressources** (`/hdv`)
+- Claims jusqu'à **150 chunks** dans son clan (`/clans`)
+- Rejoindre **12 clans** en tant que membre (`/clans`)
 
 # Commandes du Matelot
-- `/back` - Se téléporter à son dernier point de téléportation
-- `/recipe` - Visualiser la recette de fabrication d'un objet
-- `/pweather` - Modifier sa météo personnelle (*pluie, soleil, etc.*)
+- `/stockagexp` - Conversion de l'EXP en Fiole d'EXP
+- `/back` - Téléporter vers dernier emplacement
+- `/feed` - Régénérer la barre de faim (*30min*)
+- `/pweather` - Modifier sa météo personnelle
+- `/recipe` - Visualiser toutes les recettes
+- `/nightvision` - Activer la vision nocturne
 
 +++ ![](/assets/images/grade-lieutenant.png) {#lieutenant .highlight}
 # Avantages du Lieutenant
-- Accès à **25 homes** (`/sethome <nom>`)
-- Rejoindre **3 métiers "secondaires"**
-- Rejoindre jusqu'à **20 clans** en tant que membre
-- Claims jusqu'à **250 chunks** dans son clan
-- Vendre jusqu'à **25 ressources** dans l'**hôtel des ventes**
-- Écrire en **couleurs** sur la **description de son pwarp**
+- Rejoindre **3 métiers "secondaires"** (`/jobs`)
+- Créer jusqu'à **25 sethomes** max (`/sethome`)
+- Accès à **5 lignes** d'EnderChests au total
+- Vendre jusqu'à **25 ressources** (`/hdv`)
+- Garder l'**expérience** lors de la mort
+- Claims jusqu'à **250 chunks** dans son clan (`/clans`)
+- Rejoindre **20 clans** en tant que membre (`/clans`)
 
 # Commandes du Lieutenant
-- `/condense` - Condenser le contenu de son inventaire
-- `/ec` - Accéder à son coffre de l'ender directement
-- `/craft` - Ouvrir un établi portatif
-- `/repair` - Réparer l'objet tenu en main (*toutes les 24h*)
+- `/feed` - Régénérer la barre de faim (*10min*)
+- `/ptime` - Modifier son temps personnel
+- `/uncondense` - Décompacter des ressources
+- `/condense` - Compacter des ressources
+- `/repair` - Réparer l'objet en main (*24h*)
+- `/ec` - Accéder à son ender chest
 
 +++ ![](/assets/images/grade-capitaine.png) {#capitaine .highlight}
 # Avantages du Capitaine
-- Accès à **40 homes** (`/sethome <nom>`)
-- Rejoindre **4 métiers "secondaires"**
-- Rejoindre jusqu'à **32 clans** en tant que membre
-- Claims jusqu'à **500 chunks** dans son clan
-- Vendre jusqu'à **40 ressources** dans l'**hôtel des ventes**
-- Garder son expérience à sa mort
-- Utiliser les **raccourcis dans le chat** (`/chatinfo`)
-- Écrire en **couleurs** dans le **chat public**
+- Rejoindre **4 métiers "secondaires"** (`/jobs`)
+- Créer jusqu'à **40 sethomes** max (`/sethome`)
+- Accès à **6 lignes** d'EnderChests au total
+- Écrire en **couleurs** (messages publics)
+- Vendre jusqu'à **40 ressources** (`/hdv`)
+- Garder l'**inventaire** lors de la mort
+- Claims jusqu'à **500 chunks** dans son clan (`/clans`)
+- Rejoindre **32 clans** en tant que membre (`/clans`)
 
 # Commandes du Capitaine
-- `/lookup` - Observer l'historique des actions effectuées sur un bloc
-- `/repair` - Réparer l'objet tenu en main (*toutes les 12h*)
-- `/feed` - Remplir sa barre de faim (*toutes les 10min*)
-- `/near` - Repérer les joueurs présents autour
+- `/heal` - Régénérer la barre de vie (*15min*)
+- `/lookup` - Afficher l'historique du bloc ciblé
+- `/repair` - Réparer l'objet en main (*10h*)
+- `/near` - Afficher les joueurs proches
+
++++ ![](/assets/images/grade-premium.png) {#premium .highlight}
+# Avantages du Premium
+- Avoir toutes les **téléportations instantanées**
+- Débloquer une **icône inédite** dans le chat
+- Utiliser les **gadgets** dans les stockages
+- Utiliser le **raccourci du chat** : `[inventaire]`
+- Modifier les **porte-armures** (*shift+click*)
+- Écrire en **couleurs** sur la description de son pwarp
+
+# Commandes du Premium
+- `/fly` - Pouvoir voler dans les claims
+- `/glowing` - Choisir une surbrillance
+- `/hdb` - Catalogue de têtes décoratives
+- `/phead` - Obtenir la tête d'un joueur
+- `/parchemins` - Ouvrir l'inventaire des parchemins
+- `/skin` - Changer l'apparence du skin
+- `/ride` - Chevaucher toutes les entités
+- `/craft`, `/anvil`, `/smithingtable`, `/grindstone`, `/loom`, `/stonecutter` - Accès aux établis
 +++
 
 ---
