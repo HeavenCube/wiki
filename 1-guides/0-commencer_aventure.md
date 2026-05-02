@@ -1,4 +1,4 @@
-# Comment commencer mon aventure ? [!badge variant="dark" size="xl" text="Informations"]
+# Comment bien commencer mon aventure ?
 
 [!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 

@@ -1,4 +1,4 @@
-# Les clans [!badge variant="dark" size="xl" text="Informations"]
+# Les clans et ses différents paramètres
 
 !!!warning Attention
 Le **système de clans** dans son ensemble est assez **complexe**, il permet de gérer en profondeur son clan et peut donc aider à organiser son clan comme bon te semble. Ce guide aura pour but d'**expliquer basiquement ce système**.

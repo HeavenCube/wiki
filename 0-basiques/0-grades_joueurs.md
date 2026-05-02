@@ -1,4 +1,4 @@
-# Les grades des joueurs [!badge variant="dark" size="xl" text="Informations"]
+# Les grades joueurs à débloquer
 
 !!!info Information importante
 Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à la commande `/grades`. Chaque grade requiert de nombreux **objectifs** à compléter.

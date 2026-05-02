@@ -1,4 +1,4 @@
-# Comment utiliser les entonnoirs spéciaux ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment utiliser les entonnoirs spéciaux ?
 
 [!badge variant="success" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]
 

@@ -3,7 +3,7 @@
 <url>https://heavenwiki.noltox.fr/basiques/grades/</url>
 <content>
 
-# Les grades des joueurs [!badge variant="dark" size="xl" text="Informations"]
+# Les grades joueurs à débloquer
 
 !!!info Information importante
 Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à la commande `/grades`. Chaque grade requiert de nombreux **objectifs** à compléter.
@@ -106,11 +106,11 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 </document>
 
 <document>
-<title>10 Clans</title>
+<title>1 Clans</title>
 <url>https://heavenwiki.noltox.fr/basiques/clans/</url>
 <content>
 
-# Les clans [!badge variant="dark" size="xl" text="Informations"]
+# Les clans et ses différents paramètres
 
 !!!warning Attention
 Le **système de clans** dans son ensemble est assez **complexe**, il permet de gérer en profondeur son clan et peut donc aider à organiser son clan comme bon te semble. Ce guide aura pour but d'**expliquer basiquement ce système**.
@@ -183,11 +183,11 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 </document>
 
 <document>
-<title>20 Hdv</title>
+<title>2 Hdv</title>
 <url>https://heavenwiki.noltox.fr/basiques/hotel-des-ventes/</url>
 <content>
 
-# L'hôtel des ventes [!badge variant="dark" size="xl" text="Informations"]
+# L'hôtel des ventes public
 
 L'**hôtel des ventes** peut te permettre de vendre n'importe quel objet via une interface simple et facilement utilisable pour tous les joueurs. L'hôtel des ventes est par ailleurs entièrement sécurisé ce qui limite les arnaques en général.
 
@@ -225,11 +225,11 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 </document>
 
 <document>
-<title>30 Jobs</title>
+<title>3 Jobs</title>
 <url>https://heavenwiki.noltox.fr/basiques/metiers/</url>
 <content>
 
-# Les métiers [!badge variant="dark" size="xl" text="Informations"]
+# Les métiers du Survie
 
 Les métiers représente une des **manières les plus simples** de faire de la monnaie sur HeavenCube. Tout d'abord, il existe **quelques informations** au sujet des métiers qui sont essentielles pour bien comprendre leur fonctionnement.
 
@@ -267,7 +267,7 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 </document>
 
 <document>
-<title>40 Limitations</title>
+<title>4 Limitations</title>
 <url>https://heavenwiki.noltox.fr/basiques/limitations/</url>
 <content>
 
@@ -322,11 +322,11 @@ Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pa
 </document>
 
 <document>
-<title>Tuto Commencer_Aventure</title>
-<url>https://heavenwiki.noltox.fr/guides/tuto-commencer_aventure/</url>
+<title>0 Commencer_Aventure</title>
+<url>https://heavenwiki.noltox.fr/guides/debut/</url>
 <content>
 
-# Comment commencer mon aventure ? [!badge variant="dark" size="xl" text="Informations"]
+# Comment bien commencer mon aventure ?
 
 [!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 
@@ -376,11 +376,11 @@ Après avoir pris connaissance de ces informations, tu peux alors te **rendre en
 </document>
 
 <document>
-<title>Tuto Creer Clan</title>
-<url>https://heavenwiki.noltox.fr/guides/tuto-creer-clan/</url>
+<title>1 Creation_Clan</title>
+<url>https://heavenwiki.noltox.fr/guides/clan/</url>
 <content>
 
-# Comment créer un clan ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment créer un clan et le paramétrer ?
 
 [!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 
@@ -416,11 +416,11 @@ Si tu possèdes une **ferme** que tu veux rendre **publique**, tu peux permettre
 </document>
 
 <document>
-<title>Tuto Utiliser_Hoppers</title>
-<url>https://heavenwiki.noltox.fr/guides/tuto-utiliser_hoppers/</url>
+<title>2 Utilisation_Entonnoirs_Speciaux</title>
+<url>https://heavenwiki.noltox.fr/guides/entonnoirs/</url>
 <content>
 
-# Comment utiliser les entonnoirs spéciaux ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment utiliser les entonnoirs spéciaux ?
 
 [!badge variant="success" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]
 

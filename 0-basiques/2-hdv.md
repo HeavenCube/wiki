@@ -1,4 +1,4 @@
-# L'hôtel des ventes [!badge variant="dark" size="xl" text="Informations"]
+# L'hôtel des ventes public
 
 L'**hôtel des ventes** peut te permettre de vendre n'importe quel objet via une interface simple et facilement utilisable pour tous les joueurs. L'hôtel des ventes est par ailleurs entièrement sécurisé ce qui limite les arnaques en général.
 

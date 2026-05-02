@@ -1,4 +1,4 @@
-# Les métiers [!badge variant="dark" size="xl" text="Informations"]
+# Les métiers du Survie
 
 Les métiers représente une des **manières les plus simples** de faire de la monnaie sur HeavenCube. Tout d'abord, il existe **quelques informations** au sujet des métiers qui sont essentielles pour bien comprendre leur fonctionnement.
 
