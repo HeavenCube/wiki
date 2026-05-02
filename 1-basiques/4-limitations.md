@@ -2,7 +2,7 @@
 permalink: /basiques/limitations/
 icon: stop
 label: "Les limitations"
-order: -4
+order: -400
 meta:
   description: "Prends connaissance des limitations en place sur le Survie d'HeavenCube."
 ---

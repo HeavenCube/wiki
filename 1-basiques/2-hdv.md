@@ -2,7 +2,7 @@
 permalink: /basiques/hotel-des-ventes/
 icon: tag
 label: "L'hôtel des ventes"
-order: -2
+order: -200
 meta:
   description: "Prends connaissance du système d'hôtel des ventes du Survie d'HeavenCube."
 ---

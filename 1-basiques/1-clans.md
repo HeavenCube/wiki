@@ -2,7 +2,7 @@
 permalink: /basiques/clans/
 icon: globe
 label: "Les clans"
-order: -1
+order: -100
 meta:
   description: "Prends connaissance du système de clans Survie d'HeavenCube."
 ---

@@ -2,7 +2,7 @@
 permalink: /guides/entonnoirs/
 icon: filter
 label: "Les entonnoirs spéciaux"
-order: -2
+order: -200
 meta:
   description: "Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos."
 ---
