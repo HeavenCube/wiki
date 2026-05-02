@@ -120,5 +120,5 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs questions ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!

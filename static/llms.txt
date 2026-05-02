@@ -49,6 +49,12 @@ Les **mondes "récolte"** (Récolte, Nether & End) sont régénérés le premier
 
 Après avoir pris connaissance de ces informations, tu peux alors te **rendre en monde Récolte** via la commande `/warp` afin de récolter toutes les ressources dont tu auras besoin, puis dans le **monde Survie pour y fonder ta base** !
 
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
+!!!
+
 </content>
 </document>
 
@@ -87,6 +93,12 @@ Tu peux également **inviter d'autres joueurs** dans ton clan pour avoir accès 
 
 !!!tip Conseil
 Si tu possèdes une **ferme** que tu veux rendre **publique**, tu peux permettre l'accès au rôle de visiteur de **tuer les monstres dans ton clan**. Grâce à cela, n'importe qui pourra tuer les monstres. **Mais attention à bien gérer ces permissions !**
+!!!
+
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -130,6 +142,12 @@ Le système d'entonnoirs spéciaux te permet également de **créer des filtres 
 
 !!!tip Conseil
 Avec le **système d'entonnoirs spéciaux**, tu peux créer un système complet de gestion pour ta salle des coffres par exemple. Ainsi, tu peux lier directement toutes tes farms à tes coffres et ainsi, trier tes coffres automatiquement.
+!!!
+
+---
+
+!!!question Des questions ?
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -262,7 +280,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs questions ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -339,7 +357,7 @@ Enfin, **lie la zone selectionnée** qui représente ta parcelle avec cette dern
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -381,7 +399,7 @@ Par ailleurs, tu peux également **échanger, acheter et vendre** des objets à 
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -423,7 +441,7 @@ Le métier de **pêcheur** consiste à **capturer des poissons** via le système
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
@@ -478,7 +496,7 @@ Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les
 ---
 
 !!!question Des questions ?
-Tu as toujours une ou plusieurs question.s ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)**.
+Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas à rejoindre notre serveur **[Discord](https://heavencube.fr/?ref=social-discord)** et faire appel à la communauté !
 !!!
 
 </content>
