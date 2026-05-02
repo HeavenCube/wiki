@@ -1,42 +1,21 @@
-input: ./
-output: retype-site
+input: .
+output: .retype
 
-url: https://heavenwiki.noltox.fr/
+url: https://heavenwiki.noltox.fr # Use your website address here
+
+start:
+  pro: true
+
+poweredByRetype: false
 
 branding:
   title: HeavenCube
   label: 1.21.11
   logo: "assets/logo/website-logo-compressed.webp"
-  logoAlign: left
-
-search:
-  preload: true
 
 links:
-- text: Site
-  link: https://heavencube.fr
-  icon: "comment-discussion-24"
-- text: Vote
-  link: https://heavencube.fr/vote
-  icon: "comment-discussion-24"
-- text: Boutique
-  link: https://heavencube.fr/boutique
-  icon: "comment-discussion-24"
-- text: Staffs
-  link: https://heavencube.fr/staff
-  icon: "comment-discussion-24"
-- text: Discord
-  link: https://heavencube.fr/?ref=wiki-discord
-  icon: "comment-discussion-24"
-
-meta:
-  title: " | HeavenCube"
-
-locale: fr
-
-favicon: "assets/favicons/favicon.ico"
-
-showSidebarFilter: false
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
 
 footer:
   copyright: "2021-{{ year }} HeavenCube • Non associé à Mojang/Microsoft."
