@@ -1,8 +1,6 @@
-﻿# Accueil
+﻿# HeavenCube
 
-> Bienvenue sur le wiki du Survie d'HeavenCube. Si tu cherches une information, elle se trouve probablement ici ! Si tu ne trouves pas de réponse à ta question, n'hésite pas à la poser sur Discord.
-
-- [Accueil](https://heavenwiki.noltox.fr/readme.md): Accueil
+- [Accueil](https://heavenwiki.noltox.fr/readme.md): Bienvenue sur le wiki du Survie d'HeavenCube. Si tu cherches une information, elle se trouve probablement ici ! Si tu ne trouves pas de réponse à ta question, n'hésite pas à la poser sur Discord.
 
 ## Guides
 
