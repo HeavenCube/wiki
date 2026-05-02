@@ -1,7 +1,7 @@
 input: ./
 output: retype-site
 
-url: https://heavencube.github.io/wiki.heavencube.fr
+url: https://retype-heavencube.noltox.fr/
 
 branding:
   title: HeavenCube
@@ -39,4 +39,4 @@ favicon: "assets/favicons/favicon.ico"
 showSidebarFilter: false
 
 footer:
-  copyright: "© Copyright {{ year }}. [HeavenCube](https://heavencube.fr/) Tous droits réservés."
+  copyright: "2021-{{ year }} HeavenCube • Non associé à Mojang/Microsoft."
