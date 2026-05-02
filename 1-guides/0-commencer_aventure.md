@@ -1,11 +1,12 @@
 ---
+permalink: /guides/debut/
 icon: sign-in
-label: "Comment commencer mon aventure ?"
-order: 100
+label: "Bien commencer l'aventure"
+order: 0
 meta:
   description: "Rejoindre le serveur est la première étape d'une belle aventure sur HeavenCube, alors autant savoir clairement comment nous rejoindre et profiter au maximum !"
 ---
-# Comment commencer mon aventure ? [!badge variant="dark" size="xl" text="Informations"]
+# Comment bien commencer mon aventure ?
 
 [!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 

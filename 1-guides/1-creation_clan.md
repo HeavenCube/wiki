@@ -1,11 +1,12 @@
 ---
+permalink: /guides/clan/
 icon: milestone
-label: "Comment créer un clan ?"
-order: 99
+label: "Création du clan"
+order: -1
 meta:
   description: "Parfois, créer un clan peut devenir une tâche compliquée quand on ne possède pas les bonnes informations. Ce guide vous expliquera en précision les choses à savoir pour créer votre clan."
 ---
-# Comment créer un clan ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment créer un clan et le paramétrer ?
 
 [!badge variant="primary" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]  
 

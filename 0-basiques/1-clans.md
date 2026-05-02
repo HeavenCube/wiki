@@ -2,12 +2,12 @@
 permalink: /basiques/clans/
 icon: globe
 label: "Les clans"
-order: -10
+order: -1
 meta:
   description: "Prends connaissance du système de clans Survie d'HeavenCube."
 ---
 
-# Les clans [!badge variant="dark" size="xl" text="Informations"]
+# Les clans et ses différents paramètres
 
 !!!warning Attention
 Le **système de clans** dans son ensemble est assez **complexe**, il permet de gérer en profondeur son clan et peut donc aider à organiser son clan comme bon te semble. Ce guide aura pour but d'**expliquer basiquement ce système**.

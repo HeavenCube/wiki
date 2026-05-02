@@ -1,11 +1,12 @@
 ---
+permalink: /guides/entonnoirs/
 icon: filter
-label: "Comment utiliser les entonnoirs améliorés ?"
-order: 98
+label: "Utilisation des entonnoirs spéciaux"
+order: -2
 meta:
   description: "Sur HeavenCube, les entonnoirs améliorés sont très utiles pour remplacer vos entonnoirs classiques et offrent bien plus ! Cette page vous expliquera tout à leur propos."
 ---
-# Comment utiliser les entonnoirs spéciaux ? [!badge variant="dark" size="xl" text="Tutoriel"]
+# Comment utiliser les entonnoirs spéciaux ?
 
 [!badge variant="success" size="l" text="Difficulté : :icon-sparkle-fill: :icon-sparkle-fill: :icon-sparkle: :icon-sparkle: :icon-sparkle:"]
 
