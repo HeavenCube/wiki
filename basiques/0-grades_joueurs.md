@@ -1,17 +1,10 @@
 ---
+permalink: /basiques/grades/
 icon: accessibility
 label: "Les grades"
-order: 100
-expanded: true
+order: 0
 meta:
   description: "Prends connaissance des grades joueur du serveur Survie d'HeavenCube."
-lastUpdated:
-  date:
-    enabled: true # default is true. false to disable
-    source: author
-  by:
-    enabled: true
-    source: committer
 ---
 
 # Les grades des joueurs [!badge variant="dark" size="xl" text="Informations"]

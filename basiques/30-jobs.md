@@ -1,7 +1,8 @@
 ---
+permalink: /basiques/metiers/
 icon: briefcase
 label: "Les métiers"
-order: 98
+order: 30
 meta:
   description: "Prends connaissance des métiers du serveur Survie d'HeavenCube."
 ---
