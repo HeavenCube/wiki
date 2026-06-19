@@ -1,0 +1,28 @@
+name: Publish Retype powered website to GitHub Pages
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v6
+      with:
+        fetch-depth: 0
+
+    - name: Generate llms.txt
+      uses: zakaria-chahboun/retype_llms@v3.0.1
+
+    - name: Build Retype
+      uses: retypeapp/action-build@latest
+
+    - name: Deploy to GitHub Pages
+      uses: retypeapp/action-github-pages@latest
+      with:
+        update-branch: true
