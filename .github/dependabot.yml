@@ -5,10 +5,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "06:00"
+      time: "04:00"
       timezone: "Europe/Paris"
 
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 20
     rebase-strategy: "auto"
 
     labels:
