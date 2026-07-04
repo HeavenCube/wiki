@@ -1,10 +1,9 @@
 ---
 label: Règlement Survie
 order: 770
+redirect: https://heavencube.fr/news/reglement
 ---
 
 # Règlement Survie
 
-Cette page présentera le règlement spécifique de la Survie.
-
-Contenu à compléter.
+Le règlement officiel est disponible sur le site HeavenCube.

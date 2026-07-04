@@ -1,10 +1,9 @@
 ---
 label: Règlement Créatif
 order: 780
+redirect: https://heavencube.fr/news/reglement
 ---
 
 # Règlement Créatif
 
-Cette page présentera le règlement spécifique du Créatif.
-
-Contenu à compléter.
+Le règlement officiel est disponible sur le site HeavenCube.

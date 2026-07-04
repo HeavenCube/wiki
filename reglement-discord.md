@@ -1,10 +1,9 @@
 ---
 label: Règlement Discord
 order: 800
+redirect: https://heavencube.fr/news/reglement
 ---
 
 # Règlement Discord
 
-Cette page présentera le règlement du Discord HeavenCube.
-
-Contenu à compléter.
+Le règlement officiel est disponible sur le site HeavenCube.
