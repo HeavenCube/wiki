@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+    - wiki-v2
 
 jobs:
   publish:
@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v7
+    - uses: actions/checkout@v7.0.0
       with:
         fetch-depth: 0
 
