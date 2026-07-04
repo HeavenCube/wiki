@@ -1,6 +1,7 @@
 ---
 label: Rejoindre
 order: 900
+icon: sign-in
 ---
 
 # Rejoindre HeavenCube

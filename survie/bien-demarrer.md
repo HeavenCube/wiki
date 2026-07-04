@@ -1,6 +1,7 @@
 ---
 label: Bien démarrer
 order: 900
+icon: rocket
 ---
 
 # Bien démarrer en Survie

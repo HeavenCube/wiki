@@ -1,6 +1,7 @@
 ---
 label: Survie
 order: 600
+icon: shield
 ---
 
 # Survie

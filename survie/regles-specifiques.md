@@ -1,6 +1,7 @@
 ---
 label: Règles spécifiques
 order: 800
+icon: checklist
 ---
 
 # Règles spécifiques de la Survie

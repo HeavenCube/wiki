@@ -1,6 +1,7 @@
 ---
 label: Accueil
 order: 1000
+icon: home
 ---
 
 # HeavenCube V2

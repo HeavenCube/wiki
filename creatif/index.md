@@ -1,6 +1,7 @@
 ---
 label: Créatif
 order: 700
+icon: paintbrush
 ---
 
 # Créatif
