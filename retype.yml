@@ -9,17 +9,16 @@ start:
 
 branding:
   title: HeavenCube
-  label: Wiki V2
 
 locale: fr
 
 lastUpdated:
   date:
     enabled: true
-    source: author
+    source: committer
   by:
     enabled: true
-    source: author
+    source: committer
 
 actions:
   enabled: true # See editor.enabled for live editor options while running retype start
