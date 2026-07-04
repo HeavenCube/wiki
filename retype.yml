@@ -33,5 +33,7 @@ hub:
   link: https://heavencube.fr
   target: blank
 
+poweredByRetype: false # Set to `false` to remove.
+
 exclude:
 - README.md
