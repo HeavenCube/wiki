@@ -18,11 +18,11 @@ jobs:
         fetch-depth: 0
 
     - name: Build Retype
-      uses: retypeapp/action-build@latest
+      uses: retypeapp/action-build@next
       with:
         key: ${{ secrets.RETYPE_KEY }}
 
     - name: Deploy to GitHub Pages
-      uses: retypeapp/action-github-pages@latest
+      uses: retypeapp/action-github-pages@next
       with:
         update-branch: true
