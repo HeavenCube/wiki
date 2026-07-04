@@ -1,8 +1,8 @@
-﻿# HeavenCube V2
+﻿# HeavenCube
 
 > Bienvenue sur la base du wiki HeavenCube V2.
 
-- [HeavenCube V2](https://heavencube.github.io/wiki/index.md): HeavenCube V2
+- [HeavenCube](https://heavencube.github.io/wiki/index.md): HeavenCube
 - [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Cette page regroupera les informations de connexion au serveur.
 - [Créatif](https://heavencube.github.io/wiki/creatif/index.md): Accueil temporaire de la section Créatif.
 - [Survie](https://heavencube.github.io/wiki/survie/index.md): Accueil temporaire de la section Survie.

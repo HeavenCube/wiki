@@ -1,4 +1,4 @@
-# HeavenCube V2
+# HeavenCube 
 
 Bienvenue sur la base du wiki HeavenCube V2.
 
