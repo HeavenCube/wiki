@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - v2
+    - v2
 
 permissions:
   contents: write
@@ -13,16 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v7.0.0
-        with:
-          fetch-depth: 0
+    - uses: actions/checkout@v7.0.0
+      with:
+        fetch-depth: 0
 
-      - name: Build Retype
-        uses: retypeapp/action-build@latest
-        env:
-          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+    - name: Build Retype
+      uses: retypeapp/action-build@latest
+      with:
+        key: ${{ secrets.RETYPE_KEY }}
 
-      - name: Deploy to GitHub Pages
-        uses: retypeapp/action-github-pages@latest
-        with:
-          update-branch: true
+    - name: Deploy to GitHub Pages
+      uses: retypeapp/action-github-pages@latest
+      with:
+        update-branch: true
