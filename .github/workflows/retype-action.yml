@@ -21,6 +21,8 @@ jobs:
 
     - name: Build Retype
       uses: retypeapp/action-build@latest
+      with:
+        key: ${{ secrets.RETYPE_KEY }}
 
     - name: Deploy to GitHub Pages
       uses: retypeapp/action-github-pages@latest
