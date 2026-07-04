@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heavenwiki.noltox.fr/sitemap.xml
+Sitemap: https://heavencube.github.io/wiki/sitemap.xml

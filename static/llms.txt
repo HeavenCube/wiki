@@ -1,6 +1,6 @@
 <document>
 <title>0 Commencer_Aventure</title>
-<url>https://heavenwiki.noltox.fr/guides/debut/</url>
+<url>https://heavencube.github.io/wiki/guides/debut/</url>
 <content>
 
 # Comment bien commencer mon aventure ?
@@ -13,7 +13,7 @@
 
 Commence par rejoindre le serveur avec l'adresse de connexion : `MC.HEAVENCUBE.FR` !
 
-![](https://heavenwiki.noltox.fr/assets/images/tuto-commencer_aventure.png)
+![](https://heavencube.github.io/wiki/assets/images/tuto-commencer_aventure.png)
 
 Une fois ta première connexion sur le Survie, c'est ici que ton aventure commence avec les autres joueurs !
 
@@ -60,7 +60,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>1 Creation_Clan</title>
-<url>https://heavenwiki.noltox.fr/guides/clan/</url>
+<url>https://heavencube.github.io/wiki/guides/clan/</url>
 <content>
 
 # Comment créer un clan et le paramétrer ?
@@ -83,7 +83,7 @@ Pour commencer, grâce à la commande `/clan create <nom du clan>`, cela te perm
 Détail important, la **commande de création de clan** ne peut être exécutée qu'uniquement dans le **monde Survie**.
 !!!
 
-![](https://heavenwiki.noltox.fr/assets/images/tuto-creer_son_clan.png)
+![](https://heavencube.github.io/wiki/assets/images/tuto-creer_son_clan.png)
 
 Maintenant que ton clan est créé, tu peux "claim", c'est-à-dire revendiquer une zone, délimitée par un chunk (16x16). La **quantité de chunk** que tu peux claim est **limitée par grade**. Ainsi, c'est le **grade du chef du clan** qui détermine le nombre de claims que le clan peut compter (jusqu'à 500 pour le Capitaine).
 
@@ -106,7 +106,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>2 Utilisation_Entonnoirs_Speciaux</title>
-<url>https://heavenwiki.noltox.fr/guides/entonnoirs/</url>
+<url>https://heavencube.github.io/wiki/guides/entonnoirs/</url>
 <content>
 
 # Comment utiliser les entonnoirs spéciaux ?
@@ -123,7 +123,7 @@ Obtiens un **entonnoir spécial** via boutique d'objets (`/boutique`), grâce au
 La première étape consiste à simplement **placer l'entonnoir au sol**, proche de là où tu souhaites **aspirer les objets**, depuis les contenants ou au sol, et proches des contenants vers lesquels tu souhaites **acheminer les objets**.
 >>> Ouvre le menu via un clic-gauche
 Pour ouvrir le **menu de gestion** de l'entonnoir spécial, il te suffit de faire un **clic-gauche sur ce dernier**.
-![|500](https://heavenwiki.noltox.fr/assets/images/tuto-utiliser_hopper-menu.png)
+![|500](https://heavencube.github.io/wiki/assets/images/tuto-utiliser_hopper-menu.png)
 >>> Gère facilement ton entonnoir
 Grâce à ce menu, tu as accès à différentes options : 
 - Le **rayon d'aspiration** : Distance à laquelle cet entonnoir va pouvoir aspirer les objets au sol.
@@ -155,7 +155,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>0 Grades_Joueurs</title>
-<url>https://heavenwiki.noltox.fr/basiques/grades/</url>
+<url>https://heavencube.github.io/wiki/basiques/grades/</url>
 <content>
 
 # Les grades joueurs à débloquer
@@ -166,7 +166,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 
 ---
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/maraudeur.png) {#maraudeur .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/maraudeur.png) {#maraudeur .highlight}
 # Avantages par défaut
 - Rejoindre **1 métier "principal"** (`/jobs`)
 - Créer **1 clan** et gérer ses paramètres (`/clans`)
@@ -185,7 +185,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/protect` - Protéger des stockages
 - `/calcul` - Effectuer une opération
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/moussaillon.png) {#moussaillon .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/moussaillon.png) {#moussaillon .highlight}
 # Avantages du Moussaillon
 - Rejoindre **1 métier "secondaire"** (`/jobs`)
 - Sponsoriser **1 pwarp** dans l'interface et au spawn
@@ -204,7 +204,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/colorpicker` - Roue des couleurs customs
 - `/seen` - Afficher la dernière connexion
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/matelot.png) {#matelot .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/matelot.png) {#matelot .highlight}
 # Avantages du Matelot
 - Rejoindre **2 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **15 sethomes** max (`/sethome`)
@@ -222,7 +222,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/recipe` - Visualiser toutes les recettes
 - `/nightvision` - Activer la vision nocturne
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/lieutenant.png) {#lieutenant .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/lieutenant.png) {#lieutenant .highlight}
 # Avantages du Lieutenant
 - Rejoindre **3 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **25 sethomes** max (`/sethome`)
@@ -240,7 +240,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet en main (*24h*)
 - `/ec` - Accéder à son ender chest
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/capitaine.png) {#capitaine .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/capitaine.png) {#capitaine .highlight}
 # Avantages du Capitaine
 - Rejoindre **4 métiers "secondaires"** (`/jobs`)
 - Créer jusqu'à **40 sethomes** max (`/sethome`)
@@ -257,7 +257,7 @@ Pour passer les grades, tous les **prérequis** sont indiqués en jeu grâce à 
 - `/repair` - Réparer l'objet en main (*10h*)
 - `/near` - Afficher les joueurs proches
 
-+++ ![](https://heavenwiki.noltox.fr/assets/images/grades/capitaine.png) {#abo-premium .highlight}
++++ ![](https://heavencube.github.io/wiki/assets/images/grades/capitaine.png) {#abo-premium .highlight}
 # Avantages de l'Abonnement Premium
 - Avoir toutes les **téléportations instantanées**
 - Débloquer une **icône inédite** dans le chat
@@ -288,7 +288,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>1 Clans</title>
-<url>https://heavenwiki.noltox.fr/basiques/clans/</url>
+<url>https://heavencube.github.io/wiki/basiques/clans/</url>
 <content>
 
 # Les clans et ses différents paramètres
@@ -301,7 +301,7 @@ Le **système de clans** dans son ensemble est assez **complexe**, il permet de 
 
 Tout d'abord, la première étape pour gérer son clan consiste à le créer. Si tu ne sais pas encore comment le faire, nous t'invitons à consulter le guide ci-dessous.
 
-[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](https://heavenwiki.noltox.fr/0-guides/1-creation_clan.md)
+[!card text="Créer un clan peut être une **tâche compliquée** quand on ne possède pas les bonnes informations. **Ce guide est là pour ça**." kicker="tutoriel" image="/assets/images/infos-clans_banniere.png"](https://heavencube.github.io/wiki/0-guides/1-creation_clan.md)
 
 Après avoir créé ton clan, tu peux accéder au menu de gestion via la commande `/clans`.
 
@@ -313,7 +313,7 @@ Les **rôles** fonctionnent de la **même manière** que des grades en jeu ou qu
 
 Tu peux **créer autant de rôles que tu veux**, leur donner le nom que tu veux et attribuer ce grade à quiconque qui soit membre du clan.
 
-![|500](https://heavenwiki.noltox.fr/assets/images/infos-clans-roles.png)
+![|500](https://heavencube.github.io/wiki/assets/images/infos-clans-roles.png)
 
 !!!tip Conseil
 Si tu possèdes une **farm publique**, tu peux **autoriser les visiteurs** à pouvoir **tuer les monstres** ou **récupérer les objets au sol**. 
@@ -347,7 +347,7 @@ Les **parcelles** sont une fonctionnalité un peu **plus avancée et technique**
 L'**objectif principal** d'une parcelle est de pouvoir **appliquer des paramètres particuliers** à une **zone définie dans ton clan**. Les paramètres peuvent être des paramètres généraux ou bien de rôle.
 
 >>> Crée la parcelle dans l'interface du clan
-![|500](https://heavenwiki.noltox.fr/assets/images/info-clans-parcelles.png)
+![|500](https://heavencube.github.io/wiki/assets/images/info-clans-parcelles.png)
 >>> Sélectionne la parcelle créée 
 Définie la parcelle avec la commande `/clan selection`. À ce moment, grâce à l'**outil** qui te seras attribué, tu devras **sélectionner deux points**, aux extrémités de la zone choisie.
 >>> Attribue la sélection à la parcelle
@@ -365,7 +365,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>2 Hdv</title>
-<url>https://heavenwiki.noltox.fr/basiques/hotel-des-ventes/</url>
+<url>https://heavencube.github.io/wiki/basiques/hotel-des-ventes/</url>
 <content>
 
 # L'hôtel des ventes public
@@ -376,7 +376,7 @@ L'**hôtel des ventes** peut te permettre de vendre n'importe quel objet via une
 Bien que les **arnaques soient interdites**, certains joueurs peuvent être tentés d'en réaliser, si tu en es **victime**, n'hésite pas à prendre des **preuves** de celle-ci et dénoncer ce comportement directement en **ticket sur notre serveur Discord**.
 !!!
 
-Le **nombre d'objets** pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](https://heavenwiki.noltox.fr/1-basiques/0-grades_joueurs.md).
+Le **nombre d'objets** pouvant être mis en vente simultanément dépend de ton grade actuel, retrouve le nombre exact d'objets sur la [page détaillée des grades](https://heavencube.github.io/wiki/1-basiques/0-grades_joueurs.md).
 
 Tu peux **vendre n'importe quel objet** avec la commande `/hdv sell <prix> <quantité>`. Il faut ainsi tenir l'objet que tu veux vendre en main pour pouvoir exécuter cette commande.
 
@@ -384,7 +384,7 @@ Tu peux **vendre n'importe quel objet** avec la commande `/hdv sell <prix> <quan
 Ainsi, si tu as **32 pommes d'or en main** et que tu fais la commande `/hdv sell 150 2`, deux pommes seront mises en vente pour 150 pièces à l'unité.
 !!!
 
-![|500](https://heavenwiki.noltox.fr/assets/images/infos-hdv.png)
+![|500](https://heavencube.github.io/wiki/assets/images/infos-hdv.png)
 
 Tu peux **trier les objets en vente** selon leur date de mise en vente ou leur prix.
 
@@ -407,7 +407,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>3 Jobs</title>
-<url>https://heavenwiki.noltox.fr/basiques/metiers/</url>
+<url>https://heavencube.github.io/wiki/basiques/metiers/</url>
 <content>
 
 # Les métiers du Survie
@@ -418,7 +418,7 @@ Tout d'abord, de base, tu n'as **aucun métier de sélectionné**, il te faut ch
 
 Pour chaque métier, tu peux choisir entre le choisir comme **métier primaire** ou **secondaire**. Un métier secondaire rapportera **50% d'Exp. et de monnaie en moins** qu'un métier principal. Tu peux changer de métier à tout moment via la commande `/metiers`.
 
-Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](https://heavenwiki.noltox.fr/1-basiques/0-grades_joueurs.md), pour en savoir plus. 
+Le nombre de métiers que tu peux choisir dépend de ton grade. Nous t'invitons à consulter la page informative sur les grades, [accessible ici](https://heavencube.github.io/wiki/1-basiques/0-grades_joueurs.md), pour en savoir plus. 
 
 !!!info Information importante
 Pour **obtenir de la monnaie grâce aux métiers**, le plus simple est ainsi d'**effectuer les tâches** pour **récolter les ressources** associées à chaque métier puis de les **revendre au spawn** auprès des marchands respectifs. Les **paliers de métiers** sont également une bonne manière d'obtenir de la monnaie en progressant.
@@ -449,7 +449,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>4 Limitations</title>
-<url>https://heavenwiki.noltox.fr/basiques/limitations/</url>
+<url>https://heavencube.github.io/wiki/basiques/limitations/</url>
 <content>
 
 # Les limitations [!badge variant="dark" size="xl" text="Informations"]
@@ -489,7 +489,7 @@ Enfin, **certains blocs** comme les **coffres**, **fourneaux**, etc. sont égale
 En effet, les **stockages avancés** remplacent les coffres basiques, en plus d'être très pratiques et bien plus utiles. Ils permettent de stocker une grande quantité d'objets dans un seul bloc. Ou encore les **entonnoirs spéciaux** qui permettent de récupérer des objets dans une plus grande distance et les transférer à plusieurs contenants, à distance etc.
 
 !!!tip Conseil
-Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](https://heavenwiki.noltox.fr/0-guides/2-utilisation_entonnoirs_speciaux.md).
+Un **guide pratique sur les entonnoirs spéciaux** est disponible pour mieux les apréhender et les comprendre. Ce dernier est disponible sur [cette page dédiée](https://heavencube.github.io/wiki/0-guides/2-utilisation_entonnoirs_speciaux.md).
 !!!
 
 
@@ -504,7 +504,7 @@ Tu as toujours des questions à ce sujet ? Alors, pour les poser, n'hésite pas 
 
 <document>
 <title>Readme</title>
-<url>https://heavenwiki.noltox.fr/</url>
+<url>https://heavencube.github.io/wiki/</url>
 <content>
 
 # Accueil
