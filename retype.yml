@@ -1,10 +1,38 @@
 input: .
 output: .retype
+
 url: heavencube.github.io/wiki/
+
+start:
+  # Try the Retype Pro features
+  pro: true
 
 branding:
   title: HeavenCube
   label: Wiki V2
 
+locale: fr
+
+lastUpdated:
+  date:
+    enabled: true
+    source: author
+  by:
+    enabled: true
+    source: author
+
+actions:
+  enabled: true # See editor.enabled for live editor options while running retype start
+
+editor:
+  enabled: true # See actions.enabled for page action menu options
+
+breadcrumb:
+  enabled: true # Disabled project wide
+
+hub:
+  link: https://heavencube.fr
+  target: blank
+
 exclude:
-  - README.md
+- README.md
