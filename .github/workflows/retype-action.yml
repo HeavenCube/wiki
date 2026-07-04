@@ -3,21 +3,19 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - wiki-v2
+    - v2
+
+permissions:
+  contents: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
     - uses: actions/checkout@v7.0.0
       with:
         fetch-depth: 0
-
-    - name: Generate llms.txt
-      uses: zakaria-chahboun/retype_llms@v3.0.1
 
     - name: Build Retype
       uses: retypeapp/action-build@latest

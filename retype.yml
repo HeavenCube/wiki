@@ -1,0 +1,10 @@
+input: .
+output: .retype
+url: heavencube.github.io/wiki/
+
+branding:
+  title: HeavenCube
+  label: Wiki V2
+
+exclude:
+  - README.md
