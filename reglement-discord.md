@@ -1,5 +1,3 @@
 # Règlement Discord
 
-Cette page présentera le règlement du Discord HeavenCube.
-
-Contenu à compléter.
+Le règlement officiel est disponible sur le site HeavenCube.

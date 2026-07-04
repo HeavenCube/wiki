@@ -4,10 +4,6 @@
 
 - [HeavenCube V2](https://heavencube.github.io/wiki/index.md): HeavenCube V2
 - [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Cette page regroupera les informations de connexion au serveur.
-- [Règlement Discord](https://heavencube.github.io/wiki/reglement-discord.md): Cette page présentera le règlement du Discord HeavenCube.
-- [Règlement Minecraft](https://heavencube.github.io/wiki/reglement-minecraft.md): Cette page présentera le règlement global Minecraft.
-- [Règlement Créatif](https://heavencube.github.io/wiki/reglement-creatif.md): Cette page présentera le règlement spécifique du Créatif.
-- [Règlement Survie](https://heavencube.github.io/wiki/reglement-survie.md): Cette page présentera le règlement spécifique de la Survie.
 - [Créatif](https://heavencube.github.io/wiki/creatif/index.md): Accueil temporaire de la section Créatif.
 - [Survie](https://heavencube.github.io/wiki/survie/index.md): Accueil temporaire de la section Survie.
 
