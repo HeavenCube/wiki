@@ -10,9 +10,7 @@
 ## Créatif
 
 - [Bien démarrer en Créatif](https://heavencube.github.io/wiki/creatif/bien-demarrer.md): Cette page aidera les joueurs à débuter sur le Créatif.
-- [Règles spécifiques du Créatif](https://heavencube.github.io/wiki/creatif/regles-specifiques.md): Cette page présentera les règles spécifiques du mode Créatif.
 
 ## Survie
 
 - [Bien démarrer en Survie](https://heavencube.github.io/wiki/survie/bien-demarrer.md): Cette page aidera les joueurs à débuter sur la Survie.
-- [Règles spécifiques de la Survie](https://heavencube.github.io/wiki/survie/regles-specifiques.md): Cette page présentera les règles spécifiques du mode Survie.
