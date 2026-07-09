@@ -1,16 +1,5 @@
-﻿# HeavenCube
+﻿#  | Wiki HeavenCube
 
-> Bienvenue sur la base du wiki HeavenCube V2.
+> Wiki officiel du serveur Minecraft HeavenCube : guides, commandes, fonctionnalités, règles et aide pour les joueurs.
 
-- [HeavenCube](https://heavencube.github.io/wiki/index.md): HeavenCube
-- [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Cette page regroupera les informations de connexion au serveur.
-- [Créatif](https://heavencube.github.io/wiki/creatif/index.md): Accueil temporaire de la section Créatif.
-- [Survie](https://heavencube.github.io/wiki/survie/index.md): Accueil temporaire de la section Survie.
-
-## Créatif
-
-- [Bien démarrer en Créatif](https://heavencube.github.io/wiki/creatif/bien-demarrer.md): Cette page aidera les joueurs à débuter sur le Créatif.
-
-## Survie
-
-- [Bien démarrer en Survie](https://heavencube.github.io/wiki/survie/bien-demarrer.md): Cette page aidera les joueurs à débuter sur la Survie.
+- [Welcome](https://heavencube.github.io/wiki/): Welcome
