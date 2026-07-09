@@ -1,16 +1,50 @@
 input: .
 output: .retype
 
-url: heavencube.github.io/wiki/
+url: https://heavencube.github.io/wiki/
 
 start:
-  # Try the Retype Pro features
   pro: true
 
 branding:
   title: HeavenCube
+  label: Wiki
+  logo: static/logo.png
+  logoDark: static/logo-dark.png
 
 locale: fr
+
+meta:
+  title: " | Wiki HeavenCube"
+  description: "Wiki officiel du serveur Minecraft HeavenCube : guides, commandes, fonctionnalités, règles et aide pour les joueurs."
+
+links:
+- text: Site officiel
+  link: https://heavencube.fr
+  target: blank
+  icon: home
+
+- text: Discord
+  link: https://discord.heavencube.fr
+  target: blank
+  icon: comment-discussion
+
+- text: Boutique
+  link: https://heavencube.fr/boutique
+  target: blank
+  icon: gift
+
+- text: GitHub
+  link: https://github.com/HeavenCube/wiki
+  target: blank
+  icon: mark-github
+
+footer:
+  copyright: "&copy; Copyright {{ year }} HeavenCube. Tous droits réservés."
+  links:
+  - text: Site officiel
+    link: https://heavencube.fr
+    target: blank
 
 lastUpdated:
   date:
@@ -20,20 +54,31 @@ lastUpdated:
     enabled: true
     source: committer
 
+breadcrumb:
+  enabled: true
+
+toc:
+  depth: 3
+
+search:
+  hotkeys:
+  - "/"
+
 actions:
-  enabled: true # See editor.enabled for live editor options while running retype start
+  enabled: true
 
 editor:
-  enabled: true # See actions.enabled for page action menu options
-
-breadcrumb:
-  enabled: true # Disabled project wide
+  enabled: true
 
 hub:
   link: https://heavencube.fr
   target: blank
 
-poweredByRetype: false # Set to `false` to remove.
+poweredByRetype: false
 
 exclude:
 - README.md
+- node_modules
+- .git
+- .github
+- .retype
