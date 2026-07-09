@@ -1,0 +1,29 @@
+/
+├─ readme.md
+├─ rejoindre.md
+├─ premiers-pas.md
+├─ reglements.md
+├─ survie/
+│  ├─ index.md
+│  ├─ claims.md
+│  ├─ grades.md
+│  ├─ quetes.md
+│  ├─ metiers.md
+│  ├─ economie.md
+│  ├─ pwarps.md
+│  ├─ peche.md
+│  ├─ evenements.md
+│  ├─ classements.md
+│  ├─ items-speciaux.md
+│  ├─ mobs-custom.md
+│  └─ pack-ressources.md
+├─ creatif/
+│  └─ index.md
+├─ utilitaire/
+│  ├─ discord.md
+│  ├─ boutique.md
+│  ├─ vote.md
+│  └─ support.md
+└─ contributeurs/
+   ├─ contribuer.md
+   └─ style-guide.md

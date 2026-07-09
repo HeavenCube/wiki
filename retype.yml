@@ -9,8 +9,8 @@ start:
 branding:
   title: HeavenCube
   label: Wiki
-  logo: static/logo.png
-  logoDark: static/logo-dark.png
+  logo: assets/images/logo.png
+  logoDark: assets/images/logo.png
 
 locale: fr
 
@@ -57,6 +57,11 @@ lastUpdated:
 breadcrumb:
   enabled: true
 
+backlinks:
+  enabled: true
+  title: "Pages qui renvoient ici"
+  maxResults: 8
+
 toc:
   depth: 3
 
@@ -74,10 +79,7 @@ hub:
   link: https://heavencube.fr
   target: blank
 
-poweredByRetype: false
-
 exclude:
-- README.md
 - node_modules
 - .git
 - .github
