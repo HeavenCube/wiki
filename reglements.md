@@ -1,77 +1,83 @@
-# Reglements de HeavenCube
+# Règlement de HeavenCube
 
-Les reglements protegent l'ambiance, les constructions et le temps de jeu de chacun. Cette page pose une base claire, a completer avec les regles officielles confirmees par l'equipe.
+Le règlement protège les joueurs, leurs constructions et la qualité des échanges. Lisez-le avant de jouer, puis revenez-y dès qu’une action vous semble incertaine.
 
-[!badge text="Important" variant="danger" icon="shield"]
-[!badge text="A valider par l'equipe" variant="warning" icon="alert"]
-
-!!!warning Validation necessaire
-Le depot ne contient pas encore le reglement officiel detaille. **TODO : remplacer cette base par les regles validees par l'equipe HeavenCube.**
+!!!warning Règlement officiel à intégrer
+Le dépôt ne contient pas encore le texte validé par l’équipe. Les thèmes ci-dessous servent uniquement à organiser les futures règles et ne constituent pas une liste officielle de sanctions ou d’interdictions.
 !!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Lire cette page avant de jouer.
-- [ ] Consulter les annonces officielles.
-- [ ] Demander au staff en cas de doute.
+- [ ] Lire cette page avant votre première session.
+- [ ] Consulter les annonces officielles en cas de mise à jour.
+- [ ] Demander une confirmation à l’équipe lorsqu’une règle manque.
 
-## Commandes utiles
+## Règles à renseigner
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/rules` | Afficher les regles en jeu. | [!badge A confirmer\|warning] |
-| `/report <joueur>` | Signaler un comportement. | [!badge A confirmer\|warning] |
-| `/helpop <message>` | Contacter l'equipe en jeu. | [!badge A confirmer\|warning] |
+| Thème | Information officielle attendue |
+| --- | --- |
+| Respect et comportement | `[RÈGLES DE COMPORTEMENT ET DE COMMUNICATION]` |
+| Triche et logiciels | `[LISTE DES MODS ET LOGICIELS AUTORISÉS OU INTERDITS]` |
+| Constructions et protections | `[RÈGLES SUR LES CONSTRUCTIONS, CLAIMS ET DISTANCES]` |
+| Économie et échanges | `[RÈGLES SUR LES ÉCHANGES, PRIX ET EXPLOITATIONS INTERDITES]` |
+| Combat entre joueurs | `[RÈGLES ET ZONES DE COMBAT ENTRE JOUEURS]` |
+| Fermes et performances | `[LIMITES DES FERMES ET MACHINES AUTOMATIQUES]` |
+| Sanctions | `[BARÈME DES SANCTIONS ET PROCÉDURE D’APPEL]` |
 
-## Guide etape par etape
+## Que faire en cas de doute ?
 
->>> Lire avant d'agir
-Avant une construction, un commerce ou une interaction sensible, verifie les regles associees.
+1. Arrêtez l’action concernée avant qu’elle ne cause un dommage.
+2. Relisez la section correspondante du règlement.
+3. Préparez une question courte avec le contexte nécessaire.
+4. Contactez l’équipe par le canal indiqué sur la page [Support](utilitaire/support.md).
 
->>> Respecter les espaces
-Ne modifie pas une construction, un claim ou une zone communautaire sans autorisation claire.
+## Signaler un problème
 
->>> Signaler calmement
-En cas de probleme, rassemble des informations utiles : pseudo, date, lieu, capture d'ecran et description courte.
+Avant d’envoyer un signalement, notez :
 
->>> Attendre la decision
-Laisse l'equipe traiter le signalement. Evite les conflits publics dans le chat.
->>>
+- le pseudonyme du joueur concerné ;
+- la date et l’heure approximatives ;
+- le monde ou le lieu ;
+- une description factuelle ;
+- les captures d’écran disponibles.
 
-## Base de regles a confirmer
+| Besoin | Commande ou procédure officielle |
+| --- | --- |
+| Afficher le règlement en jeu | `[COMMANDE DU RÈGLEMENT]` |
+| Signaler un joueur | `[COMMANDE OU PROCÉDURE DE SIGNALEMENT]` |
+| Contacter l’équipe en jeu | `[COMMANDE DE CONTACT DE L’ÉQUIPE]` |
 
-| Theme | Principe | Statut |
-| --- | --- | --- |
-| Respect | Rester poli avec les joueurs et l'equipe. | [!badge A confirmer\|warning] |
-| Triche | Ne pas utiliser d'avantage interdit. | [!badge A confirmer\|warning] |
-| Constructions | Respecter les zones, claims et projets des autres. | [!badge A confirmer\|warning] |
-| Economie | Ne pas exploiter de bug ou duplication. | [!badge A confirmer\|warning] |
-| Chat | Eviter spam, provocations et contenus inappropries. | [!badge A confirmer\|warning] |
+## Erreurs fréquentes
+
+- Présenter une habitude d’un autre serveur comme une règle de HeavenCube.
+- Répondre publiquement à une provocation au lieu de conserver les preuves.
+- Modifier une construction ou un terrain sans autorisation explicite.
+- Exploiter un comportement anormal avant de demander s’il s’agit d’un bug.
 
 ## Conseils pratiques
 
-!!!tip En cas de doute
-Si une action pourrait gener quelqu'un ou contourner une limite, demande avant. C'est plus simple qu'une correction apres coup.
+!!!tip En cas d’incertitude
+Demandez avant d’agir. Une réponse officielle évite les conflits et protège votre progression.
 !!!
 
-## FAQ
+## Questions fréquentes
 
-!!!question Ou trouver les sanctions ?
-**TODO : ajouter l'echelle officielle des sanctions et le processus d'appel.**
+!!!question Quels mods sont autorisés ?
+Consultez `[LISTE DES MODS AUTORISÉS]` dès qu’elle aura été publiée. En attendant, demandez une validation avant d’utiliser un mod qui procure un avantage.
 !!!
 
-!!!question Les mods client sont-ils autorises ?
-**TODO : lister les mods autorises, toleres et interdits.**
+!!!question Comment contester une sanction ?
+Suivez `[PROCÉDURE OFFICIELLE D’APPEL]`. N’ouvrez pas plusieurs demandes pour la même décision.
 !!!
 
-!!!question Comment contester une decision ?
-Passe par le canal de [support](utilitaire/support.md). **TODO : confirmer la procedure officielle.**
+!!!question Le règlement peut-il changer ?
+Oui. La date de dernière mise à jour apparaît sur le wiki ; les annonces officielles doivent préciser les changements importants.
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Support](utilitaire/support.md)
-- [Contribuer au wiki](contributeurs/contribuer.md)
 - [Premiers pas](premiers-pas.md)
+- [Support](utilitaire/support.md)
+- [Discord](utilitaire/discord.md)
 
 [!backlinks]

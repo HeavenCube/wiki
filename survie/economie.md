@@ -1,65 +1,66 @@
-# Economie
+# Comprendre l’économie
 
-L'economie rassemble l'argent en jeu, les achats, les ventes, les echanges entre joueurs et les eventuels commerces publics.
+L’économie regroupe la monnaie utilisée en jeu, les achats, les ventes et les échanges entre joueurs. Comprendre les outils officiels vous évite les erreurs de prix et les transactions risquées.
 
-[!badge text="Argent en jeu" variant="primary" icon="coin"]
-[!badge text="Prix a confirmer" variant="warning" icon="alert"]
-
-## Prerequis
-
-- [ ] Connaitre la monnaie utilisee. **TODO : confirmer le nom de la monnaie.**
-- [ ] Verifier les moyens de gagner de l'argent : metiers, ventes, votes, quetes. **TODO : confirmer.**
-- [ ] Lire les regles contre l'exploitation de bug.
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/bal` | Voir son solde. | [!badge A confirmer\|warning] |
-| `/pay <joueur> <montant>` | Payer un joueur. | [!badge A confirmer\|warning] |
-| `/shop` | Ouvrir la boutique en jeu. | [!badge A confirmer\|warning] |
-| `/ah` | Ouvrir l'hotel des ventes. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Comprendre les sources de revenus
-Identifie ce qui rapporte vraiment sur HeavenCube : [metiers](metiers.md), [quetes](quetes.md), ventes, evenements ou votes.
-
->>> Verifier les prix
-Avant d'acheter ou vendre, compare avec les prix du marche si un systeme existe.
-
->>> Echanger prudemment
-Utilise les commandes ou interfaces securisees plutot que de jeter des objets au sol.
-
->>> Signaler les anomalies
-Si un prix ou une recompense semble exploitable, contacte le [support](../utilitaire/support.md).
->>>
-
-## Conseils pratiques
-
-!!!tip Garder une reserve
-Ne depense pas tout ton solde pour un seul achat. Garde une marge pour les claims, grades, pwarps ou besoins futurs si ces couts existent.
+!!!warning Valeurs à confirmer
+Le nom de la monnaie, les sources de revenus, les boutiques et les commandes doivent encore être documentés.
 !!!
 
-## FAQ
+## Prérequis
 
-!!!question Existe-t-il un shop admin ?
-**TODO : confirmer les shops officiels, les categories et les prix.**
+- Connaître `[NOM DE LA MONNAIE DU SERVEUR]`.
+- Lire les règles sur les échanges et les exploitations interdites.
+- Vérifier le prix et le destinataire avant chaque paiement.
+
+## Accéder à l’économie
+
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Consulter son solde | `[COMMANDE DE CONSULTATION DU SOLDE]` |
+| Payer un joueur | `[COMMANDE DE PAIEMENT ENTRE JOUEURS]` |
+| Ouvrir la boutique en jeu | `[COMMANDE OU MENU DE LA BOUTIQUE EN JEU]` |
+| Ouvrir le marché entre joueurs | `[COMMANDE OU MENU DU MARCHÉ ENTRE JOUEURS]` |
+
+## Guide étape par étape
+
+1. Consultez votre solde avant la transaction.
+2. Identifiez la source officielle du prix : boutique, menu ou offre d’un joueur.
+3. Vérifiez le pseudonyme, le montant et l’objet échangé.
+4. Utilisez une interface sécurisée lorsqu’elle existe.
+5. Contrôlez le nouveau solde et conservez une preuve pour les échanges importants.
+
+## Moyens de gagner de la monnaie
+
+Les sources confirmées doivent être ajoutées ici : `[SOURCES OFFICIELLES DE REVENUS]`.
+
+Ne supposez pas qu’une quête, un métier, un vote ou une vente rapporte de l’argent tant que sa page ne l’indique pas clairement.
+
+## Erreurs fréquentes
+
+- Envoyer un paiement au mauvais pseudonyme.
+- Jeter un objet au sol pour réaliser une transaction importante.
+- Confondre la boutique en jeu avec la boutique web.
+- Exploiter un prix anormal au lieu de le signaler.
+
+## Questions fréquentes
+
+!!!question Existe-t-il une boutique gérée par le serveur ?
+Son accès et ses catégories sont `[ACCÈS ET CATÉGORIES DE LA BOUTIQUE DU SERVEUR]`.
 !!!
 
-!!!question Les joueurs peuvent-ils creer des boutiques ?
-**TODO : confirmer le systeme de shop joueur et les commandes.**
+!!!question Les joueurs peuvent-ils créer une boutique ?
+Le système officiel est `[SYSTÈME DE BOUTIQUES ENTRE JOUEURS]`.
 !!!
 
-!!!question Les prix sont-ils controles ?
-**TODO : confirmer si l'economie est libre ou encadree.**
+!!!question Que faire face à un prix manifestement incorrect ?
+N’en profitez pas. Prenez une capture et contactez le [support](../utilitaire/support.md).
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Metiers](metiers.md)
-- [Quetes](quetes.md)
+- [Métiers](metiers.md)
+- [Quêtes](quetes.md)
 - [Pwarps](pwarps.md)
-- [Boutique](../utilitaire/boutique.md)
+- [Boutique web](../utilitaire/boutique.md)
 
 [!backlinks]

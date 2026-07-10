@@ -1,98 +1,134 @@
 # Guide de style du wiki
 
-Le guide de style garde les pages coherentes, faciles a lire et utiles aux joueurs, meme quand plusieurs personnes contribuent.
+Ce guide fixe les règles éditoriales du wiki HeavenCube. Son objectif est de produire des pages naturelles en français, faciles à parcourir et fiables pour les nouveaux joueurs.
 
-[!badge text="Style" variant="primary" icon="typography"]
-[!badge text="Retype" variant="info" icon="book"]
+## Principes essentiels
 
-## Prerequis
+1. Expliquez une fonctionnalité avant de donner ses commandes.
+2. Définissez chaque terme technique lors de sa première utilisation.
+3. Utilisez des phrases courtes et adressez-vous directement au joueur.
+4. Ne confirmez jamais une mécanique propre au serveur sans source.
+5. Utilisez les accents, les apostrophes et la ponctuation françaises.
 
-- [ ] Connaitre l'objectif du wiki : aider les joueurs.
-- [ ] Utiliser un francais clair et direct.
-- [ ] Verifier les informations serveur avant de les affirmer.
+## Structure recommandée
 
-## Commandes utiles
+Une page de fonctionnalité peut contenir :
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `retype start` | Previsualiser le wiki. | [!badge Retype\|info] |
-| `retype build` | Verifier la generation statique. | [!badge Retype\|info] |
-| `git diff --check` | Detecter certains problemes d'espaces. | [!badge Git\|info] |
+- une introduction qui répond à « à quoi cela sert-il ? » ;
+- des prérequis utiles ;
+- le moyen d’accéder à la fonctionnalité ;
+- un guide étape par étape ;
+- les commandes confirmées ou les champs à renseigner ;
+- un exemple concret ;
+- les erreurs fréquentes ;
+- des conseils et questions fréquentes ;
+- des pages associées et des backlinks.
 
-## Structure recommandee
+Ne créez pas une section vide uniquement pour respecter ce modèle.
 
-Chaque page joueur doit contenir :
+## Informations inconnues
 
-- [ ] Un titre clair.
-- [ ] Une courte introduction.
-- [ ] Les prerequis.
-- [ ] Les commandes utiles.
-- [ ] Un guide etape par etape.
-- [ ] Des conseils pratiques.
-- [ ] Une FAQ.
-- [ ] Des liens vers les pages liees.
+Utilisez un champ en majuscules qui décrit exactement la donnée attendue :
 
-## Guide etape par etape
-
->>> Commencer par le besoin joueur
-Explique ce que la page permet de faire avant d'entrer dans les details.
-
->>> Utiliser les composants Retype
-Ajoute des callouts pour les avertissements, des tabs pour les variantes, des tableaux pour les commandes et des boutons pour les actions principales.
-
->>> Marquer l'incertain
-Quand une valeur manque, ecris `TODO : confirmer ...` au lieu d'inventer.
-
->>> Relier les pages
-Ajoute des liens internes et garde `[!backlinks]` en bas de page quand c'est utile.
->>>
-
-## Exemples Retype
-
-+++ Callout
 ```md
-!!!tip Conseil
-Texte du conseil.
+[COMMANDE DU MENU DES MÉTIERS]
+[PRIX DE CRÉATION D’UN PWARP]
+[NOMBRE MAXIMAL DE PROTECTIONS]
+[DÉLAI HABITUEL DE RÉPONSE DU SUPPORT]
+```
+
+Dans le texte visible, regroupez les incertitudes dans un seul avertissement :
+
+```md
+!!!warning Information à confirmer
+Cette partie sera complétée dès que les informations exactes du serveur auront été vérifiées.
 !!!
 ```
-+++ Tabs
+
+## Composants Retype
+
++++ Avertissement
 ```md
-+++ Java
-Etapes Java.
-+++ Bedrock
-Etapes Bedrock.
+!!!warning Titre clair
+Expliquez ce qui manque et qui doit le confirmer.
+!!!
+```
++++ Onglets
+```md
++++ Édition Java
+Étapes pour Java.
++++ Édition Bedrock
+Étapes pour Bedrock.
 +++
+```
++++ Carte
+```md
+[!card layout="compact" title="Rejoindre" text="Préparer Minecraft." icon="sign-in"](../rejoindre.md)
 ```
 +++ Bouton
 ```md
-[!button text="Rejoindre" icon="sign-in"](../rejoindre.md)
+[!button text="Rejoindre HeavenCube" icon="sign-in"](../rejoindre.md)
 ```
 +++
 
-## Conseils pratiques
+## Images
 
-!!!tip Ton editorial
-Ecris comme si tu accompagnais un nouveau joueur : clair, chaleureux, concret, sans supposer qu'il connait les plugins.
+Ne générez pas d’image pour remplir un espace. Utilisez un commentaire éditorial lorsque le propriétaire doit fournir une capture :
+
+```md
+<!--
+IMAGE À AJOUTER
+
+Sujet : menu réel des protections de terrain avec les permissions visibles
+Fichier recommandé : assets/images/menu-protections.webp
+Dimensions recommandées : 1000 × 1000 px
+Format recommandé : WebP
+Texte alternatif : Menu des permissions d’une protection de terrain
+-->
+<!-- ![Menu des protections](assets/images/menu-protections.webp) -->
+```
+
+## Dimensions recommandées
+
+| Type d’image | Dimensions |
+| --- | ---: |
+| Bannière principale | 1600 × 500 px |
+| Introduction d’une section | 1400 × 600 px |
+| Capture de l’interface Minecraft | 1200 × 675 px |
+| Capture d’un menu ou inventaire | 1000 × 1000 px |
+| Logo | 512 × 512 px |
+| Image de partage social | 1200 × 630 px |
+
+## Arborescence éditoriale
+
+:::code source="../includes/arborescence.txt" title="Organisation des pages" :::
+
+## Vérifications
+
+| Commande | Utilité |
+| --- | --- |
+| `retype build` | Vérifier la syntaxe et générer le wiki. |
+| `git diff --check` | Repérer certains problèmes de formatage. |
+| `rg "index\\.md"` | Repérer d’anciens liens de page d’accueil. |
+
+## Questions fréquentes
+
+!!!question Les noms de fichiers doivent-ils contenir des accents ?
+Non. Les noms peuvent rester en minuscules, sans espace ni accent, afin de conserver des URL simples. Les textes visibles doivent toutefois être écrits en français correct.
 !!!
 
-## FAQ
-
-!!!question Peut-on utiliser des accents ?
-Oui, les pages sont en francais. Garde simplement les noms de fichiers en minuscules, sans espaces.
+!!!question Peut-on publier une commande avec la mention « à confirmer » ?
+Non. Remplacez-la par un champ précis comme `[COMMANDE DE RETOUR AU POINT D’ACCUEIL]` jusqu’à sa validation.
 !!!
 
 !!!question Comment nommer une image ?
-Utilise un nom descriptif comme `claims-menu.png` ou `spawn-portail-survie.png`.
+Utilisez un nom descriptif comme `menu-quetes.webp` ou `zone-accueil.webp`.
 !!!
 
-!!!question Que faire si une commande est incertaine ?
-Ajoute-la avec le badge `[!badge A confirmer|warning]` et un `TODO` explicite.
-!!!
+## Pages associées
 
-## Pages liees
-
-- [Contribuer](contribuer.md)
-- [Accueil](../readme.md)
-- [Support](../utilitaire/support.md)
+- [Contributeurs](README.md)
+- [Guide de contribution](contribuer.md)
+- [Accueil](../README.md)
 
 [!backlinks]

@@ -1,69 +1,63 @@
-# Metiers
+# Choisir un métier
 
-Les metiers permettent generalement de gagner de l'experience, de l'argent ou des avantages en pratiquant certaines activites. Cette page attend la configuration officielle HeavenCube.
+Un métier est une activité suivie par le serveur, par exemple la récolte ou la construction. S’il est activé sur HeavenCube, il peut proposer des niveaux, des objectifs ou des gains spécifiques.
 
-[!badge text="Activites" variant="success" icon="briefcase"]
-[!badge text="Configuration a confirmer" variant="warning" icon="alert"]
-
-## Prerequis
-
-- [ ] Avoir commence le mode [Survie](index.md).
-- [ ] Connaitre la liste officielle des metiers. **TODO : ajouter la liste.**
-- [ ] Verifier si un nombre maximal de metiers existe. **TODO : confirmer.**
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/jobs browse` | Voir les metiers disponibles. | [!badge A confirmer\|warning] |
-| `/jobs join <metier>` | Rejoindre un metier. | [!badge A confirmer\|warning] |
-| `/jobs leave <metier>` | Quitter un metier. | [!badge A confirmer\|warning] |
-| `/jobs stats` | Voir sa progression. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Comparer les metiers
-Choisis un metier qui correspond a ton style : construction, minage, agriculture, combat ou exploration.
-
->>> Rejoindre officiellement
-Utilise la commande ou le menu confirme. **TODO : ajouter les captures ou le chemin de menu.**
-
->>> Jouer normalement
-Laisse le metier accompagner ton activite plutot que de chercher uniquement le rendement.
-
->>> Verifier les gains
-Controle tes gains et niveaux pour savoir si l'activite fonctionne comme prevu.
->>>
-
-## Conseils pratiques
-
-+++ Choisir
-- Prends un metier lie a tes objectifs actuels.
-- Verifie les limites de gains si elles existent.
-+++ Changer
-- Note les consequences avant de quitter un metier.
-- **TODO : confirmer s'il y a une penalite de changement.**
-+++
-
-## FAQ
-
-!!!question Combien de metiers peut-on avoir ?
-**TODO : confirmer la limite par joueur et les exceptions liees aux grades.**
+!!!warning Configuration à confirmer
+La liste des métiers, leurs gains, leurs limites et les conséquences d’un changement doivent être fournies par l’équipe.
 !!!
 
-!!!question Les metiers rapportent-ils de l'argent ?
-**TODO : confirmer les gains, bonus et plafonds.**
+## Prérequis
+
+- Avoir commencé le mode [Survie](README.md).
+- Connaître `[NOMBRE MAXIMAL DE MÉTIERS PAR JOUEUR]`.
+- Vérifier les actions rémunérées et les éventuels plafonds.
+
+## Accéder aux métiers
+
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Voir les métiers | `[COMMANDE OU MENU DES MÉTIERS]` |
+| Rejoindre un métier | `[COMMANDE POUR REJOINDRE UN MÉTIER]` |
+| Quitter un métier | `[COMMANDE POUR QUITTER UN MÉTIER]` |
+| Voir sa progression | `[COMMANDE DE PROGRESSION DES MÉTIERS]` |
+
+## Guide étape par étape
+
+1. Comparez les activités de `[LISTE DES MÉTIERS DISPONIBLES]`.
+2. Choisissez celle qui correspond à ce que vous aimez faire régulièrement.
+3. Lisez les gains, limites et conditions de changement.
+4. Rejoignez le métier avec la méthode officielle.
+5. Effectuez une action simple et vérifiez que la progression s’affiche.
+
+## Exemple concret
+
+Si vous aimez construire, choisissez un métier associé uniquement si la liste officielle confirme que cette activité est comptabilisée. Vérifiez ensuite une petite action avant de lancer un grand projet.
+
+## Erreurs fréquentes
+
+- Choisir uniquement selon un gain supposé.
+- Quitter un métier avant d’avoir lu les conséquences.
+- Utiliser une ferme automatique sans connaître les limites du règlement.
+
+## Questions fréquentes
+
+!!!question Combien de métiers puis-je exercer ?
+La limite est `[NOMBRE MAXIMAL DE MÉTIERS PAR JOUEUR]`, avec `[EXCEPTIONS LIÉES AUX GRADES]`.
 !!!
 
-!!!question Peut-on abuser d'une ferme pour monter un metier ?
-Lis les [reglements](../reglements.md). **TODO : confirmer les limites anti-farm.**
+!!!question Comment les gains sont-ils calculés ?
+Le calcul officiel est `[RÈGLES DE CALCUL ET PLAFONDS DES GAINS DE MÉTIER]`.
 !!!
 
-## Pages liees
+!!!question Perd-on sa progression en quittant un métier ?
+La conséquence est `[CONSÉQUENCE DU CHANGEMENT OU DE L’ABANDON D’UN MÉTIER]`.
+!!!
 
-- [Economie](economie.md)
+## Pages associées
+
+- [Économie](economie.md)
 - [Grades](grades.md)
-- [Reglements](../reglements.md)
 - [Classements](classements.md)
+- [Règlement](../reglements.md)
 
 [!backlinks]

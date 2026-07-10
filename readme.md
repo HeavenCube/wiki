@@ -1,83 +1,105 @@
-# Wiki HeavenCube
+# Bienvenue sur le wiki de HeavenCube
 
-Bienvenue sur le wiki de HeavenCube, le point de repere pour comprendre le serveur, trouver les commandes utiles et avancer sans se perdre.
+HeavenCube est un serveur Minecraft [TYPE DE SERVEUR] accessible en version [VERSION MINECRAFT].
 
-![Banniere HeavenCube](assets/images/heavencube-banner.svg "Wiki HeavenCube")
+Vous pourrez notamment [ACTIVITÉ PRINCIPALE], [DEUXIÈME ACTIVITÉ] et [TROISIÈME ACTIVITÉ]. Ce wiki vous accompagne depuis votre première connexion jusqu’à la découverte des différentes fonctionnalités du serveur.
 
-[!badge text="Wiki joueur" variant="primary" icon="book"]
-[!badge text="Informations a confirmer si marquees TODO" variant="warning" icon="alert"]
-[!badge text="Serveur Minecraft" variant="success" icon="server"]
+## Rejoindre rapidement
 
-!!!warning Donnees serveur a confirmer
-Le depot ne contient pas encore les valeurs officielles comme l'adresse de connexion, la version Minecraft, la liste exacte des commandes, les prix, les recompenses ou les permissions. Chaque mecanique non confirmee est marquee avec un `TODO`.
+!!!warning Informations à confirmer
+Les valeurs entre crochets doivent être renseignées par l’équipe avant publication. Elles ne sont pas présentées comme des informations confirmées.
 !!!
 
-## Arborescence proposee
+| Information | Valeur |
+| --- | --- |
+| Adresse du serveur | `[ADRESSE DU SERVEUR]` |
+| Version Minecraft | `[VERSION COMPATIBLE]` |
+| Édition | `[JAVA / BEDROCK / LES DEUX]` |
+| Pack de ressources | `[OBLIGATOIRE / RECOMMANDÉ / FACULTATIF]` |
+| Discord | `[LIEN DISCORD]` |
 
-:::code source="includes/arborescence.txt" title="Arborescence complete du wiki" :::
+[!button text="Guide de connexion complet" icon="sign-in"](rejoindre.md)
 
-## Prerequis
+## Je débute, que dois-je faire ?
 
-- [ ] Avoir Minecraft installe.
-- [ ] Connaitre la version acceptee par le serveur. **TODO : confirmer la version Minecraft officielle.**
-- [ ] Lire les [reglements](reglements.md) avant de commencer.
-- [ ] Rejoindre les canaux utiles, notamment [Discord](utilitaire/discord.md) si disponible.
+1. **Installer ou ouvrir Minecraft.** Vérifiez d’abord la version nécessaire dans le [guide de connexion](rejoindre.md).
+2. **Ajouter HeavenCube à vos serveurs.** Renseignez l’adresse indiquée ci-dessus en suivant les étapes de la page [Rejoindre HeavenCube](rejoindre.md).
+3. **Vous connecter.** Lisez attentivement les messages et menus affichés lors de votre arrivée.
+4. **Lire les règles principales.** Consultez le [règlement](reglements.md) avant d’interagir avec les autres joueurs.
+5. **Suivre vos premières étapes.** Le guide [Premiers pas](premiers-pas.md) explique comment vous orienter et choisir une activité.
+6. **Demander de l’aide.** En cas de difficulté, rendez-vous sur la page [Support](utilitaire/support.md).
 
-## Commandes utiles
+## Que souhaitez-vous faire ?
 
-| Commande | Utilisation | Statut |
-| --- | --- | --- |
-| `/help` | Afficher l'aide en jeu. | [!badge A confirmer\|warning] |
-| `/spawn` | Revenir au point central du serveur. | [!badge A confirmer\|warning] |
-| `/rules` | Consulter les regles en jeu. | [!badge A confirmer\|warning] |
-| `/discord` | Obtenir le lien Discord. | [!badge A confirmer\|warning] |
+[!card layout="compact" title="Rejoindre HeavenCube" text="Préparer Minecraft et ajouter le serveur." icon="sign-in"](rejoindre.md)
+[!card layout="compact" title="Bien débuter" text="Suivre un parcours simple après la première connexion." icon="rocket"](premiers-pas.md)
+[!card layout="compact" title="Découvrir le serveur Survie" text="Comprendre la progression et les activités disponibles." icon="package"](survie/README.md)
+[!card layout="compact" title="Comprendre l’économie" text="Découvrir l’argent en jeu et les échanges entre joueurs." icon="credit-card"](survie/economie.md)
+[!card layout="compact" title="Protéger ses constructions" text="Réserver une zone et gérer les accès des autres joueurs." icon="shield-lock"](survie/claims.md)
+[!card layout="compact" title="Découvrir les quêtes et les métiers" text="Choisir des objectifs et suivre sa progression." icon="checklist"](survie/quetes.md)
+[!card layout="compact" title="Consulter le règlement" text="Connaître les règles avant de jouer." icon="law"](reglements.md)
+[!card layout="compact" title="Obtenir de l’aide" text="Préparer une demande claire pour l’équipe." icon="comment-discussion"](utilitaire/support.md)
 
-## Guide etape par etape
+## Les fonctionnalités principales
 
->>> Lire l'essentiel
-Commence par la page [Rejoindre HeavenCube](rejoindre.md), puis garde la page [Premiers pas](premiers-pas.md) ouverte pendant ta premiere session.
+### Protéger son terrain
 
->>> Choisir une activite
-Va vers [Survie](survie/index.md) pour progresser, construire, economiser et proteger tes zones, ou vers [Creatif](creatif/index.md) pour construire librement.
+Une protection de terrain, aussi appelée « claim », sert à réserver une zone afin que les autres joueurs ne puissent pas modifier vos constructions ou ouvrir vos coffres sans autorisation.
 
->>> Demander de l'aide
-Si une information manque ou semble incorrecte, utilise la page [Support](utilitaire/support.md) ou propose une correction via [Contribuer](contributeurs/contribuer.md).
->>>
+[Découvrir les protections de terrain](survie/claims.md)
 
-## Conseils pratiques
+### Participer à l’économie
 
-!!!tip Bien demarrer
-Lis les pages dans l'ordre `Rejoindre` -> `Premiers pas` -> `Reglements` -> mode de jeu choisi. Cela evite la plupart des erreurs de debut.
-!!!
+L’économie regroupe l’argent utilisé en jeu, les achats, les ventes et les échanges. Sa page vous aidera à identifier les moyens officiels d’obtenir et d’utiliser cette monnaie.
 
-+++ Nouveaux joueurs
-- Garde les commandes essentielles dans un bloc-notes.
-- Demande confirmation avant de construire pres d'un autre joueur.
-- Fais une capture d'ecran si tu rencontres un bug.
-+++ Joueurs reguliers
-- Consulte les pages [Evenements](survie/evenements.md), [Vote](utilitaire/vote.md) et [Classements](survie/classements.md) pour suivre l'activite.
-- Signale les TODO confirmes a l'equipe de documentation.
-+++
+[Comprendre l’économie](survie/economie.md)
 
-## FAQ
+### Suivre des quêtes et exercer un métier
 
-!!!question Le wiki est-il complet ?
-Pas encore. Les pages sont structurees pour accueillir les informations officielles au fur et a mesure.
-!!!
+Les quêtes proposent des objectifs à accomplir. Les métiers, s’ils sont disponibles, permettent de faire progresser une activité particulière et d’en suivre les résultats.
 
-!!!question Puis-je corriger une page ?
-Oui. Consulte [Contribuer au wiki](contributeurs/contribuer.md) et le [Guide de style](contributeurs/style-guide.md).
-!!!
+[Découvrir les quêtes](survie/quetes.md) · [Découvrir les métiers](survie/metiers.md)
 
-!!!question Les commandes marquees TODO fonctionnent-elles ?
-Elles doivent etre confirmees par l'equipe serveur avant d'etre considerees comme officielles.
-!!!
+### Visiter les lieux des joueurs
 
-## Pages liees
+Un « pwarp » est un point de téléportation public créé par un joueur. Il peut mener à une boutique, une construction ou un lieu communautaire.
 
-[!button text="Rejoindre le serveur" icon="sign-in"](rejoindre.md)
-[!button text="Premiers pas" icon="rocket"](premiers-pas.md)
-[!button text="Survie" icon="package"](survie/index.md)
-[!button text="Support" icon="comment-discussion"](utilitaire/support.md)
+[Comprendre les pwarps](survie/pwarps.md)
 
-[!backlinks "Pages qui renvoient vers l'accueil"]
+### Participer à la vie du serveur
+
+Les événements, votes et classements permettent de suivre les activités organisées et les objectifs communautaires sans devoir connaître tous les systèmes dès votre arrivée.
+
+[Voir les événements](survie/evenements.md) · [Comprendre le vote](utilitaire/vote.md)
+
+## Besoin d’aide ?
+
+| Situation | Que faire ? |
+| --- | --- |
+| Je n’arrive pas à me connecter. | Vérifiez l’adresse, l’édition et la version dans [Rejoindre HeavenCube](rejoindre.md), puis consultez le [support](utilitaire/support.md). |
+| Je ne comprends pas une commande. | Ne la testez pas au hasard : consultez la page de la fonctionnalité ou demandez confirmation sur le [Discord](utilitaire/discord.md). |
+| J’ai perdu un objet. | Notez l’heure, le lieu et les circonstances, puis préparez une demande de [support](utilitaire/support.md). |
+| Je pense avoir trouvé un bug. | Évitez de le reproduire inutilement et transmettez les étapes précises au [support](utilitaire/support.md). |
+| Je souhaite contacter l’équipe. | Utilisez les canaux indiqués sur les pages [Discord](utilitaire/discord.md) et [Support](utilitaire/support.md). |
+| Je souhaite signaler un joueur. | Rassemblez des preuves, relisez le [règlement](reglements.md), puis utilisez la procédure de [support](utilitaire/support.md). |
+
+## Petit glossaire
+
+| Terme | Explication simple |
+| --- | --- |
+| Claim | Zone protégée appartenant à un joueur ou à un groupe. |
+| Warp | Point de téléportation géré par le serveur. |
+| Pwarp | Point de téléportation créé par un joueur. |
+| Pack de ressources | Ensemble de textures et de sons utilisés par le serveur. |
+| PNJ | Personnage non-joueur contrôlé par le serveur. |
+| GUI | Menu affiché dans Minecraft sous la forme d’un inventaire. |
+
+## Pages associées
+
+- [Rejoindre HeavenCube](rejoindre.md)
+- [Premiers pas](premiers-pas.md)
+- [Mode Survie](survie/README.md)
+- [Mode Créatif](creatif/README.md)
+- [Aide et liens utiles](utilitaire/README.md)
+
+[!backlinks]

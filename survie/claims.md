@@ -1,79 +1,69 @@
-# Claims et protections
+# Protéger son terrain
 
-Les claims servent a proteger tes constructions, coffres et zones de travail. Cette page explique comment documenter le systeme sans supposer de plugin precis.
+Une protection de terrain, souvent appelée « claim », réserve une zone à votre nom. Elle sert généralement à empêcher les autres joueurs de casser vos blocs, d’ouvrir vos coffres ou d’utiliser certains éléments sans autorisation.
 
-[!badge text="Protection" variant="success" icon="shield"]
-[!badge text="Permissions" variant="primary" icon="key"]
-
-!!!warning Plugin a confirmer
-**TODO : confirmer le plugin utilise pour les claims, les commandes exactes, le nombre de blocs disponibles et les permissions.**
+!!!warning Système à confirmer
+Le nom du système, les commandes, les quotas et les permissions de HeavenCube ne sont pas encore documentés.
 !!!
 
-## Prerequis
+## Quand en avez-vous besoin ?
 
-- [ ] Avoir choisi une zone libre.
-- [ ] Connaitre les regles de distance avec les autres bases. **TODO : confirmer.**
-- [ ] Avoir assez de blocs de claim si le serveur utilise un quota.
+Créez une protection avant de construire une base durable ou d’entreposer des ressources importantes. Vérifiez également les règles de distance avec les terrains voisins.
 
-## Commandes utiles
+## Prérequis
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/claim` | Creer ou gerer une protection. | [!badge A confirmer\|warning] |
-| `/trust <joueur>` | Donner un acces a un joueur. | [!badge A confirmer\|warning] |
-| `/untrust <joueur>` | Retirer un acces. | [!badge A confirmer\|warning] |
-| `/claimslist` | Voir ses protections. | [!badge A confirmer\|warning] |
+- Choisir une zone libre et autorisée.
+- Respecter `[DISTANCE MINIMALE ENTRE DEUX TERRAINS]`.
+- Disposer de `[CONDITION NÉCESSAIRE POUR CRÉER UNE PROTECTION]`.
 
-## Guide etape par etape
+## Accéder au système
 
->>> Choisir la zone
-Verifie que l'espace n'est pas deja occupe et qu'il respecte les regles du serveur.
+| Action | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir le menu de protection | `[COMMANDE OU OBJET DU MENU DE PROTECTION]` |
+| Créer une protection | `[COMMANDE OU MÉTHODE DE CRÉATION D’UNE PROTECTION]` |
+| Autoriser un joueur | `[COMMANDE POUR AUTORISER UN JOUEUR]` |
+| Retirer une autorisation | `[COMMANDE POUR RETIRER UNE AUTORISATION]` |
+| Afficher ses protections | `[COMMANDE DE LISTE DES PROTECTIONS]` |
 
->>> Creer le claim
-Utilise la commande ou l'outil officiel. **TODO : ajouter la methode exacte avec captures d'ecran si disponible.**
+## Guide étape par étape
 
->>> Tester les permissions
-Demande a un ami de verifier ce qui est accessible : portes, coffres, boutons, animaux, cultures.
+1. Vérifiez que la zone n’appartient à personne.
+2. Définissez les limites avec `[OUTIL OU MÉTHODE DE SÉLECTION DU TERRAIN]`.
+3. Confirmez la création de la protection.
+4. Testez les portes, coffres et autres éléments avec un joueur de confiance.
+5. N’accordez que les autorisations réellement nécessaires.
 
->>> Mettre a jour les acces
-Retire les permissions des joueurs qui ne participent plus au projet.
->>>
+## Exemple concret
 
-## Conseils pratiques
+Vous construisez avec un ami. Créez d’abord la protection à votre nom, puis accordez-lui uniquement l’accès nécessaire. Retirez cette autorisation lorsqu’il ne participe plus au projet.
 
-!!!tip Permissions minimales
-Donne uniquement les permissions necessaires. Pour un commerce, un acces aux coffres n'est pas toujours utile.
+## Erreurs fréquentes
+
+- Laisser un coffre important juste en dehors de la zone protégée.
+- Autoriser un joueur inconnu à modifier tous les blocs.
+- Agrandir sa construction sans agrandir la protection.
+- Oublier que les animaux, boutons ou portes peuvent avoir des permissions séparées.
+
+## Questions fréquentes
+
+!!!question Combien de terrains puis-je protéger ?
+La limite est `[NOMBRE MAXIMAL DE PROTECTIONS]` et la taille disponible est `[TAILLE OU QUOTA DE PROTECTION]`.
 !!!
 
-+++ A faire
-- Claim avant de stocker tes ressources.
-- Noter les joueurs autorises.
-- Agrandir la zone avant de construire plus grand.
-+++ A eviter
-- Faire confiance a un joueur inconnu.
-- Laisser des coffres hors claim.
-- Donner des permissions globales sans comprendre leur effet.
-+++
-
-## FAQ
-
-!!!question Comment obtenir plus de blocs de claim ?
-**TODO : confirmer si les blocs viennent du temps de jeu, des grades, de la boutique ou d'une autre source.**
+!!!question Comment obtenir davantage de capacité ?
+La méthode officielle est `[MÉTHODE D’OBTENTION DE CAPACITÉ SUPPLÉMENTAIRE]`.
 !!!
 
-!!!question Les explosions sont-elles bloquees dans un claim ?
-**TODO : confirmer le comportement TNT, creepers, Wither et autres explosions.**
+!!!question Que se passe-t-il en cas de dégradation ?
+Conservez des preuves et contactez le [support](../utilitaire/support.md). La politique de restauration est `[POLITIQUE DE RESTAURATION DES DÉGÂTS]`.
 !!!
 
-!!!question Le staff peut-il intervenir en cas de grief ?
-Consulte [Support](../utilitaire/support.md). **TODO : confirmer la politique de remboursement ou rollback.**
-!!!
+## Pages associées
 
-## Pages liees
-
-- [Survie](index.md)
-- [Reglements](../reglements.md)
+- [Mode Survie](README.md)
 - [Grades](grades.md)
+- [Règlement](../reglements.md)
 - [Support](../utilitaire/support.md)
 
 [!backlinks]

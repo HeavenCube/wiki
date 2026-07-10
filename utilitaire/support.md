@@ -1,64 +1,76 @@
-# Support
+# Contacter le support
 
-Le support aide a resoudre les problemes de connexion, bugs, achats, signalements et questions de jeu. Une demande claire permet une reponse plus rapide.
+Le support répond aux problèmes de connexion, bugs, achats, objets perdus et signalements. Plus votre demande est précise, plus l’équipe peut comprendre la situation rapidement.
 
-[!badge text="Aide" variant="primary" icon="comment-discussion"]
-[!badge text="Procedure a confirmer" variant="warning" icon="alert"]
-
-## Prerequis
-
-- [ ] Avoir lu la page concernee par le probleme.
-- [ ] Preparer ton pseudo Minecraft.
-- [ ] Ajouter captures, date, heure et description courte si possible.
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/helpop <message>` | Demander de l'aide en jeu. | [!badge A confirmer\|warning] |
-| `/report <joueur>` | Signaler un joueur. | [!badge A confirmer\|warning] |
-| `/ticket` | Ouvrir un ticket. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Identifier le probleme
-Connexion, bug, achat, grief, question de regle ou perte d'objet : choisis la categorie la plus precise.
-
->>> Rassembler les preuves
-Ajoute pseudo, date, heure, monde, coordonnees si utile et captures d'ecran.
-
->>> Contacter le bon canal
-Utilise le Discord, la commande ou le formulaire officiel. **TODO : confirmer les canaux de support.**
-
->>> Suivre la reponse
-Reste disponible et evite d'ouvrir plusieurs demandes pour le meme probleme.
->>>
-
-## Conseils pratiques
-
-!!!tip Exemple de message
-`Pseudo : ... / Probleme : ... / Date : ... / Lieu : ... / Details : ... / Capture : oui-non`
+!!!warning Canaux à confirmer
+La commande, le formulaire, les salons et les horaires du support doivent encore être renseignés.
 !!!
 
-## FAQ
+## Avant de contacter l’équipe
 
-!!!question Combien de temps prend une reponse ?
-**TODO : confirmer les delais habituels et les horaires de support.**
+- Relisez la page liée à votre problème.
+- Notez votre pseudonyme Minecraft.
+- Indiquez la date, l’heure, le monde et le lieu si ces éléments sont utiles.
+- Préparez une capture sans données personnelles.
+- N’ouvrez qu’une demande pour un même problème.
+
+## Choisir le bon canal
+
+| Situation | Canal officiel |
+| --- | --- |
+| Question générale | `[CANAL DES QUESTIONS GÉNÉRALES]` |
+| Problème technique ou bug | `[CANAL OU FORMULAIRE DES BUGS]` |
+| Achat non reçu | `[CANAL DU SUPPORT BOUTIQUE]` |
+| Objet perdu | `[CANAL DES PERTES D’OBJETS]` |
+| Signalement d’un joueur | `[CANAL OU PROCÉDURE DE SIGNALEMENT]` |
+| Aide en jeu | `[COMMANDE DE CONTACT DE L’ÉQUIPE EN JEU]` |
+
+## Guide étape par étape
+
+1. Choisissez la catégorie la plus précise.
+2. Décrivez ce que vous vouliez faire.
+3. Expliquez ce qui s’est passé et ce que vous avez déjà essayé.
+4. Ajoutez les preuves utiles.
+5. Attendez une réponse sans relancer dans plusieurs canaux.
+
+## Modèle de demande
+
+```txt
+Pseudonyme : [VOTRE PSEUDONYME]
+Catégorie : [CATÉGORIE DU PROBLÈME]
+Date et heure : [DATE ET HEURE]
+Lieu : [MONDE ET COORDONNÉES SI UTILES]
+Description : [DESCRIPTION PRÉCISE]
+Étapes déjà essayées : [VÉRIFICATIONS DÉJÀ EFFECTUÉES]
+Preuve disponible : [CAPTURE, VIDÉO OU AUCUNE]
+```
+
+## Erreurs fréquentes
+
+- Écrire seulement « ça ne marche pas » sans préciser l’action.
+- Publier un identifiant de transaction complet dans un salon public.
+- Modifier ou recadrer une preuve au point de masquer le contexte.
+- Contacter plusieurs membres de l’équipe en privé.
+
+## Questions fréquentes
+
+!!!question Quel est le délai de réponse ?
+Le délai indicatif est `[DÉLAI HABITUEL DE RÉPONSE DU SUPPORT]` pendant `[HORAIRES INDICATIFS DU SUPPORT]`.
 !!!
 
-!!!question Puis-je contacter un membre du staff en prive ?
-Utilise d'abord les canaux officiels, sauf consigne contraire. **TODO : confirmer la politique des messages prives.**
+!!!question Un objet perdu sera-t-il rendu ?
+La politique est `[POLITIQUE DE RESTITUTION DES OBJETS PERDUS]`. Une preuve ne garantit pas automatiquement une restitution.
 !!!
 
-!!!question Que faire pour un achat non recu ?
-Consulte [Boutique](boutique.md), garde la preuve de commande et ouvre une demande avec ton pseudo exact.
+!!!question Puis-je signaler un joueur sans capture ?
+Suivez `[EXIGENCES DE PREUVE POUR UN SIGNALEMENT]` et fournissez tous les faits dont vous disposez.
 !!!
 
-## Pages liees
+## Pages associées
 
 - [Discord](discord.md)
 - [Boutique](boutique.md)
-- [Reglements](../reglements.md)
-- [Contribuer](../contributeurs/contribuer.md)
+- [Règlement](../reglements.md)
+- [Accueil](../README.md)
 
 [!backlinks]

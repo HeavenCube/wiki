@@ -1,70 +1,63 @@
-# Mobs custom
+# Affronter les créatures personnalisées
 
-Les mobs custom peuvent changer l'exploration et le combat avec des creatures, drops ou comportements speciaux. Cette page reste volontairement prudente tant que la configuration n'est pas confirmee.
+Une créature personnalisée est un monstre ou un animal dont le nom, le comportement ou les récompenses diffèrent de Minecraft classique. Observez-la avant d’engager le combat.
 
-[!badge text="Combat" variant="danger" icon="flame"]
-[!badge text="Mobs a confirmer" variant="warning" icon="alert"]
+!!!warning Bestiaire à renseigner
+La présence de créatures personnalisées, leurs zones, leurs dégâts et leurs récompenses doivent être confirmés par l’équipe.
+!!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Avoir un equipement adapte a la zone visitee.
-- [ ] Connaitre les mondes ou zones concernees. **TODO : confirmer.**
-- [ ] Garder de l'espace dans l'inventaire pour les drops.
+- Utiliser un équipement que vous pouvez vous permettre de perdre.
+- Connaître `[ZONES D’APPARITION DES CRÉATURES PERSONNALISÉES]`.
+- Garder une voie de sortie et de la place dans l’inventaire.
 
-## Commandes utiles
+## Accéder aux informations
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/mobs` | Voir des informations sur les mobs custom. | [!badge A confirmer\|warning] |
-| `/bestiaire` | Ouvrir un bestiaire si disponible. | [!badge A confirmer\|warning] |
-| `/warp boss` | Aller vers une zone de boss. | [!badge A confirmer\|warning] |
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir le bestiaire | `[COMMANDE OU MENU DU BESTIAIRE]` |
+| Rejoindre une zone de combat | `[PORTAIL, WARP OU COMMANDE DES ZONES DE COMBAT]` |
+| Consulter les récompenses | `[MÉTHODE DE CONSULTATION DES RÉCOMPENSES DE CRÉATURES]` |
 
-## Guide etape par etape
+## Guide étape par étape
 
->>> Identifier la zone
-Ne pars pas dans une zone inconnue avec tes meilleurs objets sans information.
+1. Consultez le bestiaire ou l’annonce de la zone.
+2. Vérifiez le niveau de danger et les effets annoncés.
+3. Observez la créature à distance.
+4. Combattez d’abord avec un équipement raisonnable.
+5. Identifiez chaque objet reçu avant de le vendre ou de l’utiliser.
 
->>> Observer le mob
-Note son nom, ses effets, ses degats et son comportement.
+## Bestiaire
 
->>> Combattre prudemment
-Teste avec un equipement que tu peux te permettre de perdre.
-
->>> Documenter les drops
-Si l'equipe valide les informations, ajoute les drops confirmes au tableau.
->>>
-
-## Bestiaire a completer
-
-| Mob | Zone | Danger | Drops | Statut |
+| Créature | Zone | Danger | Effets | Récompenses |
 | --- | --- | --- | --- | --- |
-| TODO | TODO | TODO | TODO | [!badge A completer\|warning] |
+| `[NOM DE LA PREMIÈRE CRÉATURE]` | `[ZONE DE LA PREMIÈRE CRÉATURE]` | `[NIVEAU DE DANGER]` | `[EFFETS DE LA PREMIÈRE CRÉATURE]` | `[RÉCOMPENSES DE LA PREMIÈRE CRÉATURE]` |
 
-## Conseils pratiques
+## Erreurs fréquentes
 
-!!!warning Prudence
-Tant que les degats et effets ne sont pas documentes, considere tout mob custom comme potentiellement dangereux.
+- Combattre avec ses meilleurs objets sans connaître le danger.
+- Supposer qu’une créature portant un nom différent possède les mêmes attaques qu’en jeu classique.
+- Vendre une récompense avant d’en connaître l’usage.
+
+## Questions fréquentes
+
+!!!question Où apparaissent ces créatures ?
+Les mondes, biomes et périodes sont `[CONDITIONS D’APPARITION DES CRÉATURES PERSONNALISÉES]`.
 !!!
 
-## FAQ
-
-!!!question Les mobs custom apparaissent-ils partout ?
-**TODO : confirmer les mondes, biomes, horaires ou regions.**
+!!!question Existe-t-il des boss ?
+La liste et les délais sont `[LISTE ET DÉLAIS DE RÉAPPARITION DES BOSS]`.
 !!!
 
-!!!question Y a-t-il des boss ?
-**TODO : confirmer les boss, temps de reapparition et recompenses.**
+!!!question Que faire si une créature semble bloquée ou exploitable ?
+Ne profitez pas du problème. Notez le lieu et contactez le [support](../utilitaire/support.md).
 !!!
 
-!!!question Les drops sont-ils vendables ?
-**TODO : confirmer les usages economiques ou crafts associes.**
-!!!
+## Pages associées
 
-## Pages liees
-
-- [Items speciaux](items-speciaux.md)
-- [Economie](economie.md)
-- [Evenements](evenements.md)
-- [Reglements](../reglements.md)
+- [Objets spéciaux](items-speciaux.md)
+- [Événements](evenements.md)
+- [Règlement](../reglements.md)
 
 [!backlinks]

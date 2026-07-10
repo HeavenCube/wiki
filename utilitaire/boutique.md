@@ -1,68 +1,67 @@
-# Boutique
+# Utiliser la boutique officielle
 
-La boutique peut proposer des avantages, cosmetiques ou soutiens au serveur. Cette page doit rester transparente sur ce qui est officiel, payant et confirme.
+La boutique web peut proposer des éléments permettant de soutenir HeavenCube. Chaque offre doit expliquer clairement son contenu, sa durée, son prix et son mode de livraison.
 
-[!badge text="Soutien" variant="primary" icon="heart"]
-[!badge text="Offres a confirmer" variant="warning" icon="alert"]
-
-!!!warning Donnees commerciales a confirmer
-Le fichier `retype.yml` contient `https://heavencube.fr/boutique`. **TODO : confirmer le lien officiel, les offres, les prix, les conditions de livraison et la politique de remboursement.**
+!!!warning Informations commerciales à confirmer
+Le lien, les offres, les prix, les délais et les conditions de remboursement doivent être publiés par le propriétaire du serveur.
 !!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Verifier que le lien vient d'une source officielle.
-- [ ] Lire les conditions avant achat.
-- [ ] Avoir le bon pseudo Minecraft lors de la commande.
+- Utiliser uniquement `[LIEN DE LA BOUTIQUE OFFICIELLE]`.
+- Lire les conditions de vente avant tout paiement.
+- Vérifier le pseudonyme Minecraft destinataire.
+- Demander l’accord d’un responsable légal si nécessaire.
 
-## Commandes utiles
+## Avant un achat
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/boutique` | Obtenir le lien boutique. | [!badge A confirmer\|warning] |
-| `/buy` | Ouvrir ou afficher la boutique. | [!badge A confirmer\|warning] |
-| `/claimrewards` | Recuperer un achat ou une recompense. | [!badge A confirmer\|warning] |
+| Information | Valeur officielle |
+| --- | --- |
+| Boutique | `[LIEN DE LA BOUTIQUE OFFICIELLE]` |
+| Commande en jeu | `[COMMANDE D’ACCÈS À LA BOUTIQUE]` |
+| Délai de livraison | `[DÉLAI HABITUEL DE LIVRAISON]` |
+| Assistance | `[CANAL D’ASSISTANCE POUR LES ACHATS]` |
+| Remboursement | `[LIEN VERS LA POLITIQUE DE REMBOURSEMENT]` |
 
-## Guide etape par etape
+## Guide étape par étape
 
->>> Verifier le lien
-Passe par le site officiel HeavenCube ou une annonce confirmee.
+1. Vérifiez le domaine du site.
+2. Lisez l’offre complète, notamment sa durée et ses limites.
+3. Contrôlez le pseudonyme et le montant.
+4. Conservez le reçu ou l’identifiant de transaction.
+5. Attendez le délai annoncé avant d’ouvrir une demande d’aide.
 
->>> Lire l'offre
-Controle la duree, les avantages, les limites et le delai de livraison.
+## Catalogue à renseigner
 
->>> Acheter prudemment
-Verifie le pseudo et garde une preuve de commande.
+| Offre | Contenu | Prix | Durée | Livraison |
+| --- | --- | --- | --- | --- |
+| `[NOM DE LA PREMIÈRE OFFRE]` | `[CONTENU DE LA PREMIÈRE OFFRE]` | `[PRIX DE LA PREMIÈRE OFFRE]` | `[DURÉE DE LA PREMIÈRE OFFRE]` | `[MÉTHODE DE LIVRAISON DE LA PREMIÈRE OFFRE]` |
 
->>> Contacter le support si besoin
-Si rien n'arrive apres le delai annonce, ouvre une demande avec les informations utiles.
->>>
+## Erreurs fréquentes
 
-## Conseils pratiques
+- Acheter depuis un lien transmis par un joueur inconnu.
+- Utiliser le mauvais pseudonyme.
+- Confondre un grade temporaire avec un avantage permanent.
+- Publier une preuve de paiement contenant des données personnelles.
 
-!!!tip Transparence
-Ne promets pas a un autre joueur un avantage boutique sans verifier les conditions officielles. Certaines recompenses peuvent etre personnelles ou non transferables.
+## Questions fréquentes
+
+!!!question Mon achat n’est pas arrivé. Que faire ?
+Attendez `[DÉLAI HABITUEL DE LIVRAISON]`, puis contactez le [support](support.md) avec l’identifiant de transaction masqué si nécessaire.
 !!!
 
-## FAQ
-
-!!!question Les achats donnent-ils un avantage en jeu ?
-**TODO : decrire chaque offre et distinguer cosmetique, confort, progression et soutien.**
+!!!question Puis-je demander un remboursement ?
+Consultez `[LIEN VERS LA POLITIQUE DE REMBOURSEMENT]`.
 !!!
 
-!!!question Quel est le delai de livraison ?
-**TODO : confirmer le delai habituel et la procedure si la livraison echoue.**
+!!!question Une offre peut-elle être transférée ?
+La règle est `[POLITIQUE DE TRANSFERT DES ACHATS]`.
 !!!
 
-!!!question Peut-on se faire rembourser ?
-**TODO : ajouter la politique officielle de remboursement.**
-!!!
-
-## Pages liees
+## Pages associées
 
 - [Grades](../survie/grades.md)
-- [Items speciaux](../survie/items-speciaux.md)
+- [Objets spéciaux](../survie/items-speciaux.md)
 - [Support](support.md)
-- [Reglements](../reglements.md)
 
 [!backlinks]

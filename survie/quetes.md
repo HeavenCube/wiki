@@ -1,64 +1,63 @@
-# Quetes
+# Suivre les quêtes
 
-Les quetes donnent des objectifs clairs aux joueurs : decouvrir, recolter, combattre, construire ou participer. Les details exacts doivent etre confirmes par l'equipe.
+Une quête est un objectif proposé par le serveur. Elle peut vous guider vers une activité, vous apprendre une fonctionnalité ou vous donner une récompense après validation.
 
-[!badge text="Objectifs" variant="primary" icon="goal"]
-[!badge text="Recompenses a confirmer" variant="warning" icon="gift"]
-
-## Prerequis
-
-- [ ] Avoir acces au monde Survie.
-- [ ] Connaitre le menu ou PNJ de quetes. **TODO : confirmer.**
-- [ ] Avoir assez de place dans son inventaire avant de recuperer une recompense.
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/quests` | Ouvrir le menu des quetes. | [!badge A confirmer\|warning] |
-| `/quest` | Voir ou suivre une quete. | [!badge A confirmer\|warning] |
-| `/quests journal` | Obtenir un journal de quetes. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Ouvrir le menu
-Utilise la commande, le PNJ ou l'objet officiel des quetes.
-
->>> Choisir une quete
-Lis l'objectif, les contraintes, la duree et la recompense avant de commencer.
-
->>> Suivre la progression
-Verifie si le serveur affiche un suivi dans le chat, un scoreboard ou un menu.
-
->>> Recuperer la recompense
-Assure-toi d'avoir de la place dans l'inventaire. **TODO : confirmer si les recompenses perdues peuvent etre recuperees.**
->>>
-
-## Conseils pratiques
-
-!!!tip Optimiser sans se bloquer
-Garde plusieurs quetes compatibles actives si le systeme le permet : miner, recolter et vendre peuvent parfois avancer ensemble.
+!!!warning Fonctionnement à confirmer
+Le point d’accès, les catégories de quêtes, leurs durées et leurs récompenses ne sont pas encore renseignés.
 !!!
 
-## FAQ
+## Prérequis
 
-!!!question Les quetes sont-elles journalieres ?
-**TODO : confirmer les types de quetes : tutoriel, journalieres, hebdomadaires, histoire, evenements.**
+- Accéder au mode [Survie](README.md).
+- Trouver `[PNJ, OBJET OU MENU D’ACCÈS AUX QUÊTES]`.
+- Garder une place libre dans l’inventaire avant de récupérer une récompense.
+
+## Accéder aux quêtes
+
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir les quêtes | `[COMMANDE OU MENU DES QUÊTES]` |
+| Suivre une quête active | `[COMMANDE OU BOUTON DE SUIVI D’UNE QUÊTE]` |
+| Abandonner une quête | `[COMMANDE OU BOUTON D’ABANDON D’UNE QUÊTE]` |
+| Récupérer une récompense | `[MÉTHODE DE RÉCUPÉRATION D’UNE RÉCOMPENSE]` |
+
+## Guide étape par étape
+
+1. Ouvrez le menu des quêtes.
+2. Lisez l’objectif, la durée et la récompense avant d’accepter.
+3. Vérifiez si une action doit être effectuée dans un monde ou une zone précise.
+4. Suivez la progression dans `[EMPLACEMENT DE L’AFFICHAGE DE PROGRESSION]`.
+5. Récupérez la récompense avec suffisamment de place dans votre inventaire.
+
+## Exemple concret
+
+Avant d’accepter une quête de récolte, vérifiez les blocs demandés, le monde concerné et le mode de comptage. Une ressource déjà présente dans votre inventaire peut ne pas être comptabilisée si le serveur exige de la récolter après l’acceptation.
+
+## Erreurs fréquentes
+
+- Accepter sans lire la durée ou la zone imposée.
+- Remplir son inventaire avant la remise de la récompense.
+- Abandonner une quête sans vérifier si sa progression sera perdue.
+
+## Questions fréquentes
+
+!!!question Quelles catégories de quêtes existent ?
+Les catégories officielles sont `[TYPES DE QUÊTES DISPONIBLES]`.
 !!!
 
-!!!question Peut-on abandonner une quete ?
-**TODO : confirmer la commande ou le bouton d'abandon.**
+!!!question Les quêtes peuvent-elles être réalisées en groupe ?
+Le partage de progression est `[FONCTIONNEMENT DES QUÊTES EN GROUPE]`.
 !!!
 
-!!!question Les quetes sont-elles partagees en equipe ?
-**TODO : confirmer si les groupes, claims ou equipes influencent la progression.**
+!!!question Une récompense perdue peut-elle être récupérée ?
+La procédure est `[PROCÉDURE EN CAS DE RÉCOMPENSE NON REÇUE]`. Conservez une capture et contactez le [support](../utilitaire/support.md).
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Metiers](metiers.md)
-- [Economie](economie.md)
-- [Evenements](evenements.md)
+- [Métiers](metiers.md)
+- [Économie](economie.md)
+- [Événements](evenements.md)
 - [Grades](grades.md)
 
 [!backlinks]

@@ -1,65 +1,58 @@
-# Pwarps
+# Utiliser les téléportations publiques
 
-Les pwarps sont des points de teleportation publics crees par les joueurs ou l'equipe, utiles pour commerces, bases ouvertes, fermes publiques ou lieux communautaires.
+Un « pwarp » est un point de téléportation public créé par un joueur. Il peut mener à une boutique, une construction, une ferme publique ou un lieu communautaire.
 
-[!badge text="Teleportation" variant="primary" icon="location"]
-[!badge text="Public" variant="success" icon="people"]
-
-## Prerequis
-
-- [ ] Connaitre les regles des lieux publics.
-- [ ] Verifier si creer un pwarp coute de l'argent. **TODO : confirmer.**
-- [ ] Avoir une zone claire, propre et autorisee avant de la rendre publique.
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/pwarp` | Ouvrir le menu des pwarps. | [!badge A confirmer\|warning] |
-| `/pwarp set <nom>` | Creer un pwarp. | [!badge A confirmer\|warning] |
-| `/pwarp remove <nom>` | Supprimer un pwarp. | [!badge A confirmer\|warning] |
-| `/pwarp <nom>` | Se teleporter a un pwarp. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Visiter un pwarp
-Ouvre la liste et choisis un lieu dont le nom ou la description est clair.
-
->>> Preparer son propre lieu
-Ajoute des panneaux, protege les coffres sensibles et rends le point d'arrivee sans danger.
-
->>> Creer le pwarp
-Utilise la commande officielle. **TODO : confirmer les restrictions de nom, cout et nombre maximal.**
-
->>> Entretenir le lieu
-Supprime ou mets a jour le pwarp si le lieu ferme, change ou devient dangereux.
->>>
-
-## Conseils pratiques
-
-!!!tip Point d'arrivee
-Place le point de teleportation dans une zone stable : pas au bord du vide, pas dans l'eau, pas devant une porte bloquee.
+!!!warning Fonctionnement à confirmer
+Les commandes, le coût, les catégories et le nombre maximal de pwarps ne sont pas encore documentés.
 !!!
 
-## FAQ
+## Prérequis
 
-!!!question Combien de pwarps peut-on creer ?
-**TODO : confirmer la limite par joueur et les bonus de grades.**
+- Lire la description d’un lieu avant de s’y téléporter.
+- Préparer un point d’arrivée sûr avant de publier son propre lieu.
+- Vérifier `[COÛT DE CRÉATION OU D’UTILISATION D’UN PWARP]`.
+
+## Accéder aux pwarps
+
+| Action | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir la liste | `[COMMANDE OU MENU DES PWARPS]` |
+| Visiter un lieu | `[COMMANDE POUR VISITER UN PWARP]` |
+| Créer un point public | `[COMMANDE POUR CRÉER UN PWARP]` |
+| Modifier ou supprimer son point | `[COMMANDE DE GESTION D’UN PWARP]` |
+
+## Guide étape par étape
+
+1. Ouvrez la liste officielle.
+2. Choisissez un lieu dont le nom et la description sont compréhensibles.
+3. Vérifiez votre inventaire avant la téléportation.
+4. À l’arrivée, respectez les panneaux et la zone protégée.
+5. Pour créer votre propre point, placez-vous dans un espace stable et sans danger.
+
+## Erreurs fréquentes
+
+- Placer le point d’arrivée au bord du vide, dans l’eau ou devant un passage bloqué.
+- Publier un lieu avant d’avoir protégé les coffres privés.
+- Laisser actif un point qui mène vers un lieu fermé ou déplacé.
+
+## Questions fréquentes
+
+!!!question Combien de pwarps puis-je créer ?
+La limite est `[NOMBRE MAXIMAL DE PWARPS PAR JOUEUR]`, avec `[EXCEPTIONS LIÉES AUX GRADES]`.
 !!!
 
-!!!question Peut-on noter ou recommander un pwarp ?
-**TODO : confirmer si un systeme de favoris, notes ou categories existe.**
+!!!question Peut-on rechercher un pwarp par catégorie ?
+Les catégories et filtres disponibles sont `[CATÉGORIES ET FILTRES DES PWARPS]`.
 !!!
 
-!!!question Les pwarps dangereux sont-ils autorises ?
-Lis les [reglements](../reglements.md). **TODO : confirmer la politique sur les pieges.**
+!!!question Comment signaler un lieu dangereux ?
+Conservez son nom et une capture, puis utilisez `[PROCÉDURE DE SIGNALEMENT D’UN PWARP]` ou la page [Support](../utilitaire/support.md).
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Economie](economie.md)
-- [Claims](claims.md)
-- [Reglements](../reglements.md)
-- [Support](../utilitaire/support.md)
+- [Économie](economie.md)
+- [Protections de terrain](claims.md)
+- [Règlement](../reglements.md)
 
 [!backlinks]

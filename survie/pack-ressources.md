@@ -1,69 +1,66 @@
-# Pack de ressources
+# Installer le pack de ressources
 
-Le pack de ressources peut ameliorer l'affichage des items, menus, sons ou textures du serveur. Cette page explique comment l'activer et quoi verifier.
+Un pack de ressources modifie l’apparence ou les sons de Minecraft. HeavenCube peut l’utiliser pour afficher correctement des menus, objets ou créatures propres au serveur.
 
-[!badge text="Client" variant="primary" icon="device-desktop"]
-[!badge text="Pack a confirmer" variant="warning" icon="file"]
+!!!warning Statut à confirmer
+Le caractère obligatoire du pack, son mode de distribution et ses incompatibilités doivent encore être validés.
+!!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Utiliser la version Minecraft compatible avec le serveur.
-- [ ] Autoriser les packs serveur si HeavenCube en utilise un.
-- [ ] Avoir assez d'espace disque et une connexion stable.
+- Lancer Minecraft en version `[VERSION COMPATIBLE AVEC LE PACK]`.
+- Disposer de suffisamment d’espace disque.
+- Désactiver temporairement les autres packs en cas de conflit.
 
-## Commandes utiles
+## Installation automatique
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/resourcepack` | Relancer ou accepter le pack. | [!badge A confirmer\|warning] |
-| `/pack` | Ouvrir une aide liee au pack. | [!badge A confirmer\|warning] |
+1. Dans la liste des serveurs, sélectionnez HeavenCube puis **Modifier**.
+2. Réglez **Packs de ressources du serveur** sur **Activé** ou **Demander**.
+3. Connectez-vous et acceptez le téléchargement si Minecraft le propose.
+4. Attendez la fin du chargement avant d’ouvrir un menu spécial.
+5. Vérifiez un élément connu avec `[ÉLÉMENT DE TEST DU PACK]`.
 
-## Guide etape par etape
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Relancer le téléchargement | `[COMMANDE OU PROCÉDURE DE RECHARGEMENT DU PACK]` |
+| Télécharger manuellement | `[LIEN OFFICIEL DE TÉLÉCHARGEMENT DU PACK]` |
+| Vérifier la version | `[EMPLACEMENT DE LA VERSION DU PACK]` |
 
->>> Activer les packs serveur
-Dans la liste des serveurs Minecraft, modifie HeavenCube et regle les packs de ressources sur `Active` ou `Demander`.
+## Résoudre un problème
 
->>> Se connecter
-Accepte le telechargement si Minecraft le demande.
-
->>> Verifier l'affichage
-Controle les menus, items speciaux et textes. Si quelque chose manque, note ta version et tes packs clients actifs.
-
->>> Corriger un probleme
-Desactive les packs clients incompatibles, relance Minecraft puis contacte le [support](../utilitaire/support.md) si besoin.
->>>
-
-## Conseils pratiques
-
-+++ Si le pack ne charge pas
-- Relance le jeu.
-- Verifie l'option du serveur dans la liste multijoueur.
-- Teste sans autres packs.
-+++ Si les textures sont bizarres
-- Verifie la version Minecraft.
-- Retire les packs qui remplacent les memes textures.
-- **TODO : ajouter la procedure de cache si l'equipe la valide.**
++++ Le téléchargement ne démarre pas
+- Vérifiez l’option du serveur dans la liste multijoueur.
+- Relancez Minecraft.
+- Contrôlez votre connexion et l’espace disque disponible.
++++ Les textures sont incorrectes
+- Vérifiez la version Minecraft.
+- Désactivez les autres packs.
+- Suivez `[PROCÉDURE OFFICIELLE DE NETTOYAGE DU CACHE DU PACK]`.
++++ Le jeu refuse le pack
+- Notez le message exact.
+- Vérifiez `[TAILLE ET SOURCE OFFICIELLE DU PACK]`.
+- Contactez le [support](../utilitaire/support.md).
 +++
 
-## FAQ
+## Questions fréquentes
 
 !!!question Le pack est-il obligatoire ?
-**TODO : confirmer si le pack est obligatoire, recommande ou optionnel.**
+Son statut est `[OBLIGATOIRE / RECOMMANDÉ / FACULTATIF]`.
 !!!
 
-!!!question Peut-on utiliser son propre pack ?
-**TODO : confirmer les incompatibilites connues et packs interdits.**
+!!!question Puis-je utiliser mon propre pack en même temps ?
+Les compatibilités connues sont `[LISTE DES PACKS OU MODIFICATIONS INCOMPATIBLES]`.
 !!!
 
-!!!question Ou telecharger le pack manuellement ?
-**TODO : ajouter le lien officiel si un telechargement manuel existe.**
+!!!question Où trouver la version la plus récente ?
+Utilisez uniquement `[LIEN OFFICIEL DE TÉLÉCHARGEMENT DU PACK]`.
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Rejoindre](../rejoindre.md)
-- [Items speciaux](items-speciaux.md)
-- [Mobs custom](mobs-custom.md)
+- [Rejoindre HeavenCube](../rejoindre.md)
+- [Objets spéciaux](items-speciaux.md)
+- [Créatures personnalisées](mobs-custom.md)
 - [Support](../utilitaire/support.md)
 
 [!backlinks]

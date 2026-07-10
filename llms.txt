@@ -2,36 +2,38 @@
 
 > Wiki officiel du serveur Minecraft HeavenCube : guides, commandes, fonctionnalités, règles et aide pour les joueurs.
 
-- [Wiki HeavenCube](https://heavencube.github.io/wiki/readme.md): Wiki HeavenCube
-- [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Cette page explique comment rejoindre HeavenCube proprement, verifier les prerequis et savoir quoi faire lors de ta premiere connexion.
-- [Premiers pas sur HeavenCube](https://heavencube.github.io/wiki/premiers-pas.md): Cette page t'accompagne pendant tes premieres minutes sur le serveur : comprendre le spawn, choisir une activite, securiser ton depart et savoir ou demander de l'aide.
-- [Reglements de HeavenCube](https://heavencube.github.io/wiki/reglements.md): Les reglements protegent l'ambiance, les constructions et le temps de jeu de chacun. Cette page pose une base claire, a completer avec les regles officielles confirmees par l'equipe.
-- [Mode Survie](https://heavencube.github.io/wiki/survie/readme.md): Le mode Survie regroupe la progression principale : exploration, protection de terrain, economie, metiers, quetes, evenements et fonctionnalites speciales.
-- [Mode Creatif](https://heavencube.github.io/wiki/creatif/readme.md): Le mode Creatif est pense pour construire, tester des idees et preparer des projets sans la pression de la survie. Les commandes et limites exactes restent a confirmer.
+- [Wiki officiel de HeavenCube](https://heavencube.github.io/wiki/readme.md): Wiki officiel de HeavenCube
+- [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Préparez Minecraft et ajoutez HeavenCube à votre liste de serveurs.
+- [Premiers pas sur HeavenCube](https://heavencube.github.io/wiki/premiers-pas.md): Découvrez quoi faire pendant vos premières minutes sur le serveur.
+- [Règlement de HeavenCube](https://heavencube.github.io/wiki/reglements.md): Consultez les règles officielles avant de jouer sur HeavenCube.
+- [Découvrir le mode Survie](https://heavencube.github.io/wiki/survie/readme.md): Comprenez la progression, les protections et les activités du mode Survie.
+- [Découvrir le mode Créatif](https://heavencube.github.io/wiki/creatif/readme.md): Obtenez un espace de construction et gérez les accès à vos projets.
+- [Aide et services HeavenCube](https://heavencube.github.io/wiki/utilitaire/readme.md): Retrouvez les moyens de contacter l’équipe et les services liés au serveur.
+- [Contribuer au wiki HeavenCube](https://heavencube.github.io/wiki/contributeurs/readme.md): Aidez à maintenir une documentation claire, fiable et utile aux joueurs.
 
 ## Survie
 
-- [Claims et protections](https://heavencube.github.io/wiki/survie/claims.md): Les claims servent a proteger tes constructions, coffres et zones de travail. Cette page explique comment documenter le systeme sans supposer de plugin precis.
-- [Grades](https://heavencube.github.io/wiki/survie/grades.md): Les grades structurent souvent la progression et les avantages d'un serveur. Cette page prepare la documentation officielle sans inventer les paliers.
-- [Quetes](https://heavencube.github.io/wiki/survie/quetes.md): Les quetes donnent des objectifs clairs aux joueurs : decouvrir, recolter, combattre, construire ou participer. Les details exacts doivent etre confirmes par l'equipe.
-- [Metiers](https://heavencube.github.io/wiki/survie/metiers.md): Les metiers permettent generalement de gagner de l'experience, de l'argent ou des avantages en pratiquant certaines activites. Cette page attend la configuration officielle HeavenCube.
-- [Economie](https://heavencube.github.io/wiki/survie/economie.md): L'economie rassemble l'argent en jeu, les achats, les ventes, les echanges entre joueurs et les eventuels commerces publics.
-- [Pwarps](https://heavencube.github.io/wiki/survie/pwarps.md): Les pwarps sont des points de teleportation publics crees par les joueurs ou l'equipe, utiles pour commerces, bases ouvertes, fermes publiques ou lieux communautaires.
-- [Peche](https://heavencube.github.io/wiki/survie/peche.md): La peche peut etre une activite simple ou un systeme avance avec raretes, competitions, recompenses et objets speciaux. Les mecaniques HeavenCube restent a confirmer.
-- [Evenements](https://heavencube.github.io/wiki/survie/evenements.md): Les evenements rythment la vie du serveur : animations, concours, objectifs communautaires ou activites temporaires. Cette page sert de reference pour participer.
-- [Classements](https://heavencube.github.io/wiki/survie/classements.md): Les classements mettent en avant la progression, l'activite ou les performances des joueurs. Cette page indique comment les consulter et les comprendre.
-- [Items speciaux](https://heavencube.github.io/wiki/survie/items-speciaux.md): Les items speciaux peuvent inclure des objets cosmetiques, outils ameliores, recompenses d'evenement ou objets lies a des quetes. Aucun item precis n'est confirme dans le depot.
-- [Mobs custom](https://heavencube.github.io/wiki/survie/mobs-custom.md): Les mobs custom peuvent changer l'exploration et le combat avec des creatures, drops ou comportements speciaux. Cette page reste volontairement prudente tant que la configuration n'est pas confirmee.
-- [Pack de ressources](https://heavencube.github.io/wiki/survie/pack-ressources.md): Le pack de ressources peut ameliorer l'affichage des items, menus, sons ou textures du serveur. Cette page explique comment l'activer et quoi verifier.
+- [Protéger son terrain](https://heavencube.github.io/wiki/survie/claims.md): Découvrez comment réserver une zone et gérer les accès des autres joueurs.
+- [Comprendre les grades](https://heavencube.github.io/wiki/survie/grades.md): Découvrez les paliers de progression et les avantages confirmés de chaque grade.
+- [Suivre les quêtes](https://heavencube.github.io/wiki/survie/quetes.md): Comprenez comment choisir un objectif, suivre sa progression et récupérer une récompense.
+- [Choisir un métier](https://heavencube.github.io/wiki/survie/metiers.md): Découvrez comment rejoindre un métier et suivre sa progression.
+- [Comprendre l’économie](https://heavencube.github.io/wiki/survie/economie.md): Découvrez la monnaie du serveur, les échanges et les méthodes d’achat et de vente.
+- [Utiliser les téléportations publiques](https://heavencube.github.io/wiki/survie/pwarps.md): Visitez les lieux publics créés par les joueurs et préparez votre propre point de téléportation.
+- [Découvrir la pêche](https://heavencube.github.io/wiki/survie/peche.md): Comprenez les éventuelles prises spéciales, leur utilité et les activités liées à la pêche.
+- [Participer aux événements](https://heavencube.github.io/wiki/survie/evenements.md): Trouvez les annonces, préparez-vous et rejoignez les animations du serveur.
+- [Consulter les classements](https://heavencube.github.io/wiki/survie/classements.md): Comprenez les catégories classées, leur calcul et leur période de mise à jour.
+- [Reconnaître les objets spéciaux](https://heavencube.github.io/wiki/survie/items-speciaux.md): Identifiez leur origine, leur effet et les précautions à prendre avant un échange.
+- [Affronter les créatures personnalisées](https://heavencube.github.io/wiki/survie/mobs-custom.md): Identifiez les créatures spéciales, leurs zones et les précautions de combat.
+- [Installer le pack de ressources](https://heavencube.github.io/wiki/survie/pack-ressources.md): Activez les textures et les sons utilisés par HeavenCube et résolvez les problèmes courants.
+
+## Aide et liens utiles
+
+- [Rejoindre le Discord HeavenCube](https://heavencube.github.io/wiki/utilitaire/discord.md): Suivez les annonces, échangez avec la communauté et contactez l’équipe.
+- [Utiliser la boutique officielle](https://heavencube.github.io/wiki/utilitaire/boutique.md): Vérifiez les offres, les conditions et la procédure d’aide liée aux achats.
+- [Voter pour HeavenCube](https://heavencube.github.io/wiki/utilitaire/vote.md): Utilisez les sites officiels de vote et vérifiez la réception des récompenses annoncées.
+- [Contacter le support](https://heavencube.github.io/wiki/utilitaire/support.md): Préparez une demande claire pour obtenir de l’aide auprès de l’équipe HeavenCube.
 
 ## Contributeurs
 
-- [Contribuer au wiki](https://heavencube.github.io/wiki/contributeurs/contribuer.md): Cette page explique comment proposer une correction ou une nouvelle page pour garder le wiki HeavenCube clair, fiable et utile aux joueurs.
-- [Guide de style du wiki](https://heavencube.github.io/wiki/contributeurs/style-guide.md): Le guide de style garde les pages coherentes, faciles a lire et utiles aux joueurs, meme quand plusieurs personnes contribuent.
-
-## Utilitaire
-
-- [Discord HeavenCube](https://heavencube.github.io/wiki/utilitaire/discord.md): Le Discord sert a suivre les annonces, demander de l'aide, participer aux evenements et garder le contact avec la communaute.
-- [Boutique](https://heavencube.github.io/wiki/utilitaire/boutique.md): La boutique peut proposer des avantages, cosmetiques ou soutiens au serveur. Cette page doit rester transparente sur ce qui est officiel, payant et confirme.
-- [Vote](https://heavencube.github.io/wiki/utilitaire/vote.md): Le vote aide HeavenCube a gagner en visibilite et peut donner des recompenses aux joueurs. Les liens et recompenses doivent etre confirmes.
-- [Support](https://heavencube.github.io/wiki/utilitaire/support.md): Le support aide a resoudre les problemes de connexion, bugs, achats, signalements et questions de jeu. Une demande claire permet une reponse plus rapide.
+- [Contribuer au wiki](https://heavencube.github.io/wiki/contributeurs/contribuer.md): Proposez une correction fiable et vérifiez son rendu avant publication.
+- [Guide de style du wiki](https://heavencube.github.io/wiki/contributeurs/style-guide.md): Rédigez des pages cohérentes, accessibles et compatibles avec Retype.
