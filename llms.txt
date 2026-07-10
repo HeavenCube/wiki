@@ -6,8 +6,8 @@
 - [Rejoindre HeavenCube](https://heavencube.github.io/wiki/rejoindre.md): Cette page explique comment rejoindre HeavenCube proprement, verifier les prerequis et savoir quoi faire lors de ta premiere connexion.
 - [Premiers pas sur HeavenCube](https://heavencube.github.io/wiki/premiers-pas.md): Cette page t'accompagne pendant tes premieres minutes sur le serveur : comprendre le spawn, choisir une activite, securiser ton depart et savoir ou demander de l'aide.
 - [Reglements de HeavenCube](https://heavencube.github.io/wiki/reglements.md): Les reglements protegent l'ambiance, les constructions et le temps de jeu de chacun. Cette page pose une base claire, a completer avec les regles officielles confirmees par l'equipe.
-- [Mode Survie](https://heavencube.github.io/wiki/survie/index.md): Le mode Survie regroupe la progression principale : exploration, protection de terrain, economie, metiers, quetes, evenements et fonctionnalites speciales.
-- [Mode Creatif](https://heavencube.github.io/wiki/creatif/index.md): Le mode Creatif est pense pour construire, tester des idees et preparer des projets sans la pression de la survie. Les commandes et limites exactes restent a confirmer.
+- [Mode Survie](https://heavencube.github.io/wiki/survie/readme.md): Le mode Survie regroupe la progression principale : exploration, protection de terrain, economie, metiers, quetes, evenements et fonctionnalites speciales.
+- [Mode Creatif](https://heavencube.github.io/wiki/creatif/readme.md): Le mode Creatif est pense pour construire, tester des idees et preparer des projets sans la pression de la survie. Les commandes et limites exactes restent a confirmer.
 
 ## Survie
 
