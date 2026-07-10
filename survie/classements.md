@@ -1,71 +1,73 @@
 ---
 label: Classements
+title: Consulter les classements
+description: Comprenez les catégories classées, leur calcul et leur période de mise à jour.
 icon: trophy
-order: 51
+order: 510
 ---
 
-# Classements
+# Consulter les classements
 
-Les classements mettent en avant la progression, l'activite ou les performances des joueurs. Cette page indique comment les consulter et les comprendre.
+Un classement compare une statistique entre joueurs, par exemple une progression, un nombre de votes ou une performance d’événement. Chaque catégorie doit expliquer précisément ce qu’elle mesure.
 
-[!badge text="Competition" variant="primary" icon="trophy"]
-[!badge text="Categories a confirmer" variant="warning" icon="alert"]
-
-## Prerequis
-
-- [ ] Connaitre les categories classees. **TODO : confirmer.**
-- [ ] Comprendre les regles anti-abus.
-- [ ] Verifier la frequence de mise a jour. **TODO : confirmer.**
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/baltop` | Classement des soldes. | [!badge A confirmer\|warning] |
-| `/jobs top` | Classement des metiers. | [!badge A confirmer\|warning] |
-| `/playtime top` | Classement du temps de jeu. | [!badge A confirmer\|warning] |
-| `/fish top` | Classement de peche. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Choisir une categorie
-Identifie le classement qui correspond a ton objectif : economie, metiers, votes, peche, evenements ou temps de jeu.
-
->>> Lire la methode de calcul
-Verifie si le classement est instantane, journalier, saisonnier ou permanent.
-
->>> Progresser proprement
-Respecte les limites serveur et evite les methodes d'exploitation.
-
->>> Suivre les annonces
-Certains classements peuvent etre remis a zero pendant une saison ou un evenement.
->>>
-
-## Conseils pratiques
-
-!!!tip Jouer sur la duree
-Un classement durable se gagne souvent avec de la regularite plutot qu'une seule session intense.
+!!!warning Catégories à confirmer
+Les classements disponibles, leur méthode de calcul et leurs récompenses ne sont pas encore documentés.
 !!!
 
-## FAQ
+## Prérequis
 
-!!!question Les classements donnent-ils des recompenses ?
-**TODO : confirmer les recompenses, periodes et conditions.**
+- Identifier `[LISTE DES CATÉGORIES DE CLASSEMENT]`.
+- Lire la période et la méthode de calcul de chaque catégorie.
+- Respecter les règles contre les automatisations et exploitations interdites.
+
+## Accéder aux classements
+
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir tous les classements | `[COMMANDE OU MENU DES CLASSEMENTS]` |
+| Consulter une catégorie | `[COMMANDE OU MÉTHODE DE SÉLECTION D’UN CLASSEMENT]` |
+| Voir sa propre position | `[COMMANDE DE POSITION PERSONNELLE]` |
+
+## Guide étape par étape
+
+1. Choisissez une catégorie.
+2. Vérifiez si elle est permanente, saisonnière ou liée à un événement.
+3. Lisez ce qui augmente réellement le score.
+4. Consultez la date de prochaine mise à jour.
+5. Signalez toute valeur manifestement anormale au support.
+
+## Tableau des catégories
+
+| Catégorie | Statistique mesurée | Période | Récompense |
+| --- | --- | --- | --- |
+| `[NOM DU PREMIER CLASSEMENT]` | `[MÉTHODE DE CALCUL DU PREMIER CLASSEMENT]` | `[PÉRIODE DU PREMIER CLASSEMENT]` | `[RÉCOMPENSE DU PREMIER CLASSEMENT]` |
+| `[NOM DU DEUXIÈME CLASSEMENT]` | `[MÉTHODE DE CALCUL DU DEUXIÈME CLASSEMENT]` | `[PÉRIODE DU DEUXIÈME CLASSEMENT]` | `[RÉCOMPENSE DU DEUXIÈME CLASSEMENT]` |
+
+## Erreurs fréquentes
+
+- Comparer deux scores provenant de périodes différentes.
+- Croire qu’un classement donne une récompense sans annonce officielle.
+- Exploiter un comportement anormal pour augmenter sa position.
+
+## Questions fréquentes
+
+!!!question Quand les classements sont-ils mis à jour ?
+La fréquence est `[FRÉQUENCE DE MISE À JOUR DES CLASSEMENTS]`.
 !!!
 
-!!!question Peut-on etre retire d'un classement ?
-**TODO : confirmer les sanctions en cas d'abus ou de bug exploit.**
+!!!question Quand sont-ils remis à zéro ?
+La règle est `[CALENDRIER DE REMISE À ZÉRO DES CLASSEMENTS]`.
 !!!
 
-!!!question Les statistiques sont-elles publiques ?
-**TODO : confirmer si les stats sont visibles en jeu, sur le site ou sur Discord.**
+!!!question Où signaler un score anormal ?
+Envoyez la catégorie, le pseudonyme et une capture à la page [Support](../utilitaire/support.md).
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Metiers](metiers.md)
-- [Economie](economie.md)
-- [Peche](peche.md)
-- [Evenements](evenements.md)
+- [Métiers](metiers.md)
+- [Pêche](peche.md)
+- [Événements](evenements.md)
+- [Vote](../utilitaire/vote.md)
 
 [!backlinks]

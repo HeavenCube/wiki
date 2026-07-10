@@ -1,29 +1,16 @@
 /
-├─ readme.md
+├─ README.md
 ├─ rejoindre.md
 ├─ premiers-pas.md
 ├─ reglements.md
 ├─ survie/
-│  ├─ index.md
-│  ├─ claims.md
-│  ├─ grades.md
-│  ├─ quetes.md
-│  ├─ metiers.md
-│  ├─ economie.md
-│  ├─ pwarps.md
-│  ├─ peche.md
-│  ├─ evenements.md
-│  ├─ classements.md
-│  ├─ items-speciaux.md
-│  ├─ mobs-custom.md
-│  └─ pack-ressources.md
+│  ├─ README.md
+│  └─ [pages des fonctionnalités]
 ├─ creatif/
-│  └─ index.md
+│  └─ README.md
 ├─ utilitaire/
-│  ├─ discord.md
-│  ├─ boutique.md
-│  ├─ vote.md
-│  └─ support.md
+│  ├─ README.md
+│  └─ [pages d’aide]
 └─ contributeurs/
-   ├─ contribuer.md
-   └─ style-guide.md
+   ├─ README.md
+   └─ [guides de contribution]

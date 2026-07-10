@@ -1,76 +1,82 @@
 ---
-label: Items speciaux
+label: Objets spéciaux
+title: Reconnaître les objets spéciaux
+description: Identifiez leur origine, leur effet et les précautions à prendre avant un échange.
 icon: diamond
-order: 50
+order: 500
 ---
 
-# Items speciaux
+# Reconnaître les objets spéciaux
 
-Les items speciaux peuvent inclure des objets cosmetiques, outils ameliores, recompenses d'evenement ou objets lies a des quetes. Aucun item precis n'est confirme dans le depot.
+Un objet spécial se distingue d’un objet Minecraft habituel par son nom, sa description, son apparence ou son effet. Il peut provenir d’une quête, d’un événement, d’un vote ou d’un autre système confirmé.
 
-[!badge text="Objets" variant="primary" icon="diamond"]
-[!badge text="Liste a completer" variant="warning" icon="alert"]
+!!!warning Catalogue à renseigner
+Aucun nom d’objet, effet, taux d’obtention ou prix n’est confirmé dans le dépôt actuel.
+!!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Savoir d'ou vient l'objet : quete, evenement, boutique, vote, craft ou drop.
-- [ ] Verifier s'il est echangeable.
-- [ ] Lire les regles contre la duplication et l'exploitation de bugs.
+- Lire entièrement la description de l’objet.
+- Vérifier son origine dans une source officielle.
+- Le ranger dans une [zone protégée](claims.md) avant de chercher sa valeur.
 
-## Commandes utiles
+## Accéder aux informations
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/items` | Ouvrir un menu d'items speciaux. | [!badge A confirmer\|warning] |
-| `/rewards` | Voir des recompenses disponibles. | [!badge A confirmer\|warning] |
-| `/kit` | Recuperer certains objets de grade. | [!badge A confirmer\|warning] |
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Ouvrir le catalogue | `[COMMANDE OU MENU DU CATALOGUE D’OBJETS]` |
+| Consulter ses récompenses | `[COMMANDE OU MENU DES RÉCOMPENSES]` |
+| Vérifier un objet | `[MÉTHODE OFFICIELLE D’IDENTIFICATION D’UN OBJET]` |
 
-## Guide etape par etape
+## Guide étape par étape
 
->>> Identifier l'objet
-Lis son nom, sa description, ses enchantements et sa provenance.
+1. Notez le nom exact et la description de l’objet.
+2. Comparez-les au catalogue officiel.
+3. Vérifiez s’il est échangeable, réparable ou lié à votre compte.
+4. Avant une vente, utilisez un système d’échange sécurisé s’il existe.
+5. Signalez immédiatement toute duplication ou disparition anormale.
 
->>> Verifier sa valeur
-Demande confirmation avant de vendre ou echanger un objet rare.
+<!--
+IMAGE À AJOUTER
 
->>> Stocker en securite
-Place les objets importants dans une zone protegee par [claim](claims.md).
+Sujet : exemple réel d’un objet spécial avec son nom et sa description visibles dans l’inventaire
+Fichier recommandé : assets/images/exemple-objet-special.webp
+Dimensions recommandées : 1000 × 1000 px
+Format recommandé : WebP
+Texte alternatif : Description d’un objet spécial de HeavenCube dans un inventaire Minecraft
+-->
+<!-- ![Exemple d’objet spécial](assets/images/exemple-objet-special.webp) -->
 
->>> Signaler un bug
-Si l'objet se duplique, disparait ou contourne une limite, contacte le [support](../utilitaire/support.md).
->>>
+## Catalogue
 
-## Catalogue a completer
-
-| Objet | Source | Effet | Echangeable | Statut |
+| Objet | Origine | Effet | Échangeable | Réparable |
 | --- | --- | --- | --- | --- |
-| TODO | TODO | TODO | TODO | [!badge A completer\|warning] |
+| `[NOM DU PREMIER OBJET SPÉCIAL]` | `[ORIGINE DU PREMIER OBJET SPÉCIAL]` | `[EFFET DU PREMIER OBJET SPÉCIAL]` | `[OUI OU NON]` | `[OUI OU NON]` |
 
-## Conseils pratiques
+## Erreurs fréquentes
 
-!!!tip Avant un echange
-Fais les echanges dans un systeme securise si le serveur en propose un. Evite les transactions au sol pour les objets rares.
+- Vendre un objet rare sans vérifier son usage.
+- Tester un effet inconnu avec un équipement précieux.
+- Réaliser un échange en jetant les objets au sol.
+
+## Questions fréquentes
+
+!!!question Peut-on perdre ces objets à la mort ?
+Le comportement de l’inventaire est `[RÈGLE DE CONSERVATION DES OBJETS À LA MORT]`.
 !!!
 
-## FAQ
-
-!!!question Les items speciaux peuvent-ils etre repares ?
-**TODO : confirmer les regles de reparation, enchantement et destruction.**
+!!!question Peut-on les réparer ou les enchanter ?
+Les règles sont `[RÈGLES DE RÉPARATION ET D’ENCHANTEMENT DES OBJETS SPÉCIAUX]`.
 !!!
 
-!!!question Peut-on les perdre a la mort ?
-**TODO : confirmer le comportement de l'inventaire et des drops.**
+!!!question Certains objets sont-ils liés au compte ?
+La liste est `[LISTE DES OBJETS LIÉS AU COMPTE OU NON ÉCHANGEABLES]`.
 !!!
 
-!!!question Certains objets sont-ils interdits a la vente ?
-**TODO : confirmer la liste des objets lies au compte ou non echangeables.**
-!!!
+## Pages associées
 
-## Pages liees
-
-- [Quetes](quetes.md)
-- [Evenements](evenements.md)
+- [Quêtes](quetes.md)
+- [Événements](evenements.md)
 - [Boutique](../utilitaire/boutique.md)
-- [Claims](claims.md)
 
 [!backlinks]

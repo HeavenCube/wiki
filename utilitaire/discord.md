@@ -1,73 +1,82 @@
 ---
 label: Discord
+title: Rejoindre le Discord HeavenCube
+description: Suivez les annonces, échangez avec la communauté et contactez l’équipe.
 icon: comment-discussion
-order: 30
+order: 290
 ---
 
-# Discord HeavenCube
+# Rejoindre le Discord HeavenCube
 
-Le Discord sert a suivre les annonces, demander de l'aide, participer aux evenements et garder le contact avec la communaute.
+Discord est un service de discussion séparé de Minecraft. Le serveur Discord de HeavenCube peut réunir les annonces, l’aide, les événements et les échanges de la communauté.
 
-[!badge text="Communaute" variant="primary" icon="people"]
-[!badge text="Lien a confirmer" variant="warning" icon="link"]
-
-!!!warning Lien a verifier
-Le fichier `retype.yml` contient `https://discord.heavencube.fr`. **TODO : confirmer que ce lien est l'invitation officielle et actuelle.**
+!!!warning Lien et procédure à confirmer
+Le lien d’invitation, les salons disponibles et l’éventuelle liaison avec le compte Minecraft doivent être validés.
 !!!
 
-## Prerequis
+## Prérequis
 
-- [ ] Avoir un compte Discord.
-- [ ] Lire les regles du serveur Discord.
-- [ ] Verifier si une liaison Minecraft-Discord est necessaire. **TODO : confirmer.**
+- Posséder un compte Discord.
+- Lire les règles affichées à l’arrivée.
+- Ne jamais communiquer son mot de passe ou son code de connexion.
 
-## Commandes utiles
+## Accéder au Discord
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/discord` | Obtenir le lien Discord en jeu. | [!badge A confirmer\|warning] |
-| `/link` | Lier son compte Minecraft a Discord. | [!badge A confirmer\|warning] |
+| Information | Valeur officielle |
+| --- | --- |
+| Invitation | `[LIEN DISCORD OFFICIEL]` |
+| Commande en jeu | `[COMMANDE DU DISCORD]` |
+| Liaison avec Minecraft | `[PROCÉDURE DE LIAISON MINECRAFT ET DISCORD]` |
+| Salon d’aide | `[NOM DU SALON D’AIDE]` |
 
-## Guide etape par etape
+## Guide étape par étape
 
->>> Recuperer le lien
-Utilise le lien officiel du site, du jeu ou de l'equipe. N'utilise pas d'invitation non verifiee.
+1. Ouvrez uniquement le lien publié par HeavenCube.
+2. Acceptez l’invitation et lisez les salons d’accueil.
+3. Effectuez la vérification demandée, le cas échéant.
+4. Liez votre compte Minecraft uniquement avec la procédure officielle.
+5. Choisissez le salon correspondant à votre question.
 
->>> Lire les salons d'accueil
-Consulte les regles, annonces et informations utiles.
+<!--
+IMAGE À AJOUTER
 
->>> Lier son compte si demande
-Suis la procedure officielle. **TODO : ajouter les etapes de liaison.**
+Sujet : vue des salons d’accueil et d’aide du Discord officiel HeavenCube sans données personnelles
+Fichier recommandé : assets/images/discord-accueil.webp
+Dimensions recommandées : 1200 × 675 px
+Format recommandé : WebP
+Texte alternatif : Salons d’accueil et d’aide du Discord HeavenCube
+-->
+<!-- ![Salons d’accueil du Discord HeavenCube](assets/images/discord-accueil.webp) -->
 
->>> Demander de l'aide au bon endroit
-Utilise les salons dedies plutot que les messages prives non sollicites.
->>>
+## Préparer un bon message
 
-## Conseils pratiques
+Indiquez votre pseudonyme Minecraft, le problème rencontré, l’heure approximative et ce que vous avez déjà essayé. Ajoutez une capture uniquement si elle ne révèle aucune donnée sensible.
 
-!!!tip Message efficace
-Pour une demande d'aide, indique ton pseudo Minecraft, le probleme, l'heure approximative et une capture si possible.
-!!!
+## Erreurs fréquentes
 
-## FAQ
+- Utiliser une invitation non vérifiée.
+- Envoyer plusieurs messages identiques dans différents salons.
+- Contacter un membre de l’équipe en privé sans y avoir été invité.
+
+## Questions fréquentes
 
 !!!question Le Discord est-il obligatoire ?
-**TODO : confirmer s'il est obligatoire pour jouer, voter, recevoir des annonces ou demander du support.**
+Son statut est `[OBLIGATOIRE OU FACULTATIF POUR JOUER]`.
 !!!
 
-!!!question Comment recuperer mes roles ?
-**TODO : confirmer la liaison compte, les roles automatiques et les roles de grades.**
+!!!question Comment obtenir mes rôles ?
+Suivez `[PROCÉDURE D’ATTRIBUTION DES RÔLES DISCORD]`.
 !!!
 
-!!!question Ou signaler un joueur ?
-Consulte [Support](support.md). **TODO : confirmer le canal officiel de signalement.**
+!!!question Où signaler un joueur ?
+Utilisez `[SALON OU PROCÉDURE DE SIGNALEMENT SUR DISCORD]` après avoir consulté le [règlement](../reglements.md).
 !!!
 
-## Pages liees
+## Pages associées
 
+- [Aide et liens utiles](README.md)
 - [Support](support.md)
-- [Evenements](../survie/evenements.md)
-- [Vote](vote.md)
-- [Reglements](../reglements.md)
+- [Événements](../survie/evenements.md)
+- [Règlement](../reglements.md)
 
 [!backlinks]

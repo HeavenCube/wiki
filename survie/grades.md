@@ -1,78 +1,84 @@
 ---
 label: Grades
+title: Comprendre les grades
+description: Découvrez les paliers de progression et les avantages confirmés de chaque grade.
 icon: star
-order: 58
+order: 580
 ---
 
-# Grades
+# Comprendre les grades
 
-Les grades structurent souvent la progression et les avantages d'un serveur. Cette page prepare la documentation officielle sans inventer les paliers.
+Un grade est un palier attribué à un joueur. Selon la configuration du serveur, il peut représenter une progression en jeu, un soutien au serveur ou un rôle particulier. Ces catégories ne doivent pas être confondues.
 
-[!badge text="Progression" variant="primary" icon="graph"]
-[!badge text="Avantages a confirmer" variant="warning" icon="alert"]
-
-## Prerequis
-
-- [ ] Comprendre les bases du mode [Survie](index.md).
-- [ ] Connaitre les criteres officiels des grades. **TODO : ajouter la liste.**
-- [ ] Verifier si certains avantages sont lies a la [boutique](../utilitaire/boutique.md).
-
-## Commandes utiles
-
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/rankup` | Passer au grade suivant. | [!badge A confirmer\|warning] |
-| `/ranks` | Voir les grades disponibles. | [!badge A confirmer\|warning] |
-| `/kit` | Recuperer un kit de grade. | [!badge A confirmer\|warning] |
-| `/perks` | Voir les avantages. | [!badge A confirmer\|warning] |
-
-## Guide etape par etape
-
->>> Consulter les grades
-Ouvre le menu ou la commande officielle des grades. **TODO : confirmer la methode.**
-
->>> Lire les conditions
-Note les conditions : argent, quetes, temps de jeu, metiers, votes ou objectifs specifiques.
-
->>> Preparer les ressources
-Avance progressivement sans depenser toutes tes ressources si un cout de passage existe.
-
->>> Valider le passage
-Utilise la commande officielle et verifie les nouveaux avantages.
->>>
-
-## Tableau a completer
-
-| Grade | Conditions | Avantages | Statut |
-| --- | --- | --- | --- |
-| TODO | TODO : nom du grade | TODO : permissions, kits, homes, claims | [!badge A completer\|warning] |
-| TODO | TODO : nom du grade | TODO : permissions, kits, homes, claims | [!badge A completer\|warning] |
-
-## Conseils pratiques
-
-!!!tip Comparer avant d'acheter
-Si un grade coute de l'argent en jeu ou depend d'un achat, compare ses avantages avec tes besoins reels : homes, claims, pwarps, commandes, cosmetiques.
+!!!warning Liste officielle manquante
+Les noms, conditions, coûts et avantages des grades doivent être fournis par l’équipe HeavenCube.
 !!!
 
-## FAQ
+## Prérequis
+
+- Identifier le type de grade concerné : `[TYPES DE GRADES DISPONIBLES]`.
+- Lire chaque condition avant de dépenser de la monnaie ou d’effectuer un achat.
+- Vérifier si l’avantage est permanent ou temporaire.
+
+## Accéder aux grades
+
+| Besoin | Commande ou méthode officielle |
+| --- | --- |
+| Voir tous les grades | `[COMMANDE OU MENU DES GRADES]` |
+| Voir sa progression | `[COMMANDE DE PROGRESSION DU GRADE]` |
+| Passer au grade suivant | `[COMMANDE DE PASSAGE AU GRADE SUIVANT]` |
+| Consulter les avantages | `[COMMANDE OU PAGE DES AVANTAGES]` |
+
+## Guide étape par étape
+
+1. Ouvrez `[NOM DU MENU DES GRADES]`.
+2. Choisissez un grade et lisez toutes ses conditions.
+3. Vérifiez son coût, sa durée et les avantages réellement inclus.
+4. Préparez les ressources demandées sans vider complètement votre solde.
+5. Confirmez le passage, puis contrôlez les nouvelles permissions.
+
+<!--
+IMAGE À AJOUTER
+
+Sujet : menu Minecraft présentant les grades, leurs conditions et leurs avantages
+Fichier recommandé : assets/images/menu-grades.webp
+Dimensions recommandées : 1000 × 1000 px
+Format recommandé : WebP
+Texte alternatif : Menu des grades et de leur progression sur HeavenCube
+-->
+<!-- ![Menu des grades](assets/images/menu-grades.webp) -->
+
+## Tableau des grades
+
+| Grade | Type | Condition | Avantages | Durée |
+| --- | --- | --- | --- | --- |
+| `[NOM DU PREMIER GRADE]` | `[TYPE DU PREMIER GRADE]` | `[CONDITION DU PREMIER GRADE]` | `[AVANTAGES DU PREMIER GRADE]` | `[DURÉE DU PREMIER GRADE]` |
+| `[NOM DU DEUXIÈME GRADE]` | `[TYPE DU DEUXIÈME GRADE]` | `[CONDITION DU DEUXIÈME GRADE]` | `[AVANTAGES DU DEUXIÈME GRADE]` | `[DURÉE DU DEUXIÈME GRADE]` |
+
+## Erreurs fréquentes
+
+- Confondre un grade obtenu en jeu avec une offre de la boutique.
+- Acheter avant d’avoir vérifié la durée et le pseudonyme destinataire.
+- Supposer qu’un avantage connu sur un autre serveur existe ici.
+
+## Questions fréquentes
 
 !!!question Les grades sont-ils gratuits ?
-**TODO : confirmer la difference entre grades de progression, grades boutique et roles Discord.**
+La répartition officielle est `[DIFFÉRENCE ENTRE GRADES GRATUITS ET PAYANTS]`.
 !!!
 
-!!!question Perd-on un grade ?
-**TODO : confirmer les conditions de retrait, expiration ou sanction.**
+!!!question Un grade peut-il expirer ?
+La durée et les conditions de retrait sont `[DURÉE ET CONDITIONS DE RETRAIT DES GRADES]`.
 !!!
 
-!!!question Les avantages influencent-ils l'economie ?
-**TODO : confirmer les limites pour eviter les avantages trop importants.**
+!!!question Où demander de l’aide après un achat ?
+Conservez la preuve de paiement et consultez la page [Support](../utilitaire/support.md).
 !!!
 
-## Pages liees
+## Pages associées
 
-- [Economie](economie.md)
+- [Économie](economie.md)
 - [Boutique](../utilitaire/boutique.md)
-- [Vote](../utilitaire/vote.md)
-- [Claims](claims.md)
+- [Protections de terrain](claims.md)
 
 [!backlinks]

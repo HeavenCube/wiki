@@ -9,8 +9,8 @@ start:
 branding:
   title: HeavenCube
   label: Wiki
-  logo: assets/images/logo.png
-  logoDark: assets/images/logo.png
+  # logo: assets/images/[LOGO À AJOUTER]
+  # logoDark: assets/images/[LOGO SOMBRE À AJOUTER]
 
 locale: fr
 

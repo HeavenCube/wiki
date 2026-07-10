@@ -1,88 +1,102 @@
 ---
 label: Rejoindre
+title: Rejoindre HeavenCube
+description: Préparez Minecraft et ajoutez HeavenCube à votre liste de serveurs.
 icon: sign-in
-order: 90
+order: 900
 ---
 
 # Rejoindre HeavenCube
 
-Cette page explique comment rejoindre HeavenCube proprement, verifier les prerequis et savoir quoi faire lors de ta premiere connexion.
+Ce guide vous accompagne depuis le choix de la bonne version de Minecraft jusqu’à votre première connexion. Aucune connaissance technique n’est nécessaire.
 
-[!badge text="Debutant" variant="success" icon="person"]
-[!badge text="Connexion" variant="primary" icon="plug"]
-
-!!!warning Informations a confirmer
-**TODO : confirmer l'adresse IP, le port, la version Minecraft, le support Java/Bedrock et la presence d'une whitelist.**
+!!!warning Informations à confirmer
+L’adresse, la version compatible, les éditions acceptées et le statut du pack de ressources doivent encore être vérifiés par l’équipe.
 !!!
 
-## Prerequis
+## Informations de connexion
 
-- [ ] Posseder une copie de Minecraft compatible avec le serveur.
-- [ ] Utiliser la version officielle indiquee par l'equipe. **TODO : confirmer la version.**
-- [ ] Avoir une connexion stable.
-- [ ] Lire les [reglements](reglements.md).
+| Information | Valeur |
+| --- | --- |
+| Adresse du serveur | `[ADRESSE DU SERVEUR]` |
+| Port Bedrock | `[PORT BEDROCK SI APPLICABLE]` |
+| Version Minecraft | `[VERSION COMPATIBLE]` |
+| Édition | `[JAVA / BEDROCK / LES DEUX]` |
+| Liste blanche | `[AVEC OU SANS LISTE BLANCHE]` |
+| Pack de ressources | `[OBLIGATOIRE / RECOMMANDÉ / FACULTATIF]` |
+
+## Prérequis
+
+- [ ] Posséder Minecraft dans une édition acceptée par le serveur.
+- [ ] Installer la version compatible indiquée ci-dessus.
+- [ ] Disposer d’un compte Minecraft valide et d’une connexion stable.
+- [ ] Lire le [règlement](reglements.md).
+
+## Ajouter le serveur
+
++++ Édition Java
+1. Ouvrez Minecraft avec la version `[VERSION COMPATIBLE]`.
+2. Sélectionnez **Multijoueur**, puis **Ajouter un serveur**.
+3. Saisissez `HeavenCube` comme nom et `[ADRESSE DU SERVEUR]` comme adresse.
+4. Enregistrez, puis sélectionnez HeavenCube dans la liste.
++++ Édition Bedrock
+1. Ouvrez l’onglet **Serveurs**, puis ajoutez un serveur externe si votre plateforme le permet.
+2. Saisissez `[ADRESSE BEDROCK]` et `[PORT BEDROCK]`.
+3. Enregistrez, puis lancez la connexion.
+
+**[CONFIRMER QUE L’ÉDITION BEDROCK EST ACCEPTÉE AVANT DE PUBLIER CET ONGLET]**
++++
+
+<!--
+IMAGE À AJOUTER
+
+Sujet : écran Minecraft permettant d’ajouter HeavenCube à la liste des serveurs
+Fichier recommandé : assets/images/ajouter-serveur-heavencube.webp
+Dimensions recommandées : 1200 × 675 px
+Format recommandé : WebP
+Texte alternatif : Formulaire Minecraft pour ajouter l’adresse du serveur HeavenCube
+-->
+<!-- ![Ajouter HeavenCube dans Minecraft](assets/images/ajouter-serveur-heavencube.webp) -->
+
+## Après la connexion
+
+1. Attendez que le monde et les éventuels éléments du pack de ressources soient chargés.
+2. Lisez les messages affichés à l’écran ou dans le chat.
+3. Repérez le point d’accueil et les indications destinées aux nouveaux joueurs.
+4. Ouvrez le guide [Premiers pas](premiers-pas.md) pour poursuivre.
 
 ## Commandes utiles
 
-| Commande | Role | Statut |
-| --- | --- | --- |
-| `/spawn` | Revenir au point de depart apres connexion. | [!badge A confirmer\|warning] |
-| `/help` | Afficher l'aide disponible en jeu. | [!badge A confirmer\|warning] |
-| `/rules` | Lire les regles depuis le jeu. | [!badge A confirmer\|warning] |
-| `/discord` | Recuperer le lien Discord. | [!badge A confirmer\|warning] |
+| Besoin | Commande officielle |
+| --- | --- |
+| Afficher l’aide en jeu | `[COMMANDE D’AIDE EN JEU]` |
+| Revenir au point d’accueil | `[COMMANDE DE RETOUR AU POINT D’ACCUEIL]` |
+| Lire les règles | `[COMMANDE DU RÈGLEMENT]` |
+| Obtenir le lien Discord | `[COMMANDE DU DISCORD]` |
 
-## Guide etape par etape
+## Erreurs fréquentes
 
->>> Verifier la version
-Avant d'ajouter le serveur, verifie la version Minecraft demandee par l'equipe. Si tu utilises un launcher avec profils, cree un profil dedie a HeavenCube.
-
->>> Ajouter le serveur
-Dans Minecraft, ouvre `Multijoueur`, puis `Ajouter un serveur`. Renseigne le nom `HeavenCube` et l'adresse officielle.
-
-!!!warning Adresse manquante
-**TODO : ajouter l'adresse officielle du serveur Minecraft.**
+!!!danger Adresse ou version incorrecte
+Si Minecraft refuse la connexion, vérifiez d’abord chaque caractère de l’adresse et la version lancée. Ne testez pas des adresses trouvées sur des sites non officiels.
 !!!
 
->>> Se connecter
-Lance la connexion, lis les messages d'accueil et note les commandes affichees. Ne ferme pas les menus d'aide trop vite lors de la premiere connexion.
-
->>> Continuer avec les bases
-Passe ensuite a [Premiers pas](premiers-pas.md) pour comprendre les premiers objectifs.
->>>
-
-## Conseils pratiques
-
-+++ Java
-- Verifie que tes mods client sont autorises avant de te connecter.
-- Si le serveur utilise un pack de ressources, consulte [Pack de ressources](survie/pack-ressources.md).
-+++ Bedrock
-- **TODO : confirmer si HeavenCube accepte les connexions Bedrock.**
-- Si Bedrock est supporte, ajouter le port officiel ici.
-+++
-
-!!!tip Premiere session
-Prends quelques minutes pour lire le chat, les panneaux ou les menus du spawn. Les serveurs donnent souvent des indications utiles directement en jeu.
+!!!question Le serveur n’apparaît pas en ligne. Que faire ?
+Vérifiez votre connexion et les annonces officielles. Si le problème persiste, préparez une demande sur la page [Support](utilitaire/support.md).
 !!!
 
-## FAQ
-
-!!!question Je n'arrive pas a me connecter, que faire ?
-Verifie l'adresse, la version, ton compte Minecraft et ta connexion. Si le probleme continue, contacte le [support](utilitaire/support.md).
-!!!
-
-!!!question Le serveur a-t-il une whitelist ?
-**TODO : confirmer si une whitelist existe et expliquer comment demander l'acces.**
+!!!question Dois-je installer des mods ?
+`[MODS NÉCESSAIRES OU AUCUN MOD REQUIS]`. N’installez aucun fichier qui ne provient pas d’une source validée par l’équipe.
 !!!
 
 !!!question Le pack de ressources est-il obligatoire ?
-**TODO : confirmer le caractere obligatoire ou facultatif du pack.** Voir [Pack de ressources](survie/pack-ressources.md).
+Son statut est `[OBLIGATOIRE / RECOMMANDÉ / FACULTATIF]`. Consultez aussi la page [Pack de ressources](survie/pack-ressources.md).
 !!!
 
-## Pages liees
+## Pages associées
 
+- [Accueil](README.md)
 - [Premiers pas](premiers-pas.md)
-- [Reglements](reglements.md)
-- [Discord](utilitaire/discord.md)
+- [Règlement](reglements.md)
 - [Support](utilitaire/support.md)
 
 [!backlinks]
